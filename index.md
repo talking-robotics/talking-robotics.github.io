@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-
-
-[Link to another page](./another-page.html).
-
-
 # Organization
 Organized by Patrícia Alves Oliveira, Silvia Tulli, Miguel Vasco, Joana Campos
 
@@ -15,6 +10,7 @@ The sessions are once every two weeks and are in the form of round-table discuss
 
 
 ## Paper Schedule
+## [download our google calendar](https://calendar.google.com/calendar/ical/talkingrobotics%40gmail.com/public/basic.ics)
 ### 4th of September 2020
 *   Michael Jae-Yoon Chung, Maya Cakmak (2020). **Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference** Robotics: Science and Systems 2020 Corvalis, Oregon, USA, July 12-16, 2020 [pdf](https://roboticsconference.org/program/papers/28/)
     
