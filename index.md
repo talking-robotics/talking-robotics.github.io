@@ -7,7 +7,7 @@ layout: default
 
 
 # Organization
-Organized by Silvia Tulli, Patrícia Alves Oliveira, Miguel Vasco, Joana Campos
+Organized by Patrícia Alves Oliveira, Silvia Tulli, Miguel Vasco, Joana Campos
 
 
 ## Format
