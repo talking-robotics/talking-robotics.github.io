@@ -15,8 +15,8 @@ The sessions are once every two weeks and are in the form of round-table discuss
 
 
 ## Paper Schedule
-
-*   Michael Jae-Yoon Chung, Maya Cakmak (2020) **Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference** Robotics: Science and Systems 2020 Corvalis, Oregon, USA, July 12-16, 2020 [pdf](https://roboticsconference.org/program/papers/28/)
+### 4th of September 2020
+*   Michael Jae-Yoon Chung, Maya Cakmak (2020). **Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference** Robotics: Science and Systems 2020 Corvalis, Oregon, USA, July 12-16, 2020 [pdf](https://roboticsconference.org/program/papers/28/)
     
 
 
