@@ -22,4 +22,4 @@ The sessions are once every two weeks and are in the form of round-table discuss
 *   This is an unordered list following a header.
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvZgBNdJPySiHizLnQPhOtnB6ud8IL1FWHvrZgij6RQ19uA/viewform?embedded=true" width="640" height="355" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvZgBNdJPySiHizLnQPhOtnB6ud8IL1FWHvrZgij6RQ19uA/viewform?embedded=true" width="640" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
