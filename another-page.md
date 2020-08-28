@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About the speaker
-<img src="assets/img/mike.jpg" alt="mike" width="270"/>
+<!--<img src="assets/img/mike.jpg" alt="mike" width="270"/>-->
 
 *   Michael Jae-Yoon Chung is a graduate student at the University of Washington whose research focus is on end-user programming for authoring interactive robot behaviors.
 
