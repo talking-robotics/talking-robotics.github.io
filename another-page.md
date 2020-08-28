@@ -5,7 +5,7 @@ layout: default
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LbcMxC_3x1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About the speaker
-![mike](assets/img/mike.jpg)
+![mike](assets/img/mike.jpg =100x)
 Michael Jae-Yoon Chung is a graduate student at the University of Washington whose research focus is on end-user programming for authoring interactive robot behaviors.
 
 ## Abstract
