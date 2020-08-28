@@ -2,10 +2,9 @@
 layout: default
 ---
 
-## 
-[Paper link](https://www.researchgate.net/publication/342426034_Iterative_Repair_of_Social_Robot_Programs_from_Implicit_User_Feedback_via_Bayesian_Inference)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LbcMxC_3x1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## [Paper link](https://www.researchgate.net/publication/342426034_Iterative_Repair_of_Social_Robot_Programs_from_Implicit_User_Feedback_via_Bayesian_Inference)
 
 ## Bio 
 Michael Jae-Yoon Chung is a graduate student at the University of Washington whose research focus is on end-user programming for authoring interactive robot behaviors.
