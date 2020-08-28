@@ -2,8 +2,10 @@
 layout: default
 ---
 
+We acknowledged the broader interest of robotics students and researchers on diverse aspects related to working with robots and we aim to accommodate different discussions that can sparkle knowledge in different directions in the field of robotics. In our readings we aim to include material/research/papers/discussions surrounding automation, algorithms, user studies, and systems. 
+
 ## Format
-The sessions are once every two weeks and are in the form of round-table discussions where everyone is encouraged to contribute and share ideas. The discussion will be guided and moderated by us, to facilitate the flow of ideas and ensure we get somewhere by the end of each session. Readings and meeting minutes will be posted online for your reference or in case you have to miss one of the sessions.
+We are having virtual meetings on Zoom. The sessions are once every two weeks and are in the form of round-table discussions where everyone is encouraged to contribute and share ideas. The discussion will be guided and moderated by us, to facilitate the flow of ideas and ensure we get somewhere by the end of each session. Readings, recordings and meeting minutes will be posted online for your reference or in case you have to miss one of the sessions.
 
 
 ## Talks Schedule
