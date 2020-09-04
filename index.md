@@ -15,7 +15,7 @@ We are having virtual meetings on Zoom. The sessions are once every two weeks an
 #### [check our calendar](https://calendar.google.com/calendar?cid=dGFsa2luZ3JvYm90aWNzQGdtYWlsLmNvbQ) or download the [.ics](assets/talkingrobotics@gmail.com.ics)
 
 ### 4th of September 2020 - 9am Pacific Time
-*   Michael Jae-Yoon Chung, Maya Cakmak (2020). **Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference** Robotics: Science and Systems 2020 Corvalis, Oregon, USA, July 12-16, 2020 [pdf](https://roboticsconference.org/program/papers/28/) - [session details](./another-page.html)
+*   Michael Jae-Yoon Chung, Maya Cakmak (2020). **Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference** Robotics: Science and Systems 2020 Corvalis, Oregon, USA, July 12-16, 2020 [pdf](https://roboticsconference.org/program/papers/28/) - [session details](./another-page.html) - [zoom meeting](https://washington.zoom.us/j/95943842399) 
 
 
 
