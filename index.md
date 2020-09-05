@@ -29,6 +29,7 @@ Organized by [Patrícia Alves Oliveira](https://patricialvesoliveira.com/), [Sil
 ---
 
 ## Contact
-For inquiries, talkingrobotics[at]gmail[dot]com
-or Follow us on [youtube](https://www.youtube.com/channel/UC-ildOqpbG04qaNXbhNYqMQ?view_as=subscriber), [twitter](https://twitter.com/talkingrobotics)
+For inquiries, talkingrobotics[at]gmail[dot]com.
+
+Follow us on [youtube](https://www.youtube.com/channel/UC-ildOqpbG04qaNXbhNYqMQ?view_as=subscriber), [twitter](https://twitter.com/talkingrobotics)
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLvZgBNdJPySiHizLnQPhOtnB6ud8IL1FWHvrZgij6RQ19uA/viewform?embedded=true" width="500" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
