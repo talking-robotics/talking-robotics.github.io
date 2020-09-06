@@ -2,12 +2,13 @@
 layout: default
 ---
 
-We acknowledged the broader interest of robotics students and researchers on diverse aspects related to working with robots and we aim to accommodate different discussions that can sparkle knowledge in different directions in the field of robotics. In our readings we aim to include material/research/papers/discussions surrounding automation, algorithms, user studies, and systems. 
+## Concept
+Talking Robotics is a series of virtual seminars about Robotics and its interaction with other relevant fields, such as Artificial Intelligence, Machine Learning, Design Research, Human-Robot Interaction, among others. We aim to promote reflections, dialogues, and a place to network.
 
 ---
 
 ## Format
-We are having virtual meetings on Zoom. The sessions are once every two weeks and are in the form of round-table discussions where everyone is encouraged to contribute and share ideas. The discussion will be guided and moderated by us, to facilitate the flow of ideas and ensure we get somewhere by the end of each session. Readings, recordings and meeting minutes will be posted online for your reference or in case you have to miss one of the sessions.
+Talking Robotics happens virtually in a roundtable format where everyone is encouraged to contribute and share ideas. We host sessions bi-weekly, i.e., every other week, allocating 30 min for presentation and 30 min for Q&A and networking. Recordings and materials are shared in this website.
 
 ---
 
