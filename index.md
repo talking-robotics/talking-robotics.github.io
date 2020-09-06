@@ -8,7 +8,7 @@ Talking Robotics is a series of virtual seminars about Robotics and its interact
 ---
 
 ## Format
-Talking Robotics happens virtually in a roundtable format where everyone is encouraged to contribute and share ideas. We host sessions bi-weekly, i.e., every other week, allocating 30 min for presentation and 30 min for Q&A and networking. Recordings and materials are shared in this website.
+Talking Robotics happens virtually and bi-weekly, i.e., every other week, allocating 30 min for presentation and 30 min for Q&A and networking. Sessions have a roundtable format where everyone is welcome to share ideas. Recordings and materials are shared in this website.
 
 ---
 
