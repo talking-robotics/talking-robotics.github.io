@@ -16,4 +16,3 @@ Conversational agents in the form of virtual agents or social robots are rapidly
 
 #### [Paper link](https://arxiv.org/pdf/2001.09326.pdf)
 
-[back](./index.html)
