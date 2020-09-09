@@ -18,6 +18,8 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 ### 4 September 2020 - 9am Pacific Time - 6pm Central European Time
 *   Michael Jae-Yoon Chung, Maya Cakmak (2020). **Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference** Robotics: Science and Systems 2020 Corvalis, Oregon, USA, July 12-16, 2020 [pdf](https://roboticsconference.org/program/papers/28/) - [video](https://youtu.be/lf36COCC2A4) - [session details](./session_details/mike.html) 
 
+
+
 ### 30 October 2020 - 9am Pacific Time - - 6pm Central European Time
 * Taras Kucherenko, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström (2020). **Gesticulator: A framework for semantically-aware speech-driven gesture generation**. (to appear at) International Conference on Multimodal Interaction (ICMI ‘20) [pdf](https://arxiv.org/pdf/2001.09326.pdf) - [session details](./session_details/taras.html) 
 
