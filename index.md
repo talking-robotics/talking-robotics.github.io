@@ -20,7 +20,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 <br />
 
-### 30 October 2020 - 9am Pacific Time - - 6pm Central European Time
+### 30 October 2020 - 9am Pacific Time - 6pm Central European Time
 * Taras Kucherenko, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström (2020). **Gesticulator: A framework for semantically-aware speech-driven gesture generation**. (to appear at) International Conference on Multimodal Interaction (ICMI ‘20) [pdf](https://arxiv.org/pdf/2001.09326.pdf) - [session details](./session_details/taras.html) 
 
 
