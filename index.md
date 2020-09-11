@@ -20,6 +20,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 #### 30 October 2020 - 9am Pacific Time - 6pm Central European Time
 Taras Kucherenko - **Gesticulating agents: why and how?** [pdf](https://arxiv.org/pdf/2001.09326.pdf) - [session details](./session_details/taras.html) 
 
+<hr />
 
 ### Past Talks
 #### 4 September 2020 - 9am Pacific Time - 6pm Central European Time
