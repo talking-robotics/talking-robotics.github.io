@@ -15,13 +15,32 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 ## Talks Schedule
 #### [Check our calendar](https://calendar.google.com/calendar/u/1?cid=dGFsa2luZ3JvYm90aWNzQGdtYWlsLmNvbQ) or download the [.ics](assets/talkingrobotics@gmail.com.ics)
 
+## Upcoming Talks
+
+### 2 October 2020 
+Naomi T. Fitter
+
+### 16 October 2020
+Homanga Bharadhwaj
+
+### 30 October 2020 - 9am Pacific Time - 6pm Central European Time
+Taras Kucherenko - **Gesticulating agents: why and how?** [pdf](https://arxiv.org/pdf/2001.09326.pdf) - [session details](./session_details/taras.html) 
+
+### 13 November 2020
+Natalia Calvo
+
+## Past Talks
 ### 4 September 2020 - 9am Pacific Time - 6pm Central European Time
-*   Michael Jae-Yoon Chung, Maya Cakmak (2020). **Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference** Robotics: Science and Systems 2020 Corvalis, Oregon, USA, July 12-16, 2020 [pdf](https://roboticsconference.org/program/papers/28/) - [video](https://youtu.be/lf36COCC2A4) - [session details](./session_details/mike.html) 
+Michael Jae-Yoon Chung - **Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference** [pdf](https://roboticsconference.org/program/papers/28/) - [video](https://youtu.be/lf36COCC2A4) - [session details](./session_details/mike.html) 
+ 
+
+
+
+
+
 
 <br />
 
-### 30 October 2020 - 9am Pacific Time - 6pm Central European Time
-* Taras Kucherenko, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström (2020). **Gesticulator: A framework for semantically-aware speech-driven gesture generation**. (to appear at) International Conference on Multimodal Interaction (ICMI ‘20) [pdf](https://arxiv.org/pdf/2001.09326.pdf) - [session details](./session_details/taras.html) 
 
 
 
@@ -29,9 +48,6 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/5qap5aO4i9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
     
 ---
-
-## Organization
-
 
 ---
 
