@@ -15,22 +15,22 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 ## Talks Schedule
 #### [Check our calendar](https://calendar.google.com/calendar/u/1?cid=dGFsa2luZ3JvYm90aWNzQGdtYWlsLmNvbQ) or download the [.ics](assets/talkingrobotics@gmail.com.ics)
 
-## Upcoming Talks
+### Upcoming Talks
 
-### 2 October 2020 
-Naomi T. Fitter
+(#### 2 October 2020 
+Naomi T. Fitter)
 
-### 16 October 2020
-Homanga Bharadhwaj
+(#### 16 October 2020
+Homanga Bharadhwaj)
 
-### 30 October 2020 - 9am Pacific Time - 6pm Central European Time
+#### 30 October 2020 - 9am Pacific Time - 6pm Central European Time
 Taras Kucherenko - **Gesticulating agents: why and how?** [pdf](https://arxiv.org/pdf/2001.09326.pdf) - [session details](./session_details/taras.html) 
 
-### 13 November 2020
-Natalia Calvo
+(#### 13 November 2020
+Natalia Calvo)
 
-## Past Talks
-### 4 September 2020 - 9am Pacific Time - 6pm Central European Time
+### Past Talks
+#### 4 September 2020 - 9am Pacific Time - 6pm Central European Time
 Michael Jae-Yoon Chung - **Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference** [pdf](https://roboticsconference.org/program/papers/28/) - [video](https://youtu.be/lf36COCC2A4) - [session details](./session_details/mike.html) 
  
 
