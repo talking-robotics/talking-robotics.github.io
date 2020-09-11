@@ -1,7 +1,6 @@
 title: Talking Robotics
 logo: /assets/img/logo.jpg
 description: Promoting reflections and dialogue on robotics and its interaction with other relevant research fields.
-organization: patricia, silvia, miguel, joana
-email: talkingrobotics {at} gmail {dot} com 
-twitter: https://twitter.com/talkingrobotics
-youtube: https://www.youtube.com/channel/UC-ildOqpbG04qaNXbhNYqMQ?view_as=subscriber
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
