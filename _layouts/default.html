@@ -29,14 +29,14 @@
         {% endif %}
 
         {% if site.organization %}
-        <p class="view"><a href="{{ site.organization }}"></a></p>
+        <!--<p class="view"></p>-->
         {% endif %}
 
         {% if site.social-network-links %}
         <ul class="social-network-links">
-          <li><a href="{{ site.email }}">email</a></li>
-          <li><a href="{{ site.twitter }}">twitter</a></li>
-          <li><a href="{{ site.youtube }}">youtube</a></li>
+          <li><a href="{{ site.email }}">email</a><a href="{{ site.twitter }}">twitter</a><a href="{{ site.youtube }}">youtube</a></li>
+          <li><a href="{{ site.organization }}"></a></li>
+          <li></li>
         </ul>
         {% endif %}
       </header>
