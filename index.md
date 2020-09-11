@@ -17,14 +17,14 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 ### Upcoming Talks
 
-#### 30 October 2020 - 9am Pacific Time - 6pm Central European Time
-Taras Kucherenko - **Gesticulating agents: why and how?** [pdf](https://arxiv.org/pdf/2001.09326.pdf) - [session details](./session_details/taras.html) 
+30 October 2020 - 9am Pacific Time - 6pm Central European Time
+**Taras Kucherenko** - Gesticulating agents: why and how? [pdf](https://arxiv.org/pdf/2001.09326.pdf) - [session details](./session_details/taras.html) 
 
 <hr />
 
 ### Past Talks
-#### 4 September 2020 - 9am Pacific Time - 6pm Central European Time
-Michael Jae-Yoon Chung - **Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference** [pdf](https://roboticsconference.org/program/papers/28/) - [video](https://youtu.be/lf36COCC2A4) - [session details](./session_details/mike.html) 
+4 September 2020 - 9am Pacific Time - 6pm Central European Time
+**Michael Jae-Yoon Chung** - Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference [pdf](https://roboticsconference.org/program/papers/28/) - [video](https://youtu.be/lf36COCC2A4) - [session details](./session_details/mike.html) 
  
 
 
