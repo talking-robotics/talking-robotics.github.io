@@ -17,17 +17,9 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 ### Upcoming Talks
 
-(#### 2 October 2020 
-Naomi T. Fitter)
-
-(#### 16 October 2020
-Homanga Bharadhwaj)
-
 #### 30 October 2020 - 9am Pacific Time - 6pm Central European Time
 Taras Kucherenko - **Gesticulating agents: why and how?** [pdf](https://arxiv.org/pdf/2001.09326.pdf) - [session details](./session_details/taras.html) 
 
-(#### 13 November 2020
-Natalia Calvo)
 
 ### Past Talks
 #### 4 September 2020 - 9am Pacific Time - 6pm Central European Time
