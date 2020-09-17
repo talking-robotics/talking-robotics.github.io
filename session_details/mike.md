@@ -18,5 +18,5 @@ Creating natural and autonomous interactions with social robots requires rich, m
 ---
 
 #### Paper covered during the talk
-Michael Jae-Yoon Chung, Maya Cakmak (2020). **Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference** Robotics: Science and Systems 2020 Corvalis, Oregon, USA, July 12-16, 2020 
+* **Chung, M.**, & Cakmak, M. (2020). Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference.
 
