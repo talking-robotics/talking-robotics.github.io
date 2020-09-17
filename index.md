@@ -15,7 +15,11 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 ## Talks Schedule
 #### [Check our calendar](https://calendar.google.com/calendar/u/1?cid=dGFsa2luZ3JvYm90aWNzQGdtYWlsLmNvbQ) or download the [.ics](assets/talkingrobotics@gmail.com.ics)
 
+
+
 ### Upcoming Talks
+25 September 2020 
+**Hang Yin** - Efficient Representations in Learning Visual Planning and Contact-rich Tasks [pdf](https://arxiv.org/abs/2003.08974) - [session details](./session_details/hang.html) 
 
 30 October 2020 - 9am PT - 6pm CET
 **Taras Kucherenko** - Gesticulating agents: why and how? [pdf](https://arxiv.org/pdf/2001.09326.pdf) - [session details](./session_details/taras.html) 
