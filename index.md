@@ -18,7 +18,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 
 ### Upcoming Talks
-25 September 2020 
+25 September 2020 - 9am PT - 6pm CET
 **Hang Yin** - Efficient Representations in Learning Visual Planning and Contact-rich Tasks [pdf](https://arxiv.org/abs/2003.08974) - [session details](./session_details/hang.html) 
 
 30 October 2020 - 9am PT - 6pm CET
