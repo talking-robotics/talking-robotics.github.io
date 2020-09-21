@@ -4,7 +4,7 @@ layout: default
 ## Speaker
 Dr. Naomi T. Fitter is an Assistant Professor in the School of Mechanical, Industrial, and Manufacturing Engineering at Oregon State University. Her past degrees include a B.S. and B.A. in mechanical engineering and Spanish from the University of Cincinnati and an M.S.E. and Ph.D. in robotics and mechanical engineering and applied mechanics from the University of Pennsylvania. She completed her doctoral work in the GRASP Laboratory’s Haptics Group and was a Postdoctoral Scholar in the University of Southern California Interaction Lab from 2017 to 2018. As a member of the Collaborative Robotics and Intelligent Systems (CoRIS) Institute, Dr. Fitter aims to equip robots with the ability to engage and empower people in interactions from playful high-fives to challenging physical therapy routines.\\
 
-**Speaker Links:** [Website](https://naomifitter.com) - [GitHub](https://github.com/nfitter) - [Google Scholar](https://scholar.google.com/citations?user=ip9xnysAAAAJ&hl=e) - [YouTube](https://www.youtube.com/channel/UC0QKgP6sMUp6rXLn9VawRlw) - [Twitter](https://twitter.com/naomi_fitter)
+Speaker Links: [Website](https://naomifitter.com) - [GitHub](https://github.com/nfitter) - [Google Scholar](https://scholar.google.com/citations?user=ip9xnysAAAAJ&hl=e) - [YouTube](https://www.youtube.com/channel/UC0QKgP6sMUp6rXLn9VawRlw) - [Twitter](https://twitter.com/naomi_fitter)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XZwmsfEoUsQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

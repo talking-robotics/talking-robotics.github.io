@@ -7,7 +7,7 @@ layout: default
 Michael Jae-Yoon Chung is a graduate student at the University of Washington whose research focus is on end-user programming for authoring interactive robot behaviors. 
 His research areas of focus are human-robot interaction and robotics engineering.\\
 
-**Speaker Links:** [Website](https://homes.cs.washington.edu/~mjyc/) - [GitHub](https://github.com/mjyc) - [Google Scholar](https://scholar.google.fr/citations?user=avud6aAAAAAJ&hl=en&oi=ao) - [Twitter](https://twitter.com/mjyc_)
+Speaker Links: [Website](https://homes.cs.washington.edu/~mjyc/) - [GitHub](https://github.com/mjyc) - [Google Scholar](https://scholar.google.fr/citations?user=avud6aAAAAAJ&hl=en&oi=ao) - [Twitter](https://twitter.com/mjyc_)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LbcMxC_3x1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
