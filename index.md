@@ -13,23 +13,23 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 ---
 
 ## Talks Schedule
-#### [Check our calendar](https://calendar.google.com/calendar/u/1?cid=dGFsa2luZ3JvYm90aWNzQGdtYWlsLmNvbQ) or download the [.ics](assets/talkingrobotics@gmail.com.ics)
+[Check our calendar](https://calendar.google.com/calendar/u/1?cid=dGFsa2luZ3JvYm90aWNzQGdtYWlsLmNvbQ) or download the [.ics](assets/talkingrobotics@gmail.com.ics)
 
 
 ### Upcoming Talks
-25 September 2020 - 9am PT - 6pm CET
+25th September 2020 - 9am PT - 6pm CET
 **Hang Yin** - Efficient Representations in Learning Visual Planning and Contact-rich Tasks - [session details](./session_details/hang.html) 
 
 2nd October 2020 - 9am PT - 6pm CET
 **Naomi Fitter** - Everything I Know about Telepresence - [session details](./session_details/naomi.html) 
 
-30 October 2020 - 9am PT - 6pm CET
+30th October 2020 - 9am PT - 6pm CET
 **Taras Kucherenko** - Gesticulating agents: why and how? - [session details](./session_details/taras.html) 
 
 <hr />
 
 ### Past Talks
-4 September 2020 - 9am PT - 6pm CET
+4th September 2020 - 9am PT - 6pm CET
 **Michael Jae-Yoon Chung** - Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference - [video](https://youtu.be/lf36COCC2A4) - [session details](./session_details/mike.html) 
  
 
