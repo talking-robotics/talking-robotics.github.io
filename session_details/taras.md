@@ -3,7 +3,9 @@ layout: default
 ---
 ## Speaker
 
-Taras Kucherenko is a Ph.D. student at Robotics, Perception and Learning lab at KTH Royal Institute of Technology in Stockholm. His current research is about building generative models for non-verbal behavior generation to enable social agents to use body language as an additional communication tool. He received his MSc in machine learning at RWTH Aachen with an emphasis in Natural Language Processing. His BSc was in applied math at KPI, Kyiv with an emphasis in Cryptography.
+Taras Kucherenko is a Ph.D. student at Robotics, Perception and Learning lab at KTH Royal Institute of Technology in Stockholm. His current research is about building generative models for non-verbal behavior generation to enable social agents to use body language as an additional communication tool. He received his MSc in machine learning at RWTH Aachen with an emphasis in Natural Language Processing. His BSc was in applied math at KPI, Kyiv with an emphasis in Cryptography.\\
+
+**Speaker Links:** [Website](https://svito-zar.github.io) - [GitHub](https://github.com/svito-zar) - [Google Scholar](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en) - [LinkedIn](https://www.linkedin.com/in/taras-kucherenko-9b049198/) - [Twitter](https://twitter.com/SvitozarTaras)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VQ8he6jjW08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
