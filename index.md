@@ -30,9 +30,10 @@ Everything I Know about Telepresence - [session details](./session_details/naomi
 **Taras Kucherenko**
 Gesticulating agents: why and how? - [session details](./session_details/taras.html) 
 
-5th March 2020 at 9am PT | 6pm CET \
+5th March 2021 at 9am PT | 6pm CET \
 **Kim Baraka**
-Socially Interactive Intelligence for Co-Assistive Human-Robot Systems
+Socially Interactive Intelligence \
+for Co-Assistive Human-Robot Systems
 
 <hr />
 
