@@ -9,7 +9,7 @@ His research areas of focus are human-robot interaction and robotics engineering
 
 Speaker Links: [Website](https://homes.cs.washington.edu/~mjyc/) - [GitHub](https://github.com/mjyc) - [Google Scholar](https://scholar.google.fr/citations?user=avud6aAAAAAJ&hl=en&oi=ao) - [Twitter](https://twitter.com/mjyc_)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=lf36COCC2A4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/lf36COCC2A4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
