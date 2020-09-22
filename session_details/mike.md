@@ -9,6 +9,10 @@ His research areas of focus are human-robot interaction and robotics engineering
 
 Speaker Links: [Website](https://homes.cs.washington.edu/~mjyc/) - [GitHub](https://github.com/mjyc) - [Google Scholar](https://scholar.google.fr/citations?user=avud6aAAAAAJ&hl=en&oi=ao) - [Twitter](https://twitter.com/mjyc_)
 
+## Talk
+Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference
+
+
 <iframe width="560" height="315" src="https://youtube.com/embed/lf36COCC2A4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
