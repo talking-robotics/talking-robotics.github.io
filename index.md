@@ -40,7 +40,7 @@ for Co-Assistive Human-Robot Systems
 ### Past Talks
 4th September 2020 at 9am PT | 6pm CET \
 **Michael Jae-Yoon Chung**
-"Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference" - [video](https://youtu.be/lf36COCC2A4) - [session details](./session_details/mike.html) 
+"Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference" - [talk](https://youtu.be/lf36COCC2A4) - [session details](./session_details/mike.html) 
  
 
 
