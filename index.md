@@ -19,12 +19,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 ### Upcoming Talks
 25th September 2020 at 9am PT | 6pm CET \
 **Hang Yin**
-<<<<<<< HEAD
 Efficient Representations in Learning Visual Planning and Contact-rich Tasks - [session details](./session_details/hang.html) 
-=======
-"Efficient Representations in Learning Visual Planning" \
-and Contact-rich Tasks - [session details](./session_details/hang.html) 
->>>>>>> 787c4d24afdd20336fc04912eeea82769a84b4c1
 
 2nd October 2020 at 9am PT | 6pm CET \
 **Naomi Fitter**
@@ -36,12 +31,7 @@ and Contact-rich Tasks - [session details](./session_details/hang.html)
 
 5th March 2021 at 9am PT | 6pm CET \
 **Kim Baraka**
-<<<<<<< HEAD
 Socially Interactive Intelligence for Co-Assistive Human-Robot Systems
-=======
-"Socially Interactive Intelligence" \
-for Co-Assistive Human-Robot Systems
->>>>>>> 787c4d24afdd20336fc04912eeea82769a84b4c1
 
 <hr />
 
