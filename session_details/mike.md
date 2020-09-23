@@ -20,6 +20,6 @@ Creating natural and autonomous interactions with social robots requires rich, m
 ---
 
 #### Material covered during the talk
-* **Paper: Chung, M.**, & Cakmak, M. (2020). Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference.
-* **Video:** [RSS 2020 video](https://www.youtube.com/watch?v=LbcMxC_3x1U&feature=emb_logo)
+* Paper: **Chung, M.**, & Cakmak, M. (2020). Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference.
+* Video: [RSS 2020 video](https://www.youtube.com/watch?v=LbcMxC_3x1U&feature=emb_logo)
 
