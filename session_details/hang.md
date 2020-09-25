@@ -7,7 +7,7 @@ layout: default
 Hang is a Postdoctoral Researcher at the Robotics, Perception and Learning Group, KTH Royal Institute of Technology. Hang’s interests lie in the intersection of robotics and machine learning and he is enthusiastic about finding and integrating problem structures, such as task representation, dynamical systems and optimization-based control, to facilitate learning-based robotics.
 Hang obtained his PhD from EPFL and IST, University of Lisbon under the supervision of Prof. Aude Billard, Prof. Ana Paiva and Prof. Francisco S. Melo. Prior to that, Hang completed his master and bachelor studies in Shanghai Jiao Tong University. He also worked as a software engineer in Siemens.
 
-Speaker Links: [Website](https://navigator8972.github.io) - [GitHub](https://github.com/navigator8972) - [Google Scholar](https://scholar.google.pt/citations?user=7VW7URUAAAAJ&hl=en) - [YouTube](https://www.youtube.com/channel/UC0QKgP6sMUp6rXLn9VawRlw)
+Speaker Links: [Website](https://navigator8972.github.io) - [GitHub](https://github.com/navigator8972) - [Google Scholar](https://scholar.google.pt/citations?user=7VW7URUAAAAJ&hl=en)
 
 ---
 
