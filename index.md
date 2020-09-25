@@ -25,6 +25,10 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 **Naomi Fitter**
 "Everything I Know about Telepresence" - [session details](./session_details/naomi.html) 
 
+16th October 2020 at 9am PT | 6pm CET \
+**Homanga Bharadhwaj**
+"Learning RL policies adaptive to variations in the environment" - [session details](./session_details/homanga.html) 
+
 30th October 2020 at 9am PT | 6pm CET \
 **Taras Kucherenko**
 "Gesticulating Agents: Why and How?" - [session details](./session_details/taras.html) 
