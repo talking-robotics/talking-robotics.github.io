@@ -17,5 +17,5 @@ Exploiting efficient representations is the key to learning and automating real-
 ---
 
 #### Papers covered during the talk
-* Lippi, M., Poklukar, P., Welle, M.C., Varava, A., **Yin, H.**, Marino, A., & Kragic, D. (2020). Latent Space Roadmap for Visual Action Planning of Deformable and Rigid Object Manipulation. ArXiv, abs/2003.08974.
-* Khader, S.A., **Yin, H.**, Falco, P., & Kragic, D. (2020). Stability-Guaranteed Reinforcement Learning for Contact-rich Manipulation. ArXiv, abs/2004.10886.
+* Lippi, M., Poklukar, P., Welle, M.C., Varava, A., **Yin, H.**, Marino, A., & Kragic, D. (2020). Latent Space Roadmap for Visual Action Planning of Deformable and Rigid Object Manipulation. [ArXiv, abs/2003.08974](https://arxiv.org/pdf/2003.08974.pdf).
+* Khader, S.A., **Yin, H.**, Falco, P., & Kragic, D. (2020). Stability-Guaranteed Reinforcement Learning for Contact-rich Manipulation. [ArXiv, abs/2004.10886](https://arxiv.org/pdf/2004.10886.pdf).
