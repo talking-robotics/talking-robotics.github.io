@@ -10,6 +10,8 @@ Talking Robotics is a series of virtual seminars about Robotics and its interact
 ## Format
 Talking Robotics happens virtually and bi-weekly, i.e., every other week, allocating 30 min for presentation and 30 min for Q&A and networking. Sessions have a roundtable format where everyone is welcome to share ideas. Recordings and materials are shared in this website.
 
+Security issues: Zoom links are publicly available on our communication channels; thus, we kindly ask participants to rename themself - e.g., First Name + Last Name (Affiliation/Country) - when joining the session. We welcome suggestions on how to improve the security of these meetings.
+
 ---
 
 ## Talks Schedule
