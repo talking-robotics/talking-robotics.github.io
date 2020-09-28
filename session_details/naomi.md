@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Speaker
-Dr. Naomi T. Fitter is an Assistant Professor in the School of Mechanical, Industrial, and Manufacturing Engineering at Oregon State University. Her past degrees include a B.S. and B.A. in mechanical engineering and Spanish from the University of Cincinnati and an M.S.E. and Ph.D. in robotics and mechanical engineering and applied mechanics from the University of Pennsylvania. She completed her doctoral work in the GRASP Laboratory’s Haptics Group and was a Postdoctoral Scholar in the University of Southern California Interaction Lab from 2017 to 2018. As a member of the Collaborative Robotics and Intelligent Systems (CoRIS) Institute, Dr. Fitter aims to equip robots with the ability to engage and empower people in interactions from playful high-fives to challenging physical therapy routines.\\
+Dr. Naomi T. Fitter is an Assistant Professor in the School of Mechanical, Industrial, and Manufacturing Engineering at Oregon State University. Her past degrees include a B.S. and B.A. in mechanical engineering and Spanish from the University of Cincinnati and an M.S.E. and Ph.D. in robotics and mechanical engineering and applied mechanics from the University of Pennsylvania. She completed her doctoral work in the GRASP Laboratory’s Haptics Group and was a Postdoctoral Scholar in the University of Southern California Interaction Lab from 2017 to 2018. As a member of the Collaborative Robotics and Intelligent Systems (CoRIS) Institute, Dr. Fitter aims to equip robots with the ability to engage and empower people in interactions from playful high-fives to challenging physical therapy routines.
 
 Speaker Links: [Website](https://naomifitter.com) - [GitHub](https://github.com/nfitter) - [Google Scholar](https://scholar.google.com/citations?user=ip9xnysAAAAJ&hl=e) - [YouTube](https://www.youtube.com/channel/UC0QKgP6sMUp6rXLn9VawRlw) - [Twitter](https://twitter.com/naomi_fitter)
 
@@ -19,13 +19,14 @@ Telepresence robots hold promise to connect people by providing videoconferencin
 ---
 
 #### Papers covered during the talk
-* **Fitter, N. T.**, Raghunath, N., Cha, E., Sanchez, C. A., Takayama, L., & Matarić, M. J. (2020). Are We There Yet? Comparing Remote Learning Technologies in the University Classroom. IEEE Robotics and Automation Letters, 5(2), 2706-2713.
+* **Fitter, N. T.**, Raghunath, N., Cha, E., Sanchez, C. A., Takayama, L., & Matarić, M. J. (2020). Are We There Yet? Comparing Remote Learning Technologies in the University Classroom. IEEE Robotics and Automation Letters, 5(2), 2706-2713.[link](https://www.semanticscholar.org/paper/Are-We-There-Yet-Comparing-Remote-Learning-in-the-Fitter-Raghunath/5b3df987e023422d325dc0e3269e761e4a78f300)
 
-* **Fitter, N. T.**, Rush, L., Cha, E., Groechel, T., Matarić, M. J., & Takayama, L. (2020, March). Closeness is Key over Long Distances: Effects of Interpersonal Closeness on Telepresence Experience. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (pp. 499-507).
+* **Fitter, N. T.**, Rush, L., Cha, E., Groechel, T., Matarić, M. J., & Takayama, L. (2020, March). Closeness is Key over Long Distances: Effects of Interpersonal Closeness on Telepresence Experience. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (pp. 499-507).[link](https://www.semanticscholar.org/paper/Closeness-is-Key-over-Long-Distances%3A-Effects-of-on-Fitter-Rush/d766724d6273d67f7c3d554e0d168d298ef61457) 
 
-* **Fitter, N. T.**, Joung, Y., Demeter, M., Hu, Z., & Matarić, M. J. (2019, October). Design and Evaluation of Expressive Turn-Taking Hardware for a Telepresence Robot. In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1-8). IEEE.
+* **Fitter, N. T.**, Joung, Y., Demeter, M., Hu, Z., & Matarić, M. J. (2019, October). Design and Evaluation of Expressive Turn-Taking Hardware for a Telepresence Robot. In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1-8). IEEE. [link](https://www.semanticscholar.org/paper/Design-and-Evaluation-of-Expressive-Turn-Taking-for-Fitter-Joung/d9cce1224fca0f816b02dd97cb691f440e282379) 
 
-* **Fitter, N. T.**, Joung, Y., Hu, Z., Demeter, M., & Matarić, M. J. (2019, October). User Interface Tradeoffs for Remote Deictic Gesturing. In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1-8). IEEE.
+* **Fitter, N. T.**, Joung, Y., Hu, Z., Demeter, M., & Matarić, M. J. (2019, October). User Interface Tradeoffs for Remote Deictic Gesturing. In 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1-8). IEEE. [link](https://dl.acm.org/doi/abs/10.1109/RO-MAN46459.2019.8956354) 
+
 
 
 
