@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Concept
-Talking Robotics is a series of virtual seminars about Robotics and its interaction with other relevant fields, such as Artificial Intelligence, Design Research, Human-Robot Interaction, among others. We aim to promote reflections, dialogues, and a place to network.
+Talking Robotics is a series of virtual seminars about Robotics and its interaction with other relevant fields, such as Artificial Intelligence, Machine Learning, Design Research, Human-Robot Interaction, among others. We aim to promote reflections, dialogues, and a place to network.
 
 ---
 
