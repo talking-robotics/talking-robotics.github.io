@@ -22,7 +22,7 @@ Security issues: Zoom links are publicly available on our communication channels
 
 2nd October 2020 at 9am PT | 6pm CET \
 **Naomi Fitter**
-"Everything I Know about Telepresence" - [zoom link](washington.zoom.us/j/94331095534), [session details](./session_details/naomi.html) 
+"Everything I Know about Telepresence" - [zoom link](washington.zoom.us/j/94331095534) - [session details](./session_details/naomi.html) 
 
 16th October 2020 at 9am PT | 6pm CET \
 **Homanga Bharadhwaj**
