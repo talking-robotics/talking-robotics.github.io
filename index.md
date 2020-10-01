@@ -22,15 +22,15 @@ Security issues: Zoom links are publicly available on our communication channels
 
 2nd October 2020 at 9am PT | 6pm CET \
 **Naomi Fitter**
-"Everything I Know about Telepresence" - [zoom link](washington.zoom.us/j/94331095534) - [session details](./session_details/naomi.html) 
+"Everything I Know about Telepresence" - [zoom](washington.zoom.us/j/94331095534) - [details](./session_details/naomi.html) 
 
 16th October 2020 at 9am PT | 6pm CET \
 **Homanga Bharadhwaj**
-"Learning RL policies adaptive to variations in the environment" - [session details](./session_details/homanga.html) 
+"Learning RL policies adaptive to variations in the environment" - [details](./session_details/homanga.html) 
 
 30th October 2020 at 9am PT | 6pm CET \
 **Taras Kucherenko**
-"Gesticulating Agents: Why and How?" - [session details](./session_details/taras.html) 
+"Gesticulating Agents: Why and How?" - [details](./session_details/taras.html) 
 
 5th March 2021 at 9am PT | 6pm CET \
 **Kim Baraka**
@@ -41,11 +41,11 @@ Security issues: Zoom links are publicly available on our communication channels
 ### Past Talks
 25th September 2020 at 9am PT | 6pm CET \
 **Hang Yin**
-"Efficient Representations in Learning Visual Planning and Contact-rich Tasks" - [session details](./session_details/hang.html) 
+"Efficient Representations in Learning Visual Planning and Contact-rich Tasks" - [details](./session_details/hang.html) 
 
 4th September 2020 at 9am PT | 6pm CET \
 **Michael Jae-Yoon Chung**
-"Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference" - [talk](https://youtu.be/lf36COCC2A4) - [session details](./session_details/mike.html) 
+"Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference" - [talk](https://youtu.be/lf36COCC2A4) - [details](./session_details/mike.html) 
  
 
 
