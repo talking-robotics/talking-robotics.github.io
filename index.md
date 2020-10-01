@@ -23,7 +23,8 @@ Security issues: Zoom links are publicly available on our communication channels
 
 <mark>
 2nd October 2020 at 9am PT | 6pm CET </mark>\
-**<mark>Naomi Fitter</mark>** <mark>"Everything I Know about Telepresence"</mark>  - [<mark>zoom</mark>](https://washington.zoom.us/j/94331095534?pwd=ZzVGUndSOVNTZU4ydUxRNEdPQmZDZz09) - [<mark>details</mark>](./session_details/naomi.html)
+**<mark>Naomi Fitter</mark>** <mark>"Everything I Know about Telepresence"</mark>\
+[<mark>zoom</mark>](https://washington.zoom.us/j/94331095534?pwd=ZzVGUndSOVNTZU4ydUxRNEdPQmZDZz09) - zoom password: 954699 - [<mark>details</mark>](./session_details/naomi.html)
 
 16th October 2020 at 9am PT | 6pm CET \
 **Homanga Bharadhwaj**
