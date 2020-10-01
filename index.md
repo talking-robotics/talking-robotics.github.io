@@ -20,8 +20,8 @@ Security issues: Zoom links are publicly available on our communication channels
 
 ### Upcoming Talks
 
-<mark>2nd October 2020 at 9am PT | 6pm CET \
-**Naomi Fitter**
+<mark>2nd October 2020 at 9am PT | 6pm CET </mark> \
+<mark>**Naomi Fitter**
 "Everything I Know about Telepresence"</mark>  - [zoom](https://washington.zoom.us/j/94331095534?pwd=ZzVGUndSOVNTZU4ydUxRNEdPQmZDZz09) - [details](./session_details/naomi.html)
 
 16th October 2020 at 9am PT | 6pm CET \
