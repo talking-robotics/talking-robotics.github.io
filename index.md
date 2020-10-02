@@ -20,8 +20,8 @@ Security issues: Zoom links are publicly available on our communication channels
 
 ### Upcoming Talks
 
-<mark>16th October 2020 at 9am PT | 4pm GMT | 6pm CET <\mark>\
-**<mark>Homanga Bharadhwaj<\mark>** \
+<mark>16th October 2020 at 9am PT | 4pm GMT | 6pm CET</mark> \
+**<mark>Homanga Bharadhwaj</mark>** \
 <mark>"Learning RL policies adaptive to variations in the environment"<\mark> - [<mark>details<\mark>](./session_details/homanga.html) 
 
 30th October 2020\
