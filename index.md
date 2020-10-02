@@ -28,6 +28,10 @@ Security issues: Zoom links are publicly available on our communication channels
 **Taras Kucherenko**
 "Gesticulating Agents: Why and How?" - [details](./session_details/taras.html) 
 
+27th of November\
+**Manuel Bied**
+"Integrating an Observer in Interactive Reinforcement Learning to Learn Legible Trajectories" - [details](./session_details/manuel.html) 
+
 5th March 2021\
 **Kim Baraka**
 "Socially Interactive Intelligence for Co-Assistive Human-Robot Systems"
