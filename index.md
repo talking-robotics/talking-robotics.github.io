@@ -20,32 +20,29 @@ Security issues: Zoom links are publicly available on our communication channels
 
 ### Upcoming Talks
 
+<mark>16th October 2020 at 9am PT | 4pm GMT | 6pm CET <\mark>\
+**<mark>Homanga Bharadhwaj<\mark>** \
+<mark>"Learning RL policies adaptive to variations in the environment"<\mark> - [<mark>details<\mark>](./session_details/homanga.html) 
 
-<mark>
-2nd October 2020 at 9am PT | 6pm CET </mark>\
-**<mark>Naomi Fitter</mark>** <mark>"Everything I Know about Telepresence"</mark>\
-[<mark>zoom</mark>](https://washington.zoom.us/j/94331095534?pwd=ZzVGUndSOVNTZU4ydUxRNEdPQmZDZz09) - zoom password: 954699 - [<mark>details</mark>](./session_details/naomi.html)
-
-16th October 2020 at 9am PT | 6pm CET \
-**Homanga Bharadhwaj**
-"Learning RL policies adaptive to variations in the environment" - [details](./session_details/homanga.html) 
-
-30th October 2020 at 9am PT | 6pm CET \
+30th October 2020\
 **Taras Kucherenko**
 "Gesticulating Agents: Why and How?" - [details](./session_details/taras.html) 
 
-5th March 2021 at 9am PT | 6pm CET \
+5th March 2021\
 **Kim Baraka**
 "Socially Interactive Intelligence for Co-Assistive Human-Robot Systems"
 
 <hr />
 
 ### Past Talks
-25th September 2020 at 9am PT | 6pm CET \
+2nd October 2020\
+**Naomi Fitter** "Everything I Know about Telepresence" - [details](./session_details/naomi.html)
+
+25th September 2020\
 **Hang Yin**
 "Efficient Representations in Learning Visual Planning and Contact-rich Tasks" - [details](./session_details/hang.html) 
 
-4th September 2020 at 9am PT | 6pm CET \
+4th September 2020\
 **Michael Jae-Yoon Chung**
 "Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference" - [talk](https://youtu.be/lf36COCC2A4) - [details](./session_details/mike.html) 
  
