@@ -13,4 +13,4 @@ An important aspect of Human-Robot-cooperation is that the robot is capable of c
 ---
 
 #### Papers covered during the talk
-**Bied, M.** and Chetouani, M. (2020). Integrating an Observer in Interactive Reinforcement Learning to Learn Legible Trajectories. The 29th IEEE International Conference on Robot and Human Interactive Communication, RO-MAN Pages to appear. Napoli, Italy.
+* **Bied, M.** and Chetouani, M. (2020). Integrating an Observer in Interactive Reinforcement Learning to Learn Legible Trajectories. The 29th IEEE International Conference on Robot and Human Interactive Communication, RO-MAN Pages to appear. Napoli, Italy.
