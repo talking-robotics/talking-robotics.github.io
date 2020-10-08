@@ -10,7 +10,7 @@ Speaker Links: [Website](https://www.animatas.eu/network/esr/natalia/) - [GitHub
 ---
 
 ## Abstract
-The talk will discuss the several literature approaches to assess children's trust in the robot. Calvo argues that the perceived first impression of a social robot's likability and competence are predictors of children's judgments of trust in social robots.
+The talk will discuss several literature approaches to assess children's trust in the robot. Calvo argues that the perceived first impression of a social robot's likability and competence are predictors of children's judgments of trust in social robots.
 
 ---
 
