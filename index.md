@@ -22,7 +22,7 @@ Security issues: Zoom links are publicly available on our communication channels
 
 <mark>16th October 2020 at 9am PT | 4pm GMT | 6pm CET</mark> \
 **<mark>Homanga Bharadhwaj</mark>**
-<mark>"Learning RL policies adaptive to variations in the environment"</mark> - [<mark>details</mark>](./session_details/homanga.html) 
+<mark>"Learning RL policies adaptive to variations in the environment"</mark> - [<mark>zoom link</mark>](washington.zoom.us/j/96850014554) - [<mark>details</mark>](./session_details/homanga.html) 
 
 30th October 2020\
 **Taras Kucherenko**
@@ -39,6 +39,10 @@ Security issues: Zoom links are publicly available on our communication channels
 11th December 2020\
 **Nikolas Martelaro**
 "Remote User Research for Human-Robot Interaction" - [details](./session_details/nikolas.html) 
+
+5th February 2021\
+**Glenda Hannibal**
+"Trust in HRI Through a Philosophical Lens" - [details](./session_details/glenda.html) 
 
 5th March 2021\
 **Kim Baraka**
