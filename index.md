@@ -20,13 +20,9 @@ Security issues: Zoom links are publicly available on our communication channels
 
 ### Upcoming Talks
 
-<mark>16th October 2020 at 9am PT | 4pm GMT | 6pm CET</mark> \
-**<mark>Homanga Bharadhwaj</mark>**
-<mark>"Learning RL policies adaptive to variations in the environment"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/j/96850014554) - [<mark>details</mark>](./session_details/homanga.html) 
-
-30th October 2020\
-**Taras Kucherenko**
-"Gesticulating Agents: Why and How?" - [details](./session_details/taras.html) 
+<mark>30th October 2020</mark>\
+<mark>**Taras Kucherenko**</mark>
+<mark>"Gesticulating Agents: Why and How?"</mark> - [<mark>zoom link</mark>]() - [<mark>details</mark>](./session_details/taras.html) 
 
 13th November 2020\
 **Natalia Calvo**
@@ -51,6 +47,10 @@ Security issues: Zoom links are publicly available on our communication channels
 <hr />
 
 ### Past Talks
+16th October 2020 at 9am PT | 4pm GMT | 6pm CET\
+**Homanga Bharadhwaj**
+"Learning RL policies adaptive to variations in the environment" - [details](./session_details/homanga.html) 
+
 2nd October 2020\
 **Naomi Fitter** "Everything I Know about Telepresence" - [details](./session_details/naomi.html)
 
