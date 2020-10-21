@@ -22,7 +22,7 @@ Security issues: Zoom links are publicly available on our communication channels
 
 <mark>30th October 2020 - 4pm UTC (GMT)</mark>\
 **<mark>Taras Kucherenko</mark>**
-<mark>"Gesticulating Agents: Why and How?"</mark> - [<mark>zoom link</mark>]() - [<mark>details</mark>](./session_details/taras.html) 
+<mark>"Gesticulating Agents: Why and How?"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/j/98035531694) - [<mark>details</mark>](./session_details/taras.html) 
 
 13th November 2020\
 **Natalia Calvo**
