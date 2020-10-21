@@ -20,7 +20,7 @@ Security issues: Zoom links are publicly available on our communication channels
 
 ### Upcoming Talks
 
-<mark>30th October 2020</mark>\
+<mark>30th October 2020 - 4pm UTC (GMT)</mark>\
 **<mark>Taras Kucherenko</mark>**
 <mark>"Gesticulating Agents: Why and How?"</mark> - [<mark>zoom link</mark>]() - [<mark>details</mark>](./session_details/taras.html) 
 
