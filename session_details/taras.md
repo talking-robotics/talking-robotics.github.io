@@ -19,7 +19,7 @@ Conversational agents in the form of virtual agents or social robots are rapidly
 ---
 
 #### Papers covered during the talk
-* **Kucherenko, T.**, Jonell, P., Waveren, S.V., Henter, G., Alexanderson, S., Leite, I., & Kjellstrom, H. (2020). Gesticulator: A framework for semantically-aware speech-driven gesture generation. ArXiv, abs/2001.09326. **Nominated for ICMI 2020 Best Paper Award**
+* **Kucherenko, T.**, Jonell, P., Waveren, S.V., Henter, G., Alexanderson, S., Leite, I., & Kjellstrom, H. (2020). Gesticulator: A framework for semantically-aware speech-driven gesture generation. ArXiv, abs/2001.09326. **ICMI 2020 Best Paper Award**
 * **Kucherenko, T.**, Hasegawa, D., Henter, G., Kaneko, N., & Kjellström, H. (2019). Analyzing Input and Output Representations for Speech-Driven Gesture Generation. Proceedings of the 19th ACM International Conference on Intelligent Virtual Agents.
 
 
