@@ -19,14 +19,9 @@ Security issues: Zoom links are publicly available on our communication channels
 
 
 ### Upcoming Talks
-
-<mark>30th October 2020 - 4pm UTC (GMT)</mark>\
-**<mark>Taras Kucherenko</mark>**
-<mark>"Gesticulating Agents: Why and How?"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/j/98035531694) - [<mark>details</mark>](./session_details/taras.html) 
-
-13th November 2020\
-**Natalia Calvo**
-"How children build a trust model of a social robot in the first encounter?" - [details](./session_details/natalia.html) 
+<mark>13th November 2020</mark>\
+**<mark>Natalia Calvo</mark>**
+<mark>"How children build a trust model of a social robot in the first encounter?"</mark> - [<mark>zoom link</mark>]() - [<mark>details</mark>](./session_details/natalia.html) 
 
 27th November 2020\
 **Manuel Bied**
@@ -47,6 +42,10 @@ Security issues: Zoom links are publicly available on our communication channels
 <hr />
 
 ### Past Talks
+30th October 2020 - 4pm UTC (GMT)\
+**Taras Kucherenko**
+"Gesticulating Agents: Why and How?" - [zoom link](https://washington.zoom.us/j/98035531694) - [details](./session_details/taras.html) 
+
 16th October 2020 at 9am PT | 4pm GMT | 6pm CET\
 **Homanga Bharadhwaj**
 "Learning RL policies adaptive to variations in the environment" - [details](./session_details/homanga.html) 
