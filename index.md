@@ -19,7 +19,7 @@ Security issues: Zoom links are publicly available on our communication channels
 
 
 ### Upcoming Talks
-<mark>13th November 2020</mark>\
+<mark>13th November 2020 - 5pm GMT</mark>\
 **<mark>Natalia Calvo</mark>**
 <mark>"How children build a trust model of a social robot in the first encounter?"</mark> - [<mark>zoom link</mark>]() - [<mark>details</mark>](./session_details/natalia.html) 
 
@@ -42,11 +42,11 @@ Security issues: Zoom links are publicly available on our communication channels
 <hr />
 
 ### Past Talks
-30th October 2020 - 4pm UTC (GMT)\
+30th October 2020\
 **Taras Kucherenko**
 "Gesticulating Agents: Why and How?" - [zoom link](https://washington.zoom.us/j/98035531694) - [details](./session_details/taras.html) 
 
-16th October 2020 at 9am PT | 4pm GMT | 6pm CET\
+16th October 2020\
 **Homanga Bharadhwaj**
 "Learning RL policies adaptive to variations in the environment" - [details](./session_details/homanga.html) 
 
