@@ -8,7 +8,7 @@ Taras Kucherenko is a Ph.D. student at Robotics, Perception and Learning lab at 
 Speaker Links: [Website](https://svito-zar.github.io) - [GitHub](https://github.com/svito-zar) - [Google Scholar](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en) - [LinkedIn](https://www.linkedin.com/in/taras-kucherenko-9b049198/) - [Twitter](https://twitter.com/SvitozarTaras)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQ8he6jjW08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JeMwtr8pxcc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
