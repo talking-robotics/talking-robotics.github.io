@@ -44,7 +44,7 @@ Security issues: Zoom links are publicly available on our communication channels
 ### Past Talks
 30th October 2020\
 **Taras Kucherenko**
-"Gesticulating Agents: Why and How?" - [zoom link](https://washington.zoom.us/j/98035531694) - [details](./session_details/taras.html) 
+"Gesticulating Agents: Why and How?" - [details](./session_details/taras.html) 
 
 16th October 2020\
 **Homanga Bharadhwaj**
