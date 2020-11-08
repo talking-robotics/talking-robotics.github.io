@@ -31,13 +31,28 @@ Security issues: Zoom links are publicly available on our communication channels
 **Nikolas Martelaro**
 "Remote User Research for Human-Robot Interaction" - [details](./session_details/nikolas.html) 
 
+22th January 2021\
+**Carl Mueller**
+
 5th February 2021\
 **Glenda Hannibal**
 "Trust in HRI Through a Philosophical Lens" - [details](./session_details/glenda.html) 
 
+19th February 2021\
+**Nils Hagberg**
+
 5th March 2021\
 **Kim Baraka**
 "Socially Interactive Intelligence for Co-Assistive Human-Robot Systems"
+
+16th April 2021\
+**Tesca  Fitzgerald**
+
+30th April 2021\
+**Shruti Chandra**
+
+11th June 2021\
+**Jauwaria Nasir**
 
 <hr />
 
