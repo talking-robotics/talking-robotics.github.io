@@ -47,6 +47,7 @@ Security issues: Zoom links are publicly available on our communication channels
 
 16th April 2021\
 **Tesca  Fitzgerald**
+"Human-guided Task Transfer for Interactive Robots"
 
 30th April 2021\
 **Shruti Chandra**
