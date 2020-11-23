@@ -28,6 +28,9 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 8th January 2021\
 **Barbara Bruno**
 
+15th January 2021\
+**Daniel Rakita**
+
 22th January 2021\
 **Carl Mueller**
 
