@@ -25,6 +25,9 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 **Nikolas Martelaro**
 "Remote User Research for Human-Robot Interaction" - [details](./session_details/nikolas.html) 
 
+18th December 2020\
+**David Portfirio**
+
 8th January 2021\
 **Barbara Bruno**
 
