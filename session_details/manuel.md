@@ -5,6 +5,7 @@ layout: default
 
 Manuel Bied is a PhD student at Institut des Systèmes Intelligents et de Robotique (ISIR) at Sorbonne Université supervised by Prof. Mohamed Chetouani. In his research he’s interested in integrating pedagogical reasoning with robot learning strategies as Reinforcement Learning and Learning-from-Demonstration. He is part of the MSCA-Innovative Training Network ANIMATAS. Prior to joining ISIR he received a B.Sc. and M.Sc. degree in Electrical Engineering from TU Darmstadt (Germany). His Master’s thesis about Learning-from-Demonstration was conducted in cooperation with Honda Research Institute Europe and supervised by Prof. Jan Peters.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xjYcM3zWkZM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## Abstract
