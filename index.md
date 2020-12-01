@@ -27,6 +27,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 8th January 2021\
 **Barbara Bruno**
+"Culture-Aware Robotics" - [details](./session_details/barbara.html)
 
 15th January 2021\
 **Daniel Rakita**
