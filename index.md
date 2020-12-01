@@ -17,13 +17,10 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 
 ### Upcoming Talks
-<mark>27th November 2020- 5pm GMT</mark>\
-**<mark>Manuel Bied</mark>**
-<mark>"Integrating an Observer in Interactive Reinforcement Learning to Learn Legible Trajectories"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/meeting/register/tJUvd-uprzwjE9QlWFTT0aC7RGuM4ut9CzLq) - [<mark>details</mark>](./session_details/manuel.html) 
 
-11th December 2020\
-**Nikolas Martelaro**
-"Remote User Research for Human-Robot Interaction" - [details](./session_details/nikolas.html) 
+<mark>11th December 2020</mark>\
+**<mark>Nikolas Martelaro</mark>**
+<mark>"Remote User Research for Human-Robot Interaction"</mark> - [<mark>zoom link</mark>]() - [<mark>details</mark>](./session_details/nikolas.html) 
 
 18th December 2020\
 **David Portfirio**
@@ -61,7 +58,11 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 <hr />
 
 ### Past Talks
-13th November 2020 - 5pm GMT\
+27th November 2020\
+**Manuel Bied**
+"Integrating an Observer in Interactive Reinforcement Learning to Learn Legible Trajectories" - [details](./session_details/manuel.html) 
+
+13th November 2020\
 **Natalia Calvo**
 "How children build a trust model of a social robot in the first encounter?"- [details](./session_details/natalia.html) 
 
