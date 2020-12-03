@@ -17,9 +17,9 @@ The focus of my research is on how human-robot interaction authoring tools can m
 ---
 
 #### Papers covered during the talk
-* **Porfirio, D.**, Sauppé, A., Albarghouthi, A., & Mutlu, B. (2018, October). Authoring and verifying human-robot interactions. In Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology (pp. 75-86) [link](https://dl.acm.org/doi/pdf/10.1145/3242587.3242634),
+* **Porfirio, D.**, Sauppé, A., Albarghouthi, A., & Mutlu, B. (2018, October). Authoring and verifying human-robot interactions. In Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology (pp. 75-86) [link](https://dl.acm.org/doi/pdf/10.1145/3242587.3242634)
 
 * **Porfirio, D.**, Fisher, E., Sauppé, A., Albarghouthi, A., & Mutlu, B. (2019, October). Bodystorming human-robot interactions. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (pp. 479-491) [link](https://dl.acm.org/doi/pdf/10.1145/3332165.3347957)
 
-* **Porfirio, D.**, Sauppé, A., Albarghouthi, A., & Mutlu, B. (2020, April). Transforming Robot Programs Based on Social Context [link](https://dl.acm.org/doi/pdf/10.1145/3313831.3376355).
+* **Porfirio, D.**, Sauppé, A., Albarghouthi, A., & Mutlu, B. (2020, April). Transforming Robot Programs Based on Social Context [link](https://dl.acm.org/doi/pdf/10.1145/3313831.3376355)
 
