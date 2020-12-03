@@ -24,6 +24,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 18th December 2020\
 **David Portfirio**
+"Authoring Social Interactions Between Humans and Robots" - [details](./session_details/david.html)
 
 8th January 2021\
 **Barbara Bruno**
