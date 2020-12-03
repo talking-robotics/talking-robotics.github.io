@@ -18,7 +18,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 ### Upcoming Talks
 
-<mark>11th December 2020</mark>\
+<mark>11th December 2020 - 5 pm GMT</mark>\
 **<mark>Nikolas Martelaro</mark>**
 <mark>"Remote User Research for Human-Robot Interaction"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/meeting/register/tJcpc-6pqDMpGd2ryoT-vnY4CW_GbOwyPF9n) - [<mark>details</mark>](./session_details/nikolas.html) 
 
