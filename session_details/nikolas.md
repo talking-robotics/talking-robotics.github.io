@@ -20,3 +20,5 @@ COVID-19 has led to decreases in in-person user research. While designers who wo
 * **Martelaro, N.**, Mennicken, S., Thom J., Cramer H., and Ju W., (2020) Using Remote Controlled Speech Agents to Explore Music Experience in Context. In Proceedings of the 2020 ACM on Designing Interactive Systems Conference (DIS ’20). Association for Computing Machinery, New York, NY, USA, 2065–2076. [link](https://doi.org/10.1145/3357236.3395440)
 * **Martelaro, N.**, and Ju, W., (2018) The Needfinding Machine. The Social Internet of Things, 51-84. Springer
 
+
+This talk was supported by [Robohub](https://robohub.org/nikolas-martelaros-talk-on-11-december-remote-user-research-for-human-robot-interaction/) & [Robohub Podcasts](https://robohub.org/embodied-interactions-from-robotics-to-dance/)
