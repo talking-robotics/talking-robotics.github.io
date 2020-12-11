@@ -18,9 +18,9 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 ### Upcoming Talks
 
-<mark>18th December 2020</mark>\
+<mark>18th December 2020 - 5 pm GMT</mark>\
 **<mark>David Porfirio</mark>**
-<mark>"Authoring Social Interactions Between Humans and Robots"</mark> - [<mark>zoom link</mark>]() [<mark>details</mark>](./session_details/david.html)
+<mark>"Authoring Social Interactions Between Humans and Robots"</mark> - [<mark>zoom link</mark>]() - [<mark>details</mark>](./session_details/david.html)
 
 8th January 2021\
 **Barbara Bruno**
@@ -56,7 +56,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 <hr />
 
 ### Past Talks
-11th December 2020 - 5 pm GMT\
+11th December 2020\
 **Nikolas Martelaro**
 "Remote User Research for Human-Robot Interaction" - [details](./session_details/nikolas.html)
 
