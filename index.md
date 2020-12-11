@@ -18,13 +18,9 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 ### Upcoming Talks
 
-<mark>11th December 2020 - 5 pm GMT</mark>\
-**<mark>Nikolas Martelaro</mark>**
-<mark>"Remote User Research for Human-Robot Interaction"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/meeting/register/tJcpc-6pqDMpGd2ryoT-vnY4CW_GbOwyPF9n) - [<mark>details</mark>](./session_details/nikolas.html) - <mark>supported by</mark> [<mark>Robohub</mark>](https://robohub.org/nikolas-martelaros-talk-on-11-december-remote-user-research-for-human-robot-interaction/) & [<mark>Robohub Podcasts</mark>](https://robohub.org/embodied-interactions-from-robotics-to-dance/)
-
-18th December 2020\
-**David Porfirio**
-"Authoring Social Interactions Between Humans and Robots" - [details](./session_details/david.html)
+<mark>18th December 2020</mark>\
+**<mark>David Porfirio</mark>**
+<mark>"Authoring Social Interactions Between Humans and Robots"</mark> - [<mark>zoom link</mark>]() [<mark>details</mark>](./session_details/david.html)
 
 8th January 2021\
 **Barbara Bruno**
@@ -60,6 +56,10 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 <hr />
 
 ### Past Talks
+11th December 2020 - 5 pm GMT\
+**Nikolas Martelaro**
+"Remote User Research for Human-Robot Interaction" - [details](./session_details/nikolas.html)
+
 27th November 2020\
 **Manuel Bied**
 "Integrating an Observer in Interactive Reinforcement Learning to Learn Legible Trajectories" - [details](./session_details/manuel.html) 
