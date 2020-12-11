@@ -23,7 +23,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 <mark>"Remote User Research for Human-Robot Interaction"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/meeting/register/tJcpc-6pqDMpGd2ryoT-vnY4CW_GbOwyPF9n) - [<mark>details</mark>](./session_details/nikolas.html) - <mark>supported by</mark> [<mark>Robohub</mark>](https://robohub.org/nikolas-martelaros-talk-on-11-december-remote-user-research-for-human-robot-interaction/) & [<mark>Robohub Podcasts</mark>](https://robohub.org/embodied-interactions-from-robotics-to-dance/)
 
 18th December 2020\
-**David Portfirio**
+**David Porfirio**
 "Authoring Social Interactions Between Humans and Robots" - [details](./session_details/david.html)
 
 8th January 2021\
