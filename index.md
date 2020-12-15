@@ -20,7 +20,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 <mark>18th December 2020 - 5 pm GMT</mark>\
 **<mark>David Porfirio</mark>**
-<mark>"Authoring Social Interactions Between Humans and Robots"</mark> - [<mark>zoom link</mark>]() - [<mark>details</mark>](./session_details/david.html)
+<mark>"Authoring Social Interactions Between Humans and Robots"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/meeting/register/tJwof-msrzkoH9LcISxB2i0iCMCU8i4fLCKu) - [<mark>details</mark>](./session_details/david.html)
 
 8th January 2021\
 **Barbara Bruno**
