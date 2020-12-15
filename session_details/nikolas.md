@@ -7,6 +7,8 @@ Nikolas Martelaro is an Assistant Professor at Carnegie Mellon's Human-Computer 
 
 Speaker Links: [Website](http://nikmartelaro.com) - [Github](https://github.com/nikmart) - [Google Scholar](https://scholar.google.com/citations?user=SNnC2s4AAAAJ&hl=en)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8xvmdlIC9c8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ## Abstract
