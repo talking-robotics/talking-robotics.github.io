@@ -19,12 +19,12 @@ In order to complete tasks, robots need to consistently calculate joint-space tr
 #### Papers covered during the talk
 * **Rakita, Daniel**, Bilge Mutlu, and Michael Gleicher. "RelaxedIK: Real-time Synthesis of Accurate and Feasible Robot Arm Motion." Robotics: Science and Systems. 2018 [link](http://www.roboticsproceedings.org/rss14/p43.pdf) - [video](https://www.youtube.com/watch?v=AhsQFJzB8WQ)
 
-* **Rakita, Daniel**, et al. "Shared control–based bimanual robot manipulation." Science Robotics 4.30 (2019).
+* **Rakita, Daniel**, et al. "Shared control–based bimanual robot manipulation." Science Robotics 4.30 (2019)
 [link](https://graphics.cs.wisc.edu/Papers/2019/RMGH19/19_ScienceRobotics_preprint.pdf) - [video](https://www.youtube.com/watch?v=cGh0UncVxck)
 
 * **Rakita, Daniel**, Bilge Mutlu, and Michael Gleicher. "An autonomous dynamic camera method for effective remote teleoperation." Proceedings of the 2018 ACM/IEEE International Conference on Human-Robot Interaction. 2018.
 [link](https://graphics.cs.wisc.edu/Papers/2018/RMG18/18-HRI-Camera_preprint.pdf) - [video](https://www.youtube.com/watch?v=xvDwTJd8f4c)
 
-* **Rakita, Daniel**, Bilge Mutlu, and Michael Gleicher. "Remote Telemanipulation with Adapting Viewpoints in Visually Complex Environments." Robotics: Science and Systems. 2019.
+* **Rakita, Daniel**, Bilge Mutlu, and Michael Gleicher. "Remote Telemanipulation with Adapting Viewpoints in Visually Complex Environments." Robotics: Science and Systems. 2019
 [link](http://www.roboticsproceedings.org/rss15/p68.pdf) - [video](https://www.youtube.com/watch?v=2JyNU2O5onc)
 
