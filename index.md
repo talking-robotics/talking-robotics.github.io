@@ -20,7 +20,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 
 
-<mark>8th January 2021 - 5 GMT</mark>\
+<mark>8th January 2021 - 5 pm GMT</mark>\
 <mark>**Barbara Bruno**</mark>
 <mark>"Culture-Aware Robotics"</mark> - [<mark>zoom link</mark>]() - [<mark>details</mark>](./session_details/barbara.html)
 
