@@ -17,16 +17,9 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 
 ### Upcoming Talks
-
-
-
-<mark>8th January 2021 - 5 pm GMT</mark>\
-**<mark>Barbara Bruno</mark>**
-<mark>"Culture-Aware Robotics"</mark> - [<mark>zoom link</mark>](https://videoconf-colibri.zoom.us/meeting/register/tZ0uf-6pqjIrGdxTyh8EhJJpb-GzwOWcPES4) - [<mark>details</mark>](./session_details/barbara.html)
-
-15th January 2021\
-**Daniel Rakita**
-"Methods and Applications for Generating Accurate and Feasible Robot-arm Motions in Real-time" - [details](./session_details/daniel.html)
+<mark>15th January 2021</mark>\
+**<mark>Daniel Rakita</mark>**
+<mark>"Methods and Applications for Generating Accurate and Feasible Robot-arm Motions in Real-time"</mark> - [<mark>zoom link</mark>]() - [<mark>details</mark>](./session_details/daniel.html)
 
 22th January 2021\
 **Carl Mueller**
@@ -55,6 +48,10 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 <hr />
 
 ### Past Talks
+8th January 2021\
+**Barbara Bruno**
+"Culture-Aware Robotics" - [details](./session_details/barbara.html)
+
 18th December 2020\
 **David Porfirio**
 "Authoring Social Interactions Between Humans and Robots - [details](./session_details/david.html)
