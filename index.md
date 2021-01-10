@@ -26,7 +26,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 5th February 2021\
 **Glenda Hannibal**
-"Trust in HRI Through a Philosophical Lens" - [details](./session_details/glenda.html) 
+"Trust in HRI: Probing Vulnerability as an Active Concept" - [details](./session_details/glenda.html) 
 
 19th February 2021\
 **Nils Hagberg**
