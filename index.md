@@ -19,7 +19,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 ### Upcoming Talks
 <mark>15th January 2021</mark>\
 **<mark>Daniel Rakita</mark>**
-<mark>"Methods and Applications for Generating Accurate and Feasible Robot-arm Motions in Real-time"</mark> - [<mark>zoom link</mark>]() - [<mark>details</mark>](./session_details/daniel.html)
+<mark>"Methods and Applications for Generating Accurate and Feasible Robot-arm Motions in Real-time"</mark> - [<mark>zoom link</mark>](https://videoconf-colibri.zoom.us/meeting/register/tZAlde-hqjsqGtcYKI1-zrm9K1TbnrTCmNnX) - [<mark>details</mark>](./session_details/daniel.html)
 
 22th January 2021\
 **Carl Mueller**
