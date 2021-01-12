@@ -6,7 +6,7 @@ layout: default
 Carl Mueller is a Ph.D. student of computer science at the University of Colorado - Boulder, advised by Professor Bradley Hayes within the [Collaborative Artificial Intelligence and Robotics Laboratory](www.cairo-lab.com). He graduated from the University of California - Santa Barbara with a degree in Biopsychology and after a circuitous route through the pharmaceutical industry, he ended up in the tech, founding his own company building intelligent chat agents for business analytics. Drawn to human-computer interaction, Carl moved to Colorado to start graduate school, discovering robotics to be a wonderful platform for AI/ML/HCI research. His predominant focus is a subfield of Human-Robot Interaction called Robot Learning from Demonstration (LfD), also known as Imitation Learning or Programming by Demonstration, with a specific emphasis on how human users can provide richer information through the communication of behavioral constraints on the task the robot is learning. To this end, Carl's research develops novel interface design for LfD, expands upon traditional LfD methods via constraint integration, and explores constrained motion planning methods to ensure automated movements are consistent with human intent.
 
 
-Speaker Links: [Website](www.carl-mueller.com) - [Google Scholar](https://scholar.google.com/citations?user=_-yidrMAAAAJ&hl=en)
+Speaker Links: [Website](https://www.carl-mueller.com/) - [Google Scholar](https://scholar.google.com/citations?user=_-yidrMAAAAJ&hl=en)
 
 ---
 
