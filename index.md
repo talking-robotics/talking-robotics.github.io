@@ -22,10 +22,6 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 <mark>"Robot Learning from Demonstration Driven Constrained Skill Learning & Motion Planning"</mark> - [<mark>zoom link</mark>](https://videoconf-colibri.zoom.us/meeting/register/tZwvc-qrqTopG9NdD7cK23Z0ITla_ZUJp7lW) - [<mark>details</mark>](./session_details/carl.html)
 
 
-22th January 2021\
-**Carl Mueller**
-"Robot Learning from Demonstration Driven Constrained Skill Learning & Motion Planning" - [details](./session_details/carl.html)
-
 5th February 2021\
 **Glenda Hannibal**
 "Trust in HRI: Probing Vulnerability as an Active Concept" - [details](./session_details/glenda.html) 
