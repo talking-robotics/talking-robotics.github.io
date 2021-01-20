@@ -18,7 +18,7 @@ Historically, robots have been exclusive to industries that require consistency,
 
 #### Papers covered during the talk
 * **Carl L. Mueller**, Jeff Venicx, and Bradley Hayes. "Robust Robot Learning from Demonstration and Skill Repair Using Conceptual Constraints." IROS 2018 [link](http://www.cairo-lab.com/papers/iros18.pdf
-) - [video](https://www.youtube.com/watch?v=AhsQFJzB8WQ)
+)
 
 * Matthew B. Luebbers, Connor Brooks, **Carl L. Mueller**, Daniel Szafir, Bradley Hayes
  "ARC-LfD: Using Augmented Reality for Interactive Long-Term Robot Skill Maintenance via Constrained Learning from Demonstration." Submitted to ICRA 2021 - [video](https://youtu.be/X0H7rszq-QA)
