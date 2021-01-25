@@ -8,6 +8,8 @@ Carl Mueller is a Ph.D. student of computer science at the University of Colorad
 
 Speaker Links: [Website](https://www.carl-mueller.com/) - [Google Scholar](https://scholar.google.com/citations?user=_-yidrMAAAAJ&hl=en)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0PbUMQcFEUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ## Abstract
