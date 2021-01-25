@@ -18,5 +18,4 @@ The practical value of studying trust in HRI rests on the assumption that in the
 ---
 
 #### Paper covered during the talk
-* **Hannibal, G.**(forthcoming/2021). Focusing on the Vulnerabilities of Robots through Expert Interviews for Trust in Human-Robot Interaction. Proceedings of the 16th International Confer-
-ence on Human-Robot Interaction. Online: ACM.
+* **Hannibal, G.** (forthcoming/2021). Focusing on the Vulnerabilities of Robots through Expert Interviews for Trust in Human-Robot Interaction. Proceedings of the 16th International Conference on Human-Robot Interaction. Online: ACM.
