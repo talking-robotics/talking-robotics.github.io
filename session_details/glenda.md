@@ -3,7 +3,7 @@ layout: default
 ---
 ## Speaker
 
-Glenda Hannibal focuses in her research mainly on combining insights from philosophy and sociology with both theoretical and empirical work in human-robot interaction (HRI). She has previously worked in the Department of Sociology at the University of Vienna and as an expert for the HUMAINT project at the European Commission. Glenda holds a BA and MA in Philosophy from Aarhus University and is currently a PhD student in the Trust Robots Doctoral College and HumanComputer Interaction group at TU Wien.
+Glenda Hannibal focuses in her research mainly on combining insights from philosophy and sociology with both theoretical and empirical work in human-robot interaction (HRI). She has previously worked in the Department of Sociology at the University of Vienna and as an expert for the HUMAINT project at the European Commission. Glenda holds a BA and MA in Philosophy from Aarhus University and is currently a PhD student in the Trust Robots Doctoral College and Human-Computer Interaction group at TU Wien.
 
 
 
@@ -16,3 +16,7 @@ The practical value of studying trust in HRI rests on the assumption that in the
 
 
 ---
+
+#### Paper covered during the talk
+* **Hannibal, G.**(forthcoming/2021). Focusing on the Vulnerabilities of Robots through Expert Interviews for Trust in Human-Robot Interaction. Proceedings of the 16th International Confer-
+ence on Human-Robot Interaction. Online: ACM.
