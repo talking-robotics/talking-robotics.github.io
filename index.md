@@ -18,7 +18,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 ### Upcoming Talks
 <mark>5th February 2021</mark>\
-<mark>**Glenda Hannibal**</mark>
+**<mark>Glenda Hannibal</mark>**
 <mark>"Trust in HRI: Probing Vulnerability as an Active Concept"</mark> - [<mark>details</mark>](./session_details/glenda.html) 
 
 19th February 2021\
