@@ -17,14 +17,9 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 
 ### Upcoming Talks
-<mark>22th January 2021</mark>\
-**<mark>Carl Mueller</mark>**
-<mark>"Robot Learning from Demonstration Driven Constrained Skill Learning & Motion Planning"</mark> - [<mark>zoom link</mark>](https://videoconf-colibri.zoom.us/meeting/register/tZwvc-qrqTopG9NdD7cK23Z0ITla_ZUJp7lW) - [<mark>details</mark>](./session_details/carl.html)
-
-
-5th February 2021\
-**Glenda Hannibal**
-"Trust in HRI: Probing Vulnerability as an Active Concept" - [details](./session_details/glenda.html) 
+<mark>5th February 2021</mark>\
+<mark>**Glenda Hannibal**</mark>
+<mark>"Trust in HRI: Probing Vulnerability as an Active Concept"</mark> - [<mark>details</mark>](./session_details/glenda.html) 
 
 19th February 2021\
 **Nils Hagberg**
@@ -46,6 +41,10 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 <hr />
 
 ### Past Talks
+22th January 2021\
+**Carl Mueller**
+"Robot Learning from Demonstration Driven Constrained Skill Learning & Motion Planning" - [zoom link](https://videoconf-colibri.zoom.us/meeting/register/tZwvc-qrqTopG9NdD7cK23Z0ITla_ZUJp7lW) - [details](./session_details/carl.html)
+
 15th January 2021\
 **Daniel Rakita**
 "Methods and Applications for Generating Accurate and Feasible Robot-arm Motions in Real-time" - [details](./session_details/daniel.html)
