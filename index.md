@@ -19,10 +19,11 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 ### Upcoming Talks
 <mark>5th February 2021</mark>\
 **<mark>Glenda Hannibal</mark>**
-<mark>"Trust in HRI: Probing Vulnerability as an Active Precondition"</mark> - [<mark>details</mark>](./session_details/glenda.html) 
+<mark>"Trust in HRI: Probing Vulnerability as an Active Precondition"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/j/99232625843)- [<mark>details</mark>](./session_details/glenda.html) 
 
 19th February 2021\
 **Nils Hagberg**
+"A call for a Human Approach to Technology"
 
 5th March 2021\
 **Kim Baraka**
