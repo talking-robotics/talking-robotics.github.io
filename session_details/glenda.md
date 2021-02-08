@@ -9,6 +9,8 @@ Glenda Hannibal focuses in her research mainly on combining insights from philos
 
 Speaker Links: [Website](http://glendahannibal.weebly.com/) - [Google Scholar](https://scholar.google.nl/citations?user=wWPZhZkAAAAJ&hl=en) - [Twitter](https://twitter.com/ordinary_robot)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/39BNhQAfX50" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ## Abstract
