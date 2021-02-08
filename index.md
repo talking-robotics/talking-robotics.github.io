@@ -40,11 +40,11 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 ### Past Talks
 5th February 2021\
 **Glenda Hannibal**
-"Trust in HRI: Probing Vulnerability as an Active Precondition" - [zoom link](https://washington.zoom.us/j/99232625843)- [details](./session_details/glenda.html) 
+"Trust in HRI: Probing Vulnerability as an Active Precondition" - [details](./session_details/glenda.html) 
 
 22th January 2021\
 **Carl Mueller**
-"Robot Learning from Demonstration Driven Constrained Skill Learning & Motion Planning" - [zoom link](https://videoconf-colibri.zoom.us/meeting/register/tZwvc-qrqTopG9NdD7cK23Z0ITla_ZUJp7lW) - [details](./session_details/carl.html)
+"Robot Learning from Demonstration Driven Constrained Skill Learning & Motion Planning" - [details](./session_details/carl.html)
 
 15th January 2021\
 **Daniel Rakita**
