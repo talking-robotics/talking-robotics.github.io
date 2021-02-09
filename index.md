@@ -19,7 +19,7 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 ### Upcoming Talks
 <mark>19th February 2021</mark>\
 **<mark>Nils Hagberg</mark>**
-<mark>"A call for a Human Approach to Technology"</mark> - [<mark>zoom link</mark>]()- [<mark>details</mark>](./session_details/nils.html) 
+<mark>"A call for a Human Approach to Technology"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/j/95205136561)- [<mark>details</mark>](./session_details/nils.html) 
 
 5th March 2021\
 **Kim Baraka**
