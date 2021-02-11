@@ -25,6 +25,9 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 **Kim Baraka**
 "Socially Interactive Intelligence for Co-Assistive Human-Robot Systems"
 
+19th March 2021\
+**Ross Mead**
+
 16th April 2021\
 **Tesca  Fitzgerald**
 "Human-guided Task Transfer for Interactive Robots"
@@ -32,8 +35,17 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 30th April 2021\
 **Shruti Chandra**
 
+14th May 2021\
+**Shiwali Mohan**
+
+28th May 2021\
+**Marta Couto**
+
 11th June 2021\
 **Jauwaria Nasir**
+
+25th June 2021\
+**Tanvi Dinkar**
 
 <hr />
 
