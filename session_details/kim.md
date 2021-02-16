@@ -19,9 +19,9 @@ In this talk, I will present a broad overview of my past, current and planned fu
 The talk will be a broad overview of my past, current and future research. A full list of publications can be found at [kimbaraka.com/publications](https://www.kimbaraka.com/publications).
 
 #### Videos
-[CoBot expressive lights](https://www.youtube.com/watch?v=pNPINDh2fYo&ab_channel=KimBaraka)
-[Robot with 'autism-like' behaviors](https://www.youtube.com/watch?v=OuRTQtMpIWo&ab_channel=KimBaraka)
-[Contact improvisation with Baxter](https://www.youtube.com/watch?v=PNzeT8ZsyfM&ab_channel=NunoLeit)
+* [CoBot expressive lights](https://www.youtube.com/watch?v=pNPINDh2fYo&ab_channel=KimBaraka)
+* [Robot with 'autism-like' behaviors](https://www.youtube.com/watch?v=OuRTQtMpIWo&ab_channel=KimBaraka)
+* [Contact improvisation with Baxter](https://www.youtube.com/watch?v=PNzeT8ZsyfM&ab_channel=NunoLeit)
 
 
 
