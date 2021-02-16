@@ -19,11 +19,11 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 ### Upcoming Talks
 <mark>19th February 2021</mark>\
 **<mark>Nils Hagberg</mark>**
-<mark>"A call for a Human Approach to Technology"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/j/95205136561)- [<mark>details</mark>](./session_details/nils.html) 
+<mark>"A call for a Human Approach to Technology"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/j/95205136561) - [<mark>details</mark>](./session_details/nils.html) 
 
 5th March 2021\
 **Kim Baraka**
-"Socially Interactive Intelligence for Co-Assistive Human-Robot Systems"
+"Humans and Robots Teaching and Learning through Social Interaction" - [details](./session_details/kim.html) 
 
 19th March 2021\
 **Ross Mead**
