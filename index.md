@@ -17,13 +17,9 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 
 ### Upcoming Talks
-<mark>19th February 2021 - 9 am PST | 5 pm GMT</mark>\
-**<mark>Nils Hagberg</mark>**
-<mark>"A call for a Human Approach to Technology"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/j/95205136561) - [<mark>details</mark>](./session_details/nils.html) 
-
-5th March 2021\
-**Kim Baraka**
-"Humans and Robots Teaching and Learning through Social Interaction" - [details](./session_details/kim.html) 
+<mark>5th March 2021 - 5 pm GMT</mark>\
+**<mark>Kim Baraka</mark>**
+<mark>"Humans and Robots Teaching and Learning through Social Interaction"</mark>  - [zoom link](https://videoconf-colibri.zoom.us/meeting/register/tZcpf-uqrDgsGdP0N5HXAhFNnVqmbydBIh4m) - [<mark>details</mark>](./session_details/kim.html)
 
 19th March 2021\
 **Ross Mead**
@@ -50,6 +46,10 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 <hr />
 
 ### Past Talks
+19th February 2021\
+**Nils Hagberg**
+"A call for a Human Approach to Technology" - [details](./session_details/nils.html) 
+
 5th February 2021\
 **Glenda Hannibal**
 "Trust in HRI: Probing Vulnerability as an Active Precondition" - [details](./session_details/glenda.html) 
