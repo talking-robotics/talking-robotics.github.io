@@ -12,10 +12,10 @@ Talking Robotics happens virtually and bi-weekly, i.e., every other week, alloca
 
 ---
 
-## Support us
+<!--## Support us
 Talking Robotics is a volunteer effort lead by us, to create a new virtual community for robotics research, where everyone is welcome Party popper. You can support us by buying a coffee [here](https://buymeacoffee.com/talkingrobotics)  
 
----
+--- -->
 
 ## Talks Schedule
 [Check our calendar](https://calendar.google.com/calendar/u/1?cid=dGFsa2luZ3JvYm90aWNzQGdtYWlsLmNvbQ) or download the [.ics](assets/talkingrobotics@gmail.com.ics)
