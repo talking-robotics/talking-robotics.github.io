@@ -24,7 +24,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Upcoming Talks
 <mark>5th March 2021 - 5 pm GMT</mark>\
 **<mark>Kim Baraka</mark>**
-<mark>"Humans and Robots Teaching and Learning through Social Interaction"</mark>  - [<mark>zoom link</mark>](https://videoconf-colibri.zoom.us/meeting/register/tZcpf-uqrDgsGdP0N5HXAhFNnVqmbydBIh4m) - [<mark>details</mark>](./session_details/kim.html)
+<mark>"Humans and Robots Teaching and Learning through Social Interaction"</mark>  - [<mark>zoom link</mark>](https://washington.zoom.us/meeting/register/tJYqcOugpz0vG9G6C-4Eu-D_muHBGZEuubEJ) - [<mark>details</mark>](./session_details/kim.html)
 
 19th March 2021\
 **Ross Mead**
