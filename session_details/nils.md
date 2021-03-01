@@ -8,6 +8,7 @@ Nils Hagberg is the Product Owner at Furhat Robotics. He is a computer linguist 
 
 Speaker Links: [Website](https://furhatrobotics.com/) - [LinkedIn](https://www.linkedin.com/in/nils-hagberg/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A32bDDGsyl8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## Abstract
