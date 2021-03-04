@@ -40,15 +40,20 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 14th May 2021\
 **Shiwali Mohan**
+"The Role of Cognitive Science in Designing Collaborative Robots"
 
-28th May 2021\
-**Marta Couto**
+<!--28th May 2021\
+**Marta Couto**-->
 
 11th June 2021\
 **Jauwaria Nasir**
+"What if Social Robots look for Productive Engagement? -
+Automated assessment of goal-centric engagement in learning applications"
 
 25th June 2021\
-**Tanvi Dinkar**
+**Tanvi Dinkar** 
+"Representations of fillers to reflect metacognitive states"
+
 
 <hr />
 
