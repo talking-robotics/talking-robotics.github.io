@@ -28,6 +28,8 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 19th March 2021\
 **Ross Mead**
+"Bringing Robots To Life" - [details](./session_details/ross.html)
+
 
 16th April 2021\
 **Tesca  Fitzgerald**
