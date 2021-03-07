@@ -8,6 +8,7 @@ Kim Baraka is currently a postdoctoral fellow at the Socially Intelligent Machin
 
 Speaker Links: [Website](https://www.kimbaraka.com/) - [GoogleScholar](https://scholar.google.com/citations?user=ajXxBjQAAAAJ&hl=en&oi=ao) - [ResearchGate](https://www.researchgate.net/profile/Kim_Baraka) - [Linkedin](https://www.linkedin.com/in/kim-baraka-56578a4b/) - [Twitter](https://twitter.com/kimbaraka)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4R5mGsZ-QR8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## Abstract
