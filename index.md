@@ -22,13 +22,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-<mark>5th March 2021 - 5 pm GMT</mark>\
-**<mark>Kim Baraka</mark>**
-<mark>"Humans and Robots Teaching and Learning through Social Interaction"</mark>  - [<mark>zoom link</mark>](https://washington.zoom.us/meeting/register/tJYqcOugpz0vG9G6C-4Eu-D_muHBGZEuubEJ) - [<mark>details</mark>](./session_details/kim.html)
-
-19th March 2021\
-**Ross Mead**
-"Bringing Robots To Life" - [details](./session_details/ross.html)
+<mark>19th March 2021 - 5 pm GMT</mark>\
+**<mark>Ross Mead</mark>**
+<mark>"Bringing Robots To Life"</mark> - [<mark>details</mark>](./session_details/ross.html)
 
 
 16th April 2021\
@@ -61,6 +57,10 @@ Automated assessment of goal-centric engagement in learning applications"
 <hr />
 
 ### Past Talks
+5th March 2021\
+**Kim Baraka**
+"Humans and Robots Teaching and Learning through Social Interaction"  - [details](./session_details/kim.html)
+
 19th February 2021\
 **Nils Hagberg**
 "A call for a Human Approach to Technology" - [details](./session_details/nils.html) 
