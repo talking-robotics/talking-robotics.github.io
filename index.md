@@ -45,6 +45,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 <!--28th May 2021\
 **Marta Couto**-->
 
+2nd April 2021\
+**Filipa Correia**
+
 11th June 2021\
 **Jauwaria Nasir**
 "What if Social Robots look for Productive Engagement? -
