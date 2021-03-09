@@ -34,6 +34,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 30th April 2021\
 **Shruti Chandra**
 
+7th May 2021\
+**Christoforos Mavrogiannis**
+
 14th May 2021\
 **Shiwali Mohan**
 "The Role of Cognitive Science in Designing Collaborative Robots"
