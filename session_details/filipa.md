@@ -16,7 +16,6 @@ Recently, the field of Human-Robot Interaction (HRI) has been paying close atten
 ---
 
 #### Papers covered during the talk
-Papers:
 * **Correia, Filipa**, Sofia Petisca, Patrícia Alves-Oliveira, Tiago Ribeiro, Francisco S. Melo, and Ana Paiva. "“I Choose... YOU!” Membership preferences in human–robot teams." Autonomous Robots 43, no. 2 (2019): 359-373. [pdf](https://link.springer.com/article/10.1007/s10514-018-9767-9) - [video](https://www.youtube.com/watch?v=rwvBIDsN6Cc&t=68s)
 * **Correia, Filipa**, Samuel Mascarenhas, Rui Prada, Francisco S. Melo, and Ana Paiva. "Group-based emotions in teams of humans and robots." In Proceedings of the 2018 ACM/IEEE international conference on human-robot interaction, pp. 261-269. 2018. [pdf](https://dl.acm.org/doi/10.1145/3171221.3171252)
 * **Correia, Filipa**, Samuel F. Mascarenhas, Samuel Gomes, Patrícia Arriaga, Iolanda Leite, Rui Prada, Francisco S. Melo, and Ana Paiva. "Exploring prosociality in human-robot teams." In 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI), pp. 143-151. IEEE, 2019. [pdf](https://dl.acm.org/doi/10.5555/3378680.3378702) - [video](https://www.youtube.com/watch?v=DJ1CcPi8MoY)
