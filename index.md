@@ -26,6 +26,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 **<mark>Ross Mead</mark>**
 <mark>"Bringing Robots To Life"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/meeting/register/tJwkdO-sqjMuG91xDrJ52mJQr6xTlPtuz_dc) - [<mark>details</mark>](./session_details/ross.html)
 
+2nd April 2021\
+**Filipa Correia** 
+"Group Intelligence on Social Robots"- [details](./session_details/filipa.html)
 
 16th April 2021\
 **Tesca  Fitzgerald**
@@ -42,11 +45,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 "The Role of Cognitive Science in Designing Collaborative Robots"
 
 <!--28th May 2021\
-**Marta Couto**-->
-
-2nd April 2021\
-**Filipa Correia** 
-"Group Intelligence on Social Robots"- [details](./session_details/filipa.html)
+**Prashan Madumal**-->
 
 11th June 2021\
 **Jauwaria Nasir**
