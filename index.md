@@ -22,7 +22,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-<mark>19th March 2021 - 5 pm GMT</mark>\
+<mark>19th March 2021 - 4 pm GMT</mark>\
 **<mark>Ross Mead</mark>**
 <mark>"Bringing Robots To Life"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/meeting/register/tJwkdO-sqjMuG91xDrJ52mJQr6xTlPtuz_dc) - [<mark>details</mark>](./session_details/ross.html)
 
