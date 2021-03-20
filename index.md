@@ -22,13 +22,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-<mark>19th March 2021 - 4 pm GMT</mark>\
-**<mark>Ross Mead</mark>**
-<mark>"Bringing Robots To Life"</mark> - [<mark>zoom link</mark>](https://washington.zoom.us/meeting/register/tJwkdO-sqjMuG91xDrJ52mJQr6xTlPtuz_dc) - [<mark>details</mark>](./session_details/ross.html)
-
-2nd April 2021\
-**Filipa Correia** 
-"Group Intelligence on Social Robots"- [details](./session_details/filipa.html)
+<mark>2nd April 2021</mark>\
+**<mark>Filipa Correia</mark>** 
+<mark>"Group Intelligence on Social Robots"</mark>- [<mark>details</mark>](./session_details/filipa.html)
 
 16th April 2021\
 **Tesca  Fitzgerald**
@@ -61,6 +57,10 @@ Automated assessment of goal-centric engagement in learning applications"
 <hr />
 
 ### Past Talks
+19th March 2021 - 4 pm GMT\
+**Ross Mead**
+"Bringing Robots To Life" - [details](./session_details/ross.html)
+
 5th March 2021\
 **Kim Baraka**
 "Humans and Robots Teaching and Learning through Social Interaction"  - [details](./session_details/kim.html)
