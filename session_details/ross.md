@@ -26,7 +26,7 @@ In this talk, Dr. Ross Mead will discuss the technological advances paving the w
 
 
 #### Videos
-* [Semio Studio: App Creation](https://www.youtube.com/watchv=G7L7CZGRfKolist=PLKtlQeX-aoxGUz2xmNZxKf5o-cnNp_fn7&index=5)
+* [Semio Studio: App Creation](https://www.youtube.com/watch?v=G7L7CZGRfKo&list=PLKtlQeX-aoxGUz2xmNZxKf5o-cnNp_fn7&index=5)
 * [Semio Studio: Dialog Editor](https://www.youtube.com/watch?v=vjvyUn32AwM&list=PLKtlQeX-aoxGUz2xmNZxKf5o-cnNp_fn7&index=6)
 * [Semio Studio: Animation Editor](https://www.youtube.com/watch?v=0elenVuguzY&list=PLKtlQeX-aoxGUz2xmNZxKf5o-cnNp_fn7&index=4)
 * [Semio Studio: Face Animation Editor](https://www.youtube.com/watch?v=2NVA8Wh5cNs&list=PLKtlQeX-aoxGUz2xmNZxKf5o-cnNp_fn7&index=6)
