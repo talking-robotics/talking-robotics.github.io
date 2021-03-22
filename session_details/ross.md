@@ -8,6 +8,7 @@ Beyond Semio, Ross serves on the Board of Directors for two organizations: (1) A
 
 Speaker Links: [Website](https://semio.ai/) - [GoogleScholar](https://scholar.google.com/citations?user=F4JYGjcAAAAJ&hl=en&oi=ao) - [Linkedin](https://www.linkedin.com/in/rossmead/) 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rz_fent7wEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## Abstract
