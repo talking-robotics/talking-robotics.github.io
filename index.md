@@ -24,7 +24,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Upcoming Talks
 <mark>2nd April 2021</mark>\
 **<mark>Filipa Correia</mark>** 
-<mark>"Group Intelligence on Social Robots"</mark>- [<mark>details</mark>](./session_details/filipa.html)
+<mark>"Group Intelligence on Social Robots"</mark>- [<mark>zoom link</mark>](https://us02web.zoom.us/meeting/register/tZwsfuisrzMtHdY2M4JxhLCE7Q8hK75OBOAD)[<mark>details</mark>](./session_details/filipa.html)
 
 16th April 2021\
 **Tesca  Fitzgerald**
