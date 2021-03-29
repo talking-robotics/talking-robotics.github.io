@@ -41,8 +41,8 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 **Shiwali Mohan**
 "The Role of Cognitive Science in Designing Collaborative Robots"
 
-<!--28th May 2021\
-**Prashan Madumal**-->
+28th May 2021\
+**Prashan Madumal**
 
 11th June 2021\
 **Jauwaria Nasir**
