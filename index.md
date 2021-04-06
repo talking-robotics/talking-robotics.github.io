@@ -22,9 +22,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-16th April 2021\
-**Tesca  Fitzgerald**
-"Human-guided Task Transfer for Interactive Robots"
+<mark>16th April 2021</mark>\
+**<mark>Tesca  Fitzgerald</mark>**
+"<mark>Human-guided Task Transfer for Interactive Robots</mark>"
 
 30th April 2021\
 **Shruti Chandra**
