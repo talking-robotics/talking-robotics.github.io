@@ -22,10 +22,6 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-<mark>2nd April 2021</mark>\
-**<mark>Filipa Correia</mark>** 
-<mark>"Group Intelligence on Social Robots"</mark>- [<mark>zoom link</mark>](https://us02web.zoom.us/meeting/register/tZwsfuisrzMtHdY2M4JxhLCE7Q8hK75OBOAD) - [<mark>details</mark>](./session_details/filipa.html)
-
 16th April 2021\
 **Tesca  Fitzgerald**
 "Human-guided Task Transfer for Interactive Robots"
@@ -57,6 +53,10 @@ Automated assessment of goal-centric engagement in learning applications"
 <hr />
 
 ### Past Talks
+2nd April 2021\
+**Filipa Correia** 
+"Group Intelligence on Social Robots"- [details](./session_details/filipa.html)
+
 19th March 2021 - 4 pm GMT\
 **Ross Mead**
 "Bringing Robots To Life" - [details](./session_details/ross.html)
