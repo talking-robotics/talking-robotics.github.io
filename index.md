@@ -22,8 +22,8 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-<mark>30th April 2021\<mark>
-<mark>**Shruti Chandra**</mark>
+<mark>30th April 2021<mark>\
+**<mark>Shruti Chandra</mark>**
 "<mark>Child-Robot Interaction: Learning and Playing with Social Robots</mark>" - [<mark>details</mark>](./session_details/shruti.html) - [zoom link]()
 
 7th May 2021\
