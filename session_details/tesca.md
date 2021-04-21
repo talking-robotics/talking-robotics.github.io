@@ -7,6 +7,10 @@ Dr. Tesca Fitzgerald is a Postdoctoral Researcher in the Robotics Institute at C
 
 Before joining Carnegie Mellon, Dr. Fitzgerald received her PhD at Georgia Tech, where she was co-advised by Dr. Ashok Goel and Dr. Andrea Thomaz. She completed her undergraduate studies at Portland State University with a B.Sc. in Computer Science. Dr. Fitzgerald is an NSF Graduate Research Fellow (2014), Microsoft Graduate Women Scholar (2014), and IBM Ph.D. Fellow (2017).
 
+Speaker Links: [Website](https://www.tescafitzgerald.com/)-[Linkedin](https://www.linkedin.com/in/tesca/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CMmL9qekVq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ## Abstract
