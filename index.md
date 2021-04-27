@@ -27,7 +27,8 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 "<mark>Child-Robot Interaction: Learning and Playing with Social Robots</mark>" - [<mark>details</mark>](./session_details/shruti.html) - [zoom link]()
 
 7th May 2021\
-**Christoforos Mavrogiannis**
+**Christoforos Mavrogiannis** 
+"Formalizing the Structure of Multiagent Domains for Autonomous Robot Navigation in Human Spaces" - [details](./session_details/christoforos.html)
 
 14th May 2021\
 **Shiwali Mohan**
