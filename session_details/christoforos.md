@@ -5,7 +5,7 @@ layout: default
 
 Christoforos (Chris) Mavrogiannis is a postdoctoral research associate in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, working with Prof. Siddhartha Srinivasa. His interests lie at the intersection of motion planning, multiagent systems, and algorithmic human-robot interaction, and he often draws tools from topology, motion planning, and machine learning. In parallel, he is leading MuSHR (mushr.io), the University of Washington’s open-source autonomous racecar project. In the past, Chris has been a best paper award finalist at the ACM/IEEE International Conference on Human-Robot Interaction (HRI), a finalist for the Hackaday Prize and a winner of the Robotdalen International Innovation Award. He has also been selected as Pioneer at the HRI and RSS conferences. Chris holds MS and PhD degrees from Cornell University, and a Diploma in mechanical engineering from the National Technical University of Athens.
 
-Speaker Links: [Website](www.chrismavrogiannis.com)- [Google Scholar](https://scholar.google.com/citations?user=dTV6Zj4AAAAJ&hl=en) - [Linkedin](https://www.linkedin.com/in/mavrogiannis/)
+Speaker Links: [Website](https://chrismavrogiannis.com/) - [Google Scholar](https://scholar.google.com/citations?user=dTV6Zj4AAAAJ&hl=en) - [Linkedin](https://www.linkedin.com/in/mavrogiannis/)
 
 ---
 
