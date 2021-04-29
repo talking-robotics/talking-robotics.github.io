@@ -24,7 +24,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Upcoming Talks
 30th April 2021\
 **<mark>Shruti Chandra</mark>**
-"<mark>Child-Robot Interaction: Learning and Playing with Social Robots</mark>" - [<mark>details</mark>](./session_details/shruti.html) - [zoom link]()
+"<mark>Child-Robot Interaction: Learning and Playing with Social Robots</mark>" - [<mark>details</mark>](./session_details/shruti.html) - [zoom link](https://us02web.zoom.us/meeting/register/tZYrcO6orjMtE9eHTVvBkOiCnueO7l-MoTgY)
 
 7th May 2021\
 **Christoforos Mavrogiannis** 
@@ -32,7 +32,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 14th May 2021\
 **Shiwali Mohan**
-"The Role of Cognitive Science in Designing Collaborative Robots"
+"Using Insights about Human Cognition to Design Social Robots" - [details](./session_details/shiwali.html)
 
 28th May 2021\
 **Prashan Madumal**
