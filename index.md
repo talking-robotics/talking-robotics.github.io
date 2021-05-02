@@ -22,13 +22,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-30th April 2021\
-**<mark>Shruti Chandra</mark>**
-"<mark>Child-Robot Interaction: Learning and Playing with Social Robots</mark>" - [<mark>details</mark>](./session_details/shruti.html) - [zoom link](https://us02web.zoom.us/meeting/register/tZYrcO6orjMtE9eHTVvBkOiCnueO7l-MoTgY)
-
 7th May 2021\
-**Christoforos Mavrogiannis** 
-"Formalizing the Structure of Multiagent Domains for Autonomous Robot Navigation in Human Spaces" - [details](./session_details/christoforos.html)
+**<mark>Christoforos Mavrogiannis</mark>** 
+"<mark>Formalizing the Structure of Multiagent Domains for Autonomous Robot Navigation in Human Spaces</mark>" - [<mark>details</mark>](./session_details/christoforos.html) - [<mark>registration link</mark>](https://us02web.zoom.us/meeting/register/tZAvceippzkiG9ZMMgEyNgaDLwT6Ca9pb_En)
 
 14th May 2021\
 **Shiwali Mohan**
@@ -50,6 +46,10 @@ Automated assessment of goal-centric engagement in learning applications"
 <hr />
 
 ### Past Talks
+30th April 2021\
+**Shruti Chandra**
+"Child-Robot Interaction: Learning and Playing with Social Robots" - [details](./session_details/shruti.html)
+
 16th April 2021\
 **Tesca  Fitzgerald**
 "Human-guided Task Transfer for Interactive Robots"- [details](./session_details/tesca.html) 
