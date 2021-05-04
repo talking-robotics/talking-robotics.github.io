@@ -7,6 +7,7 @@ Dr. Shruti Chandra is a Postdoctoral Fellow in the Social and Intelligent Roboti
 
 Speaker Links: [ResearchGate](https://www.researchgate.net/profile/Shruti_Chandra2) - [Linkedin](http://www.linkedin.com/in/rs-shruti)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4nHNP-544KM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## Abstract
