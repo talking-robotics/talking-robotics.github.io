@@ -23,7 +23,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 ### Upcoming Talks
 <mark>14th May 2021</mark>\
-<mark>**Shiwali Mohan**</mark>
+**<mark>Shiwali Mohan</mark>**
 <mark>"Using Insights about Human Cognition to Design Social Robots"</mark> - [<mark>details</mark>](./session_details/shiwali.html) - [<mark>registration link</mark>](https://us02web.zoom.us/meeting/register/tZAvde-rrz4oHdKrz0sAf0MM2hiQ0F06A2RE)
 
 28th May 2021\
