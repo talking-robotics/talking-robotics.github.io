@@ -7,6 +7,7 @@ Christoforos (Chris) Mavrogiannis is a postdoctoral research associate in the Pa
 
 Speaker Links: [Website](https://chrismavrogiannis.com/) - [Google Scholar](https://scholar.google.com/citations?user=dTV6Zj4AAAAJ&hl=en) - [Linkedin](https://www.linkedin.com/in/mavrogiannis/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LesLpkLNyr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## Abstract
