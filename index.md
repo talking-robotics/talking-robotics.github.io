@@ -28,6 +28,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 28th May 2021\
 **Prashan Madumal**
+"Causal Explanations for Reinforcement Learning Agents" [details](./session_details/prashan.html)
 
 11th June 2021\
 **Jauwaria Nasir**
