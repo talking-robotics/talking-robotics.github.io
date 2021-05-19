@@ -22,13 +22,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-<mark>14th May 2021</mark>\
-**<mark>Shiwali Mohan</mark>**
-<mark>"Using Insights about Human Cognition to Design Social Robots"</mark> - [<mark>details</mark>](./session_details/shiwali.html) - [<mark>registration link</mark>](https://us02web.zoom.us/meeting/register/tZAvde-rrz4oHdKrz0sAf0MM2hiQ0F06A2RE)
-
-28th May 2021\
-**Prashan Madumal**
-"Causal Explanations for Reinforcement Learning Agents" [details](./session_details/prashan.html)
+<mark>28th May 2021</mark>\
+**<mark>Prashan Madumal</mark>**
+"<mark>Causal Explanations for Reinforcement Learning Agents</mark>" [<mark>details</mark>](./session_details/prashan.html) -[<mark>registration link</mark>](https://us02web.zoom.us/meeting/register/tZUpc-2srTosH9RsrsnYpD-Bk2ttYG4-N9tv)
 
 11th June 2021\
 **Jauwaria Nasir**
@@ -43,6 +39,10 @@ Automated assessment of goal-centric engagement in learning applications"
 <hr />
 
 ### Past Talks
+14th May 2021\
+**Shiwali Mohan**
+"Using Insights about Human Cognition to Design Social Robots" - [details](./session_details/shiwali.html)
+
 7th May 2021\
 **Christoforos Mavrogiannis** 
 "Formalizing the Structure of Multiagent Domains for Autonomous Robot Navigation in Human Spaces" - [details](./session_details/christoforos.html) 
