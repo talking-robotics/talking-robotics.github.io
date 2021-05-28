@@ -26,7 +26,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 **<mark>Prashan Madumal</mark>**
 "<mark>Causal Explanations for Reinforcement Learning Agents</mark>" [<mark>details</mark>](./session_details/prashan.html) -[<mark>registration link</mark>](https://us02web.zoom.us/meeting/register/tZUpc-2srTosH9RsrsnYpD-Bk2ttYG4-N9tv)
 
-11th June 2021\
+18th June 2021\
 **Jauwaria Nasir**
 "What if Social Robots look for Productive Engagement? -
 Automated assessment of goal-centric engagement in learning applications"
