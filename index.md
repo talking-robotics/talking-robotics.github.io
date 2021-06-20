@@ -22,19 +22,19 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-<mark>18th June 2021</mark>\
-**<mark>Jauwaria Nasir</mark>**
-"<mark>What if Social Robots look for Productive Engagement? -
-Automated assessment of goal-centric engagement in learning applications</mark>" [<mark>details</mark>](./session_details/jauwairia.html) -[<mark>registration link</mark>]()
-
 25th June 2021\
-**Tanvi Dinkar** 
-"Representations of fillers to reflect metacognitive states"
+**<mark>Tanvi Dinkar</mark>** 
+"<mark>Representations of fillers and discourse markers in SLU: a psycholinguistic approach</mark>" [<mark>details</mark>](./session_details/tanvi.html) -[<mark>registration link</mark>]()
 
 
 <hr />
 
 ### Past Talks
+18th June 2021\
+**Jauwaria Nasir**
+"What if Social Robots look for Productive Engagement? -
+Automated assessment of goal-centric engagement in learning applications</mark>" [details](./session_details/jauwairia.html)
+
 28th May 2021\
 **Prashan Madumal**
 "Causal Explanations for Reinforcement Learning Agents" [details](./session_details/prashan.html)
