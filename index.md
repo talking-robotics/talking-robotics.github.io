@@ -24,7 +24,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Upcoming Talks
 25th June 2021\
 **<mark>Tanvi Dinkar</mark>** 
-"<mark>Representations of fillers and discourse markers in SLU: a psycholinguistic approach</mark>" [<mark>details</mark>](./session_details/tanvi.html) -[<mark>registration link</mark>]()
+"<mark>Representations of fillers and discourse markers in SLU: a psycholinguistic approach</mark>" [<mark>details</mark>](./session_details/tanvi.html) -[<mark>registration link</mark>](https://us02web.zoom.us/meeting/register/tZApc-msrzkuGdB4NZZkFkh_6i4p9BXi5nhI)
 
 
 <hr />
