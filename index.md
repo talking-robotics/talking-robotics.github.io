@@ -23,13 +23,18 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 ### Upcoming Talks
 25th June 2021\
-**<mark>Tanvi Dinkar</mark>** 
-"<mark>Representations of fillers and discourse markers in SLU: a psycholinguistic approach</mark>" [<mark>details</mark>](./session_details/tanvi.html) -[<mark>registration link</mark>](https://us02web.zoom.us/meeting/register/tZApc-msrzkuGdB4NZZkFkh_6i4p9BXi5nhI)
+**<mark>Elin Bjorling</mark>** 
+"<mark>Design and Development of a Social Robot to Measure and Reduce Stress in Teens</mark>" [<mark>details</mark>](./session_details/elin.html) -[<mark>registration link</mark>](https://us02web.zoom.us/meeting/register/tZcvf-iuqDMtG9Ywk0gz4renukB_XbEUYchg)
 
 
 <hr />
 
 ### Past Talks
+
+25th June 2021\
+**Tanvi Dinkar** 
+"Representations of fillers and discourse markers in SLU: a psycholinguistic approach" [details](./session_details/tanvi.html)
+
 18th June 2021\
 **Jauwaria Nasir**
 "What if Social Robots look for Productive Engagement? -
@@ -122,7 +127,7 @@ Automated assessment of goal-centric engagement in learning applications</mark>"
 4th September 2020\
 **Michael Jae-Yoon Chung**
 "Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference" - [talk](https://youtu.be/lf36COCC2A4) - [details](./session_details/mike.html) 
- 
+
 
 
 
