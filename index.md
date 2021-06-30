@@ -24,7 +24,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Upcoming Talks
 9th July 2021\
 **<mark>Elin Bjorling</mark>** 
-"<mark>Design and Development of a Social Robot to Measure and Reduce Stress in Teens</mark>" [<mark>details</mark>](./session_details/elin.html) -[<mark>registration link</mark>](https://us02web.zoom.us/meeting/register/tZcvf-iuqDMtG9Ywk0gz4renukB_XbEUYchg)
+"<mark>How Qualitative Methods Will Save Us from Designing the Wrong Robot : A Teenage Use Case</mark>" [<mark>details</mark>](./session_details/elin.html) -[<mark>registration link</mark>](https://us02web.zoom.us/meeting/register/tZcvf-iuqDMtG9Ywk0gz4renukB_XbEUYchg)
 
 
 <hr />
