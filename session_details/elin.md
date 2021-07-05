@@ -6,7 +6,7 @@ layout: default
 Elin Björling is a research scientist and co-founder of the Momentary Experience Lab at the Human Centered Design and Engineering, University of Washington (Seattle, USA). Her research leverages a participatory design approach to the research and development of new technologies (social robots and virtual reality) to improve teen mental health.
 
 
-Speaker Links: [Website](https://www.hcde.washington.edu/bjorling)-[MeLab](http://depts.washington.edu/melab/) - [GoogleScholar]( https://scholar.google.com/citations?user=ARmXjpcAAAAJ&hl=en
+Speaker Links: [Website](https://www.hcde.washington.edu/bjorling) - [MeLab](http://depts.washington.edu/melab/) - [GoogleScholar]( https://scholar.google.com/citations?user=ARmXjpcAAAAJ&hl=en
 )- [Twitter](https://twitter.com/elinbjorling) - [Linkedin](https://www.linkedin.com/in/elin-bjorling/)
 
 ---
