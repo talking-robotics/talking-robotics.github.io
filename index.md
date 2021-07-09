@@ -53,7 +53,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 18th June 2021\
 **Jauwaria Nasir**
 "What if Social Robots look for Productive Engagement? -
-Automated assessment of goal-centric engagement in learning applications</mark>" [details](./session_details/jauwairia.html)
+Automated assessment of goal-centric engagement in learning applications" [details](./session_details/jauwairia.html)
 
 28th May 2021\
 **Prashan Madumal**
