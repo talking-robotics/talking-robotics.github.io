@@ -24,7 +24,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Upcoming Talks
 20th August 2021\
 **<mark>Kate Darling</mark>** 
-"<mark>Legal and ethical perspectives of robots</mark>" [<mark>details</mark>](./session_details/elin.html) -[<mark>registration link</mark>]()
+"<mark>Legal and ethical perspectives of robots</mark>"
 
 17th September 2021\
 **Nikhita Singh** 
