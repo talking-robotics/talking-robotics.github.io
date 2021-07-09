@@ -22,14 +22,29 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-9th July 2021\
-**<mark>Elin Bjorling</mark>** 
-"<mark>How Qualitative Methods Will Save Us from Designing the Wrong Robot : A Teenage Use Case</mark>" [<mark>details</mark>](./session_details/elin.html) -[<mark>registration link</mark>](https://us02web.zoom.us/meeting/register/tZcvf-iuqDMtG9Ywk0gz4renukB_XbEUYchg)
+20th August 2021\
+**<mark>Kate Darling</mark>** 
+"<mark>Legal and ethical perspectives of robots</mark>" [<mark>details</mark>](./session_details/elin.html) -[<mark>registration link</mark>]()
+
+17th September 2021\
+**Nikhita Singh** 
+
+29th October 2021\
+**Marynel Vazquez** 
+
+12th November 2021\
+**Ilaria Torre**
+
+ 
 
 
 <hr />
 
 ### Past Talks
+
+9th July 2021\
+**Elin Bjorling** 
+"How Qualitative Methods Will Save Us from Designing the Wrong Robot : A Teenage Use Case" [details](./session_details/elin.html)
 
 25th June 2021\
 **Tanvi Dinkar** 
