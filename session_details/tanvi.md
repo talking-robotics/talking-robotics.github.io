@@ -6,6 +6,7 @@ Tanvi Dinkar is a PhD student at Télécom Paris, Insitut Polytechnique de Paris
 
 Speaker Links: [Google Scholar](https://scholar.google.fr/citations?user=IJObUygAAAAJ&hl=en) - [Linkedin](https://www.linkedin.com/in/tanvi-dinkar-001aa037/?originalSubdomain=fr)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mbx603Xy9cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## Abstract
