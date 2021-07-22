@@ -13,7 +13,7 @@ There has been a lot of ink devoted to discussions of how robots will replace us
 ---
 
 #### Book covered during the talk
-Kate Darling (2021).The New Breed: What Our History with Animals Reveals about Our Future with Robots.
+Kate Darling (2021). The New Breed: What Our History with Animals Reveals about Our Future with Robots.
 
 
 
