@@ -6,7 +6,6 @@ Dr. Kate Darling is a Research Specialist at the MIT Media Lab and author of THE
 
 Speaker Links: [Website](http://www.katedarling.org/) - [Twitter](https://twitter.com/grok_)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mbx603Xy9cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## Abstract
