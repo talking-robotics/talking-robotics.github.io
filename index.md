@@ -30,6 +30,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 17th September 2021\
 **Nikhita Singh** 
 
+1st October 2021\
+**Daniel Brown** 
+
 29th October 2021\
 **Marynel Vazquez** 
 
