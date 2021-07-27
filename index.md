@@ -24,7 +24,8 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Upcoming Talks
 20th August 2021\
 **<mark>Kate Darling</mark>** 
-"<mark>The New Breed: What Our History with Animals Reveals about Our Future with Robots</mark>" - [details](./session_details/kate.html)
+"<mark>The New Breed: What Our History with Animals Reveals about Our Future with Robots</mark>" - [<mark>details</mark>session_details/kate.html) - [<mark>zoom link</mark>](
+ https://us02web.zoom.us/meeting/register/tZUrcOGoqDsuGdLic-D3IS30gLqK2uDeePoU)
 
 17th September 2021\
 **Nikhita Singh** 
