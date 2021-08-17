@@ -35,6 +35,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 12th November 2021\
 **Ilaria Torre**
 
+26th November 2021\
+**Fethiye Irmak Dogan**
+
  
 
 
