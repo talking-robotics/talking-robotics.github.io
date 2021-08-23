@@ -29,6 +29,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 1st October 2021\
 **Daniel Brown** - [zoom link](https://us02web.zoom.us/j/87697561094)
 
+15th October 2021\
+**Micah Corah**
+
 29th October 2021\
 **Marynel Vazquez** 
 
