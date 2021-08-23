@@ -38,6 +38,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 26th November 2021\
 **Fethiye Irmak Dogan**
 
+7th January 2022\
+**Tony Belpaeme** 
+
  
 
 
