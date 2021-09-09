@@ -4,7 +4,7 @@ layout: default
 ## Speaker
 
 Nikhita Singh explores, curates, and scales how robots+AI can empower humans in dynamic environments like homes, education, labs, assisted living, factories, disaster relief, and space. 
-Currently, She is Co-founder and Chief Product Officer at Artificial, building automation infrastructure and tools for the future of biotech labs. Formerly at MIT Media Lab, Palantir, Field Innovation Team and UC Berkeley AutoLab.
+Currently, she is Co-founder and Chief Product Officer at Artificial, building automation infrastructure and tools for the future of biotech labs. Formerly at [MIT Media Lab](https://www.media.mit.edu/), [Palantir](https://www.palantir.com/), [Field Innovation Team](http://fieldinnovationteam.org/) and [UC Berkeley AutoLab](https://autolab.berkeley.edu/).
 
 
 Speaker Links: [Website](www.nikhitasingh.cm) - [Google Scholar](https://scholar.google.com/citations?user=hp-3KYoAAAAJ&hl=en)
