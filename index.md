@@ -23,8 +23,8 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 ### Upcoming Talks
 
-17th September 2021\
-**Nikhita Singh** 
+<mark>17th September 2021</mark>\
+**<mark>Nikhita Singh</mark>** - [<mark>details</mark>](./session_details/nikhita.html) - [<mark>zoom link</mark>](https://us02web.zoom.us/meeting/register/tZYkcO-hrz4tHtbEiwWo303MGX_T11SucYWn)
 
 1st October 2021\
 **Daniel Brown** - [zoom link](https://us02web.zoom.us/j/87697561094)
