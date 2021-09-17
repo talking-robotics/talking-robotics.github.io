@@ -28,7 +28,8 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 <mark>"Robots in the Wild: From Academia to Industry"</mark> - [details](./session_details/nikhita.html) - [zoom link](https://us02web.zoom.us/meeting/register/tZYkcO-hrz4tHtbEiwWo303MGX_T11SucYWn)
 
 1st October 2021\
-**Daniel Brown** - [zoom link](https://us02web.zoom.us/j/87697561094)
+**Daniel Brown**
+"Leveraging Human Input for Robust Robot Learning" - [details](./session_details/daniel.html) - [zoom link](https://us02web.zoom.us/j/87697561094)
 
 15th October 2021\
 **Micah Corah**
