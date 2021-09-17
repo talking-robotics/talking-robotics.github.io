@@ -56,129 +56,129 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Past Talks
 
 9th July 2021\
-**Elin Bjorling** - [details](./session_details/elin.html)\
+**Elin Bjorling** - [details](./session_details/elin.html)  
 "How Qualitative Methods Will Save Us from Designing the Wrong Robot : A Teenage Use Case"
 
 
 25th June 2021\
-**Tanvi Dinkar** - [details](./session_details/tanvi.html)\
+**Tanvi Dinkar** - [details](./session_details/tanvi.html)  
 "Representations of fillers and discourse markers in SLU: a psycholinguistic approach"
 
 
 18th June 2021\
-**Jauwaria Nasir** - [details](./session_details/jauwairia.html)\
+**Jauwaria Nasir** - [details](./session_details/jauwairia.html)  
 "What if Social Robots look for Productive Engagement? -
 Automated assessment of goal-centric engagement in learning applications"
 
 
 28th May 2021\
-**Prashan Madumal** - [details](./session_details/prashan.html)\
+**Prashan Madumal** - [details](./session_details/prashan.html)  
 "Causal Explanations for Reinforcement Learning Agents"
 
 
 
 14th May 2021\
-**Shiwali Mohan** - [details](./session_details/shiwali.html)\
+**Shiwali Mohan** - [details](./session_details/shiwali.html)  
 "Using Insights about Human Cognition to Design Social Robots"
 
 
 7th May 2021\
-**Christoforos Mavrogiannis** - [details](./session_details/christoforos.html)\  
+**Christoforos Mavrogiannis** - [details](./session_details/christoforos.html)  
 "Formalizing the Structure of Multiagent Domains for Autonomous Robot Navigation in Human Spaces"
 
 
 30th April 2021\
-**Shruti Chandra** - [details](./session_details/shruti.html)\  
+**Shruti Chandra** - [details](./session_details/shruti.html)    
 "Child-Robot Interaction: Learning and Playing with Social Robots"
 
 
 16th April 2021\
-**Tesca  Fitzgerald** - [details](./session_details/tesca.html)\  
+**Tesca  Fitzgerald** - [details](./session_details/tesca.html)   
 "Human-guided Task Transfer for Interactive Robots"
 
 
 2nd April 2021\
-**Filipa Correia** - [details](./session_details/filipa.html)\
+**Filipa Correia** - [details](./session_details/filipa.html)  
 "Group Intelligence on Social Robots"
 
 
 19th March 2021\
-**Ross Mead** - [details](./session_details/ross.html)\
+**Ross Mead** - [details](./session_details/ross.html)  
 "Bringing Robots To Life"
 
 
 5th March 2021\
-**Kim Baraka** - [details](./session_details/kim.html)\
+**Kim Baraka** - [details](./session_details/kim.html)  
 "Humans and Robots Teaching and Learning through Social Interaction"
 
 
 19th February 2021\
-**Nils Hagberg** - [details](./session_details/nils.html)\
+**Nils Hagberg** - [details](./session_details/nils.html)  
 "A call for a Human Approach to Technology"
  
 
 5th February 2021\
-**Glenda Hannibal** - [details](./session_details/glenda.html)\
+**Glenda Hannibal** - [details](./session_details/glenda.html)  
 "Trust in HRI: Probing Vulnerability as an Active Precondition"
  
 
 22th January 2021\
-**Carl Mueller** - [details](./session_details/carl.html)\
+**Carl Mueller** - [details](./session_details/carl.html)  
 "Robot Learning from Demonstration Driven Constrained Skill Learning & Motion Planning"
 
 
 15th January 2021\
-**Daniel Rakita** - [details](./session_details/daniel.html)\
+**Daniel Rakita** - [details](./session_details/daniel.html)  
 "Methods and Applications for Generating Accurate and Feasible Robot-arm Motions in Real-time"
 
 
 8th January 2021\
-**Barbara Bruno** - [details](./session_details/barbara.html)\
+**Barbara Bruno** - [details](./session_details/barbara.html)  
 "Culture-Aware Robotics"
 
 
 18th December 2020\
-**David Porfirio** - [details](./session_details/david.html)\  
+**David Porfirio** - [details](./session_details/david.html)    
 "Authoring Social Interactions Between Humans and Robots
 
 
 11th December 2020\
-**Nikolas Martelaro** - [details](./session_details/nikolas.html)\  
+**Nikolas Martelaro** - [details](./session_details/nikolas.html)    
 "Remote User Research for Human-Robot Interaction"
 
 
 27th November 2020\
-**Manuel Bied** - [details](./session_details/manuel.html)\   
+**Manuel Bied** - [details](./session_details/manuel.html)     
 "Integrating an Observer in Interactive Reinforcement Learning to Learn Legible Trajectories"
 
 
 13th November 2020\
-**Natalia Calvo** - [details](./session_details/natalia.html)\  
+**Natalia Calvo** - [details](./session_details/natalia.html)    
 "How children build a trust model of a social robot in the first encounter?"
 
 
 30th October 2020\
-**Taras Kucherenko** - [details](./session_details/taras.html)\   
+**Taras Kucherenko** - [details](./session_details/taras.html)     
 "Gesticulating Agents: Why and How?"
 
 
 16th October 2020\
-**Homanga Bharadhwaj** - [details](./session_details/homanga.html)\  
+**Homanga Bharadhwaj** - [details](./session_details/homanga.html)    
 "Learning RL policies adaptive to variations in the environment"
 
 
 2nd October 2020\
-**Naomi Fitter** - [details](./session_details/naomi.html)\  
+**Naomi Fitter** - [details](./session_details/naomi.html)    
 "Everything I Know about Telepresence"
 
 
 25th September 2020\
-**Hang Yin** - [details](./session_details/hang.html)\  
+**Hang Yin** - [details](./session_details/hang.html)    
 "Efficient Representations in Learning Visual Planning and Contact-rich Tasks"
 
 
 4th September 2020\
-**Michael Jae-Yoon Chung** - [details](./session_details/mike.html)\   
+**Michael Jae-Yoon Chung** - [details](./session_details/mike.html)     
 "Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference"
 
 
