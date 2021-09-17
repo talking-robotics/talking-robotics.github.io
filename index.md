@@ -24,7 +24,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Upcoming Talks
 
 <mark>17th September 2021</mark>\
-**<mark>Nikhita Singh</mark>** -[details](./session_details/nikhita.html) - [zoom link](https://us02web.zoom.us/meeting/register/tZYkcO-hrz4tHtbEiwWo303MGX_T11SucYWn)  
+**<mark>Nikhita Singh</mark>** - [details](./session_details/nikhita.html) - [zoom link](https://us02web.zoom.us/meeting/register/tZYkcO-hrz4tHtbEiwWo303MGX_T11SucYWn)  
 <mark>"Robots in the Wild: From Academia to Industry"</mark>
 
 
