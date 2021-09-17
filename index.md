@@ -83,17 +83,17 @@ Automated assessment of goal-centric engagement in learning applications"
 
 
 7th May 2021\
-**Christoforos Mavrogiannis** - [details](./session_details/christoforos.html) \ 
+**Christoforos Mavrogiannis** - [details](./session_details/christoforos.html)\  
 "Formalizing the Structure of Multiagent Domains for Autonomous Robot Navigation in Human Spaces"
 
 
 30th April 2021\
-**Shruti Chandra** - [details](./session_details/shruti.html)\
+**Shruti Chandra** - [details](./session_details/shruti.html)\  
 "Child-Robot Interaction: Learning and Playing with Social Robots"
 
 
 16th April 2021\
-**Tesca  Fitzgerald** - [details](./session_details/tesca.html)\
+**Tesca  Fitzgerald** - [details](./session_details/tesca.html)\  
 "Human-guided Task Transfer for Interactive Robots"
 
 
@@ -138,47 +138,47 @@ Automated assessment of goal-centric engagement in learning applications"
 
 
 18th December 2020\
-**David Porfirio** - [details](./session_details/david.html)\
+**David Porfirio** - [details](./session_details/david.html)\  
 "Authoring Social Interactions Between Humans and Robots
 
 
 11th December 2020\
-**Nikolas Martelaro** - [details](./session_details/nikolas.html)\
+**Nikolas Martelaro** - [details](./session_details/nikolas.html)\  
 "Remote User Research for Human-Robot Interaction"
 
 
 27th November 2020\
-**Manuel Bied** - [details](./session_details/manuel.html)\ 
+**Manuel Bied** - [details](./session_details/manuel.html)\   
 "Integrating an Observer in Interactive Reinforcement Learning to Learn Legible Trajectories"
 
 
 13th November 2020\
-**Natalia Calvo** - [details](./session_details/natalia.html)\
+**Natalia Calvo** - [details](./session_details/natalia.html)\  
 "How children build a trust model of a social robot in the first encounter?"
 
 
 30th October 2020\
-**Taras Kucherenko** - [details](./session_details/taras.html)\ 
+**Taras Kucherenko** - [details](./session_details/taras.html)\   
 "Gesticulating Agents: Why and How?"
 
 
 16th October 2020\
-**Homanga Bharadhwaj** - [details](./session_details/homanga.html)\ 
+**Homanga Bharadhwaj** - [details](./session_details/homanga.html)\  
 "Learning RL policies adaptive to variations in the environment"
 
 
 2nd October 2020\
-**Naomi Fitter** - [details](./session_details/naomi.html)\
+**Naomi Fitter** - [details](./session_details/naomi.html)\  
 "Everything I Know about Telepresence"
 
 
 25th September 2020\
-**Hang Yin** - [details](./session_details/hang.html)\
+**Hang Yin** - [details](./session_details/hang.html)\  
 "Efficient Representations in Learning Visual Planning and Contact-rich Tasks"
 
 
 4th September 2020\
-**Michael Jae-Yoon Chung** - [details](./session_details/mike.html)\ 
+**Michael Jae-Yoon Chung** - [details](./session_details/mike.html)\   
 "Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference"
 
 
