@@ -29,7 +29,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 1st October 2021\
 **Daniel Brown**
-"Leveraging Human Input for Robust Robot Learning" - [details](./session_details/daniel.html) - [zoom link](https://us02web.zoom.us/j/87697561094)
+"Leveraging Human Input for Robust Robot Learning" - [details](./session_details/danielbrown.html) - [zoom link](https://us02web.zoom.us/j/87697561094)
 
 15th October 2021\
 **Micah Corah**
