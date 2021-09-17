@@ -102,7 +102,7 @@ Automated assessment of goal-centric engagement in learning applications"
 "Group Intelligence on Social Robots"
 
 
-19th March 2021 - 4 pm GMT\
+19th March 2021\
 **Ross Mead** - [details](./session_details/ross.html)\
 "Bringing Robots To Life"
 
