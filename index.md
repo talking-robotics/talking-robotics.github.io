@@ -83,7 +83,7 @@ Automated assessment of goal-centric engagement in learning applications"
 
 
 7th May 2021\
-**Christoforos Mavrogiannis** - [details](./session_details/christoforos.html)\ 
+**Christoforos Mavrogiannis** - [details](./session_details/christoforos.html) \ 
 "Formalizing the Structure of Multiagent Domains for Autonomous Robot Navigation in Human Spaces"
 
 
