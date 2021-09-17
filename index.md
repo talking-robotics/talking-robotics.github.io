@@ -178,7 +178,7 @@ Automated assessment of goal-centric engagement in learning applications"
 
 
 4th September 2020\
-**Michael Jae-Yoon Chung** - [details](./session_details/mike.html)\ 
+**Michael Jae-Yoon Chung** - [details](./session_details/mike.html) \ 
 "Iterative Repair of Social Robot Programs from Implicit User Feedback via Bayesian Inference"
 
 
