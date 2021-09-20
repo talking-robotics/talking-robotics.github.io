@@ -50,7 +50,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Past Talks
 
 17th September 2021\
-**Nikhita Singh** - [details](./session_details/nikhita.html) 
+**Nikhita Singh** - [details](./session_details/nikhita.html)   
 "Robots in the Wild: From Academia to Industry"
 
 
