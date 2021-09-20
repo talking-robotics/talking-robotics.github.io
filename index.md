@@ -23,15 +23,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 ### Upcoming Talks
 
-<mark>17th September 2021</mark>\
-**<mark>Nikhita Singh</mark>** - [details](./session_details/nikhita.html) - [zoom link](https://us02web.zoom.us/meeting/register/tZYkcO-hrz4tHtbEiwWo303MGX_T11SucYWn)  
-<mark>"Robots in the Wild: From Academia to Industry"</mark>
-
-
-1st October 2021\
-**Daniel Brown** - [details](./session_details/danielbrown.html) - [zoom link](https://us02web.zoom.us/j/87697561094)  
-"Leveraging Human Input for Robust Robot Learning"
-
+<mark>1st October 2021</mark>\
+**<mark>Daniel Brown</mark>** - [<mark>details</mark>](./session_details/danielbrown.html) - [<mark>zoom link</mark>](https://us02web.zoom.us/j/87697561094)  
+"<mark>Leveraging Human Input for Robust Robot Learning</mark>"
 
 15th October 2021\
 **Micah Corah**
@@ -54,6 +48,11 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 <hr />
 
 ### Past Talks
+
+17th September 2021\
+**Nikhita Singh** - [details](./session_details/nikhita.html) 
+"Robots in the Wild: From Academia to Industry"
+
 
 9th July 2021\
 **Elin Bjorling** - [details](./session_details/elin.html)  
