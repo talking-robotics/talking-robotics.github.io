@@ -7,7 +7,7 @@ Nikhita Singh explores, curates, and scales how robots+AI can empower humans in 
 Currently, she is Co-founder and Chief Product Officer at Artificial, building automation infrastructure and tools for the future of biotech labs. Formerly at [MIT Media Lab](https://www.media.mit.edu/), [Palantir](https://www.palantir.com/), [Field Innovation Team](http://fieldinnovationteam.org/) and [UC Berkeley AutoLab](https://autolab.berkeley.edu/).
 
 
-Speaker Links: [Website](www.nikhitasingh.cm) - [Google Scholar](https://scholar.google.com/citations?user=hp-3KYoAAAAJ&hl=en)
+Speaker Links: [Website](https://www.nikhitasingh.com/) - [Google Scholar](https://scholar.google.com/citations?hl=en&user=jHdDvSkAAAAJ&view_op=list_works&sortby=pubdate) - [Twitter](https://twitter.com/nikhitasingh)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwZO5EiGkhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
