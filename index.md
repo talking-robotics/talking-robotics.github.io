@@ -24,7 +24,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Upcoming Talks
 
 <mark>1st October 2021</mark>\
-**<mark>Daniel Brown</mark>** - [<mark>details</mark>](./session_details/danielbrown.html) - [<mark>zoom link</mark>](https://us02web.zoom.us/j/87697561094)  
+**<mark>Daniel Brown</mark>** - [<mark>details</mark>](./session_details/danielbrown.html) - [<mark>zoom link</mark>](https://us02web.zoom.us/meeting/register/tZMrfu6tqDoqE9DN3YoZvI8XdtVMaLk6SyeR)  
 <mark>"Leveraging Human Input for Robust Robot Learning"</mark>
 
 15th October 2021\
