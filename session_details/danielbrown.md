@@ -7,6 +7,8 @@ Daniel is a postdoc at UC Berkeley, advised by Anca Dragan and Ken Goldberg. His
 
 Speaker Links: [Google Scholar](https://scholar.google.com/citations?user=A3wg18wAAAAJ&hl=en) - [Website](https://people.eecs.berkeley.edu/~dsbrown/)- [Linkedin](https://www.linkedin.com/in/daniel-brown-0ba93b21/) - [Twitter](https://twitter.com/daniel_s_brown?lang=en) - [Github](https://github.com/dsbrown1331)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/okKbRMawxPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ## Abstract
