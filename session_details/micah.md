@@ -3,7 +3,7 @@ layout: default
 ---
 ## Speaker
 
-Micah is a postdoc at the NASA Jet Propulsion Laboratory with Dr. Ali Agha where he competed with team CoSTAR in the DARPA Subterranean Challenge. Previously, Micah completed a Ph.D. in Robotics at Carnegie Mellon University advised by Prof. Nathan Michael focusing on distributed perception planning and multi-robot exploration. Micah is deeply interested in problems related to navigation, perception planning, and control for mobile robots and especially aerial robot teams. and the Ph.D. in Robotics from the University of Genoa in 2011 and 2015, respectively. She is part of the NCCR Robotics organisation and currently involved in the EU ITN ANIMATAS. In 2017-2019 she was Technical Manager of the H2020 project CARESSES, aiming at endowing assistive robots with cultural competence. She has published more than 40 articles in international journals and peer-reviewed international conferences. Her research interests are in Social Robotics and Human–Robot Interaction and Cooperation.
+Micah is a postdoc at the NASA Jet Propulsion Laboratory with Dr. Ali Agha where he competed with team CoSTAR in the DARPA Subterranean Challenge. Previously, Micah completed a Ph.D. in Robotics at Carnegie Mellon University advised by Prof. Nathan Michael focusing on distributed perception planning and multi-robot exploration. Micah is deeply interested in problems related to navigation, perception planning, and control for mobile robots and especially aerial robot teams.
 
 Speaker Links: [Linkedin](https://www.linkedin.com/in/micahcorah/) - [Google Scholar](https://scholar.google.com/citations?user=NHt9KX4AAAAJ&hl=en)
 
