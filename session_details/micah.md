@@ -5,7 +5,7 @@ layout: default
 
 Micah is a postdoc at the NASA Jet Propulsion Laboratory with Dr. Ali Agha where he competed with team [CoSTAR](https://costar.jpl.nasa.gov/) in the DARPA Subterranean Challenge. Previously, Micah completed a Ph.D. in Robotics at [Carnegie Mellon University](https://www.cmu.edu/) advised by Prof. Nathan Michael focusing on distributed perception planning and multi-robot exploration. Micah is deeply interested in problems related to navigation, perception planning, and control for mobile robots and especially aerial robot teams.
 
-Speaker Links: [Linkedin](https://www.linkedin.com/in/micahcorah/) - [Google Scholar](https://scholar.google.com/citations?user=NHt9KX4AAAAJ&hl=en)
+Speaker Links: [Linkedin](https://www.linkedin.com/in/micahcorah/) - [Google Scholar](https://scholar.google.com/citations?user=NHt9KX4AAAAJ&hl=en) - [Twitter](https://twitter.com/corahmicah)
 
 ---
 
