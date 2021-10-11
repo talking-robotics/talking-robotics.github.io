@@ -3,7 +3,7 @@ layout: default
 ---
 ## Speaker
 
-Daniel is a postdoc at UC Berkeley, advised by Anca Dragan and Ken Goldberg. His research interests include robot learning, reward inference, AI safety, and multi-agent systems. He received his Ph.D. in computer science from the University of Texas at Austin, where he worked with Scott Niekum on safe imitation learning. Prior to starting his PhD, Daniel worked for the Air Force Research Lab's Information Directorate where he studied bio-inspired swarms and multi-agent planning.
+Daniel is a postdoc at [UC Berkeley](https://www.berkeley.edu/), advised by Anca Dragan and Ken Goldberg. His research interests include robot learning, reward inference, AI safety, and multi-agent systems. He received his Ph.D. in computer science from the University of Texas at Austin, where he worked with Scott Niekum on safe imitation learning. Prior to starting his PhD, Daniel worked for the [Air Force Research Lab](https://www.afrl.af.mil/)'s Information Directorate where he studied bio-inspired swarms and multi-agent planning.
 
 Speaker Links: [Google Scholar](https://scholar.google.com/citations?user=A3wg18wAAAAJ&hl=en) - [Website](https://people.eecs.berkeley.edu/~dsbrown/)- [Linkedin](https://www.linkedin.com/in/daniel-brown-0ba93b21/) - [Twitter](https://twitter.com/daniel_s_brown?lang=en) - [Github](https://github.com/dsbrown1331)
 
