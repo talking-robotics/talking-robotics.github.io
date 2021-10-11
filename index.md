@@ -40,6 +40,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 7th January 2022\
 **Tony Belpaeme** 
 
+18th February 2022\
+**Pratap Tokekar** 
+
  
 
 
