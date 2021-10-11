@@ -3,7 +3,7 @@ layout: default
 ---
 ## Speaker
 
-Marynel Vázquez is an Assistant Professor in Yale’s Computer Science Department, where she leads the Interactive Machines Group. Her research focuses on Human-Robot Interaction (HRI), specially in multi-party settings. Marynel and her students investigate social group phenomena in HRI and develop perception and decision making algorithms to enable autonomous robot behavior. Marynel received her bachelor's degree in Computer Engineering from Universidad Simón Bolívar in 2008, and obtained her M.S. and Ph.D. in Robotics from Carnegie Mellon University in 2013 and 2017, respectively. Before joining Yale, Marynel was a collaborator of Disney Research and a Post-Doctoral Scholar at the Stanford Vision & Learning Lab.
+Marynel Vázquez is an Assistant Professor in Yale’s Computer Science Department, where she leads the Interactive Machines Group. Her research focuses on Human-Robot Interaction (HRI), specially in multi-party settings. Marynel and her students investigate social group phenomena in HRI and develop perception and decision making algorithms to enable autonomous robot behavior. Marynel received her bachelor's degree in Computer Engineering from [Universidad Simón Bolívar](https://www.unisimon.edu.co/) in 2008, and obtained her M.S. and Ph.D. in Robotics from [Carnegie Mellon University](https://www.cmu.edu/) in 2013 and 2017, respectively. Before joining Yale, Marynel was a collaborator of [Disney Research](https://www.disneyresearch.com/) and a Post-Doctoral Scholar at the [Stanford Vision & Learning Lab](http://svl.stanford.edu/).
 
 
 
