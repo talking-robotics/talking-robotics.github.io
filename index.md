@@ -24,11 +24,12 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Upcoming Talks
 
 <mark>15th October 2021</mark>\
-**<mark>Micah Corah</mark>** - [<mark>details</mark>](./session_details/micah.html) - [<mark>zoom link</mark>]()  
+**<mark>Micah Corah</mark>** - [<mark>details</mark>](./session_details/micah.html) - [<mark>zoom registration link</mark>](https://us02web.zoom.us/meeting/register/tZEqcu6urjkrHtemJzgvTicecM6h3SsulHP3)  
 <mark>"Active perception and exploration with teams of robots: From simulation to subterranean"</mark>
 
 29th October 2021\
-**Marynel Vazquez** 
+**Marynel Vazquez** - [details](./session_details/marynel.html) - [zoom registration link]( https://us02web.zoom.us/meeting/register/tZAkcO2pqT4oHdGGwI0quqdurLeR-Gv0Bh_V)  
+"Challenges and Opportunities of Data-Driven Human-Robot Interaction"  
 
 12th November 2021\
 **Ilaria Torre**
