@@ -23,13 +23,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 ### Upcoming Talks
 
-<mark>15th October 2021</mark>\
-**<mark>Micah Corah</mark>** - [<mark>details</mark>](./session_details/micah.html) - [<mark>zoom registration link</mark>](https://us02web.zoom.us/meeting/register/tZEqcu6urjkrHtemJzgvTicecM6h3SsulHP3)  
-<mark>"Active perception and exploration with teams of robots: From simulation to subterranean"</mark>
-
 29th October 2021\
-**Marynel Vazquez** - [details](./session_details/marynel.html) - [zoom registration link]( https://us02web.zoom.us/meeting/register/tZAkcO2pqT4oHdGGwI0quqdurLeR-Gv0Bh_V)  
-"Challenges and Opportunities of Data-Driven Human-Robot Interaction"  
+**<mark>Marynel Vazquez</mark>** - [<mark>details</mark>](./session_details/marynel.html) - [<mark>zoom registration link</mark>]( https://us02web.zoom.us/meeting/register/tZAkcO2pqT4oHdGGwI0quqdurLeR-Gv0Bh_V)  
+"<mark>Challenges and Opportunities of Data-Driven Human-Robot Interaction</mark>"  
 
 5th November 2021\
 **Ruth Aylett**  
@@ -53,6 +49,10 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 <hr />
 
 ### Past Talks
+15th October 2021\
+**Micah Corah** - [<mark>details</mark>](./session_details/micah.html)
+"Active perception and exploration with teams of robots: From simulation to subterranean"
+
 1st October 2021\
 **Daniel Brown** - [details](./session_details/danielbrown.html)    
 "Leveraging Human Input for Robust Robot Learning"
