@@ -50,7 +50,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 ### Past Talks
 15th October 2021\
-**Micah Corah** - [<mark>details</mark>](./session_details/micah.html)  
+**Micah Corah** - [details](./session_details/micah.html)  
 "Active perception and exploration with teams of robots: From simulation to subterranean"
 
 1st October 2021\
