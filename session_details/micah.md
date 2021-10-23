@@ -7,6 +7,8 @@ Micah is a postdoc at the NASA Jet Propulsion Laboratory with Dr. Ali Agha where
 
 Speaker Links: [Linkedin](https://www.linkedin.com/in/micahcorah/) - [Google Scholar](https://scholar.google.com/citations?user=NHt9KX4AAAAJ&hl=en) - [Twitter](https://twitter.com/corahmicah)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KIQkryeUJ6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ## Abstract
