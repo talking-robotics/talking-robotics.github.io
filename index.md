@@ -25,7 +25,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 29th October 2021\
 **<mark>Marynel Vazquez</mark>** - [<mark>details</mark>](./session_details/marynel.html) - [<mark>zoom registration link</mark>]( https://us02web.zoom.us/meeting/register/tZAkcO2pqT4oHdGGwI0quqdurLeR-Gv0Bh_V)  
-"<mark>Challenges and Opportunities of Data-Driven Human-Robot Interaction</mark>"  
+"<mark>Group Human-Robot Interaction: Challenges and Opportunities for Data-Driven Techniques</mark>"  
 
 5th November 2021\
 **Ruth Aylett**  
