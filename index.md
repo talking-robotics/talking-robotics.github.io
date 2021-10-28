@@ -29,7 +29,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 5th November 2021\
 **Ruth Aylett**  
-"Living with Robots: What Every Anxious Human Needs to Know"
+"Living with Robots: What Every Anxious Human Needs to Know" - [details](./session_details/ruth.html)
 
 12th November 2021\
 **Ilaria Torre**
