@@ -29,6 +29,6 @@ In this talk, I will first present a series of experiments where people played t
 
 * **Torre, I.**, Linard, A., Steen, A., Tumová, J., & Leite, I. (2021). Should Robots Chicken? How Anthropomorphism and Perceived Autonomy Influence Trajectories in a Game-Theoretic Problem. In Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction, pp. 370-379.
 
-  Orthmann, B., Torre, I, & Leite, I. (2021). Auditory displays of robots’ actions and intentions. In Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction: Workshop on Sound in Human-Robot Interaction.
+*  Orthmann, B., Torre, I, & Leite, I. (2021). Auditory displays of robots’ actions and intentions. In Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction: Workshop on Sound in Human-Robot Interaction.
 
-  Linard, A., **Torre, I.**, Steen, A., Leite, I., & Tumova, J. (2021). Formalizing Trajectories in Human-Robot Encounters via Probabilistic STL Inference. In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+*  Linard, A., **Torre, I.**, Steen, A., Leite, I., & Tumova, J. (2021). Formalizing Trajectories in Human-Robot Encounters via Probabilistic STL Inference. In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
