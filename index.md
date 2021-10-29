@@ -27,7 +27,8 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 "Living with Robots: What Every Anxious Human Needs to Know" - [details](./session_details/ruth.html)
 
 12th November 2021\
-**Ilaria Torre**
+**Ilaria Torre**  
+"Investigating and communicating motivation in social robot navigation" - [details](./session_details/ilaria.html)
 
 26th November 2021\
 **Fethiye Irmak Dogan**
