@@ -18,13 +18,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 ### Upcoming Talks
 
-29th October 2021\
-**<mark>Marynel Vazquez</mark>** - [<mark>details</mark>](./session_details/marynel.html) - [<mark>zoom registration link</mark>]( https://us02web.zoom.us/meeting/register/tZAkcO2pqT4oHdGGwI0quqdurLeR-Gv0Bh_V)  
-"<mark>Group Human-Robot Interaction: Challenges and Opportunities for Data-Driven Techniques</mark>"  
-
 5th November 2021\
-**Ruth Aylett**  
-"Living with Robots: What Every Anxious Human Needs to Know" - [details](./session_details/ruth.html)
+**<mark>Ruth Aylett</mark>**  
+"<mark>Living with Robots: What Every Anxious Human Needs to Know</mark>" - [<mark>details</mark>](./session_details/ruth.html) - [<mark>zoom registration link</mark>](https://us02web.zoom.us/meeting/register/tZAlcOqurDwvH9dgzQte8vzehPhUxd1vtezA)
 
 12th November 2021\
 **Ilaria Torre**  
@@ -45,6 +41,10 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 <hr />
 
 ### Past Talks
+29th October 2021\
+**Marynel Vazquez** - [details](./session_details/marynel.html)  
+"Group Human-Robot Interaction: Challenges and Opportunities for Data-Driven Techniques"  
+
 15th October 2021\
 **Micah Corah** - [details](./session_details/micah.html)  
 "Active perception and exploration with teams of robots: From simulation to subterranean"
