@@ -9,6 +9,8 @@ Marynel Vázquez is an Assistant Professor in Yale’s Computer Science Departme
 
 Speaker Links: [Website](https://marynel.net/) - [Google Scholar](https://scholar.google.com/citations?user=-wm8urcAAAAJ) - [Github](https://github.com/marynelv) - [Lab Website](https://interactive-machines.com/) - [Twitter](https://twitter.com/marynel_vazquez)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V6DlSK67zdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ## Abstract
