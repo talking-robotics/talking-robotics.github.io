@@ -18,13 +18,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 ### Upcoming Talks
 
-5th November 2021\
-**<mark>Ruth Aylett</mark>**  
-"<mark>Living with Robots: What Every Anxious Human Needs to Know</mark>" - [<mark>details</mark>](./session_details/ruth.html) - [<mark>zoom registration link</mark>](https://us02web.zoom.us/meeting/register/tZAlcOqurDwvH9dgzQte8vzehPhUxd1vtezA)
-
 12th November 2021\
-**Ilaria Torre**  
-"Investigating and communicating motivation in social robot navigation" - [details](./session_details/ilaria.html)
+**<mark>Ilaria Torre</mark>**  
+"<mark>Investigating and communicating motivation in social robot navigation</mark>" - [<mark>details</mark>](./session_details/ilaria.html) - [<mark>zoom registration link</mark>](https://us02web.zoom.us/meeting/register/tZUoceqgrzooHt0K0mFK5I9Aca2QFK9ItPW8)
 
 26th November 2021\
 **Fethiye Irmak Dogan**
@@ -41,6 +37,10 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 <hr />
 
 ### Past Talks
+5th November 2021\
+**Ruth Aylett**    
+"Living with Robots: What Every Anxious Human Needs to Know" - [details](./session_details/ruth.html)
+
 29th October 2021\
 **Marynel Vazquez** - [details](./session_details/marynel.html)  
 "Group Human-Robot Interaction: Challenges and Opportunities for Data-Driven Techniques"  
