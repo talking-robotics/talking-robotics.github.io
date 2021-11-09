@@ -9,6 +9,8 @@ Ruth S. Aylett is a British author, computer scientist, professor, poet, and pol
 
 Speaker Links: [Website]( http://www.macs.hw.ac.uk/~ruth/) - [Google Scholar](https://scholar.google.com/citations?user=qxC_AUAAAAAJ&hl=en) - [Twitter](https://twitter.com/ruthaylett?lang=en)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zOXKr5-ik4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ## Abstract
