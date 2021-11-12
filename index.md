@@ -23,7 +23,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 "<mark>Investigating and communicating motivation in social robot navigation</mark>" - [<mark>details</mark>](./session_details/ilaria.html) - [<mark>zoom registration link</mark>](https://us02web.zoom.us/meeting/register/tZUoceqgrzooHt0K0mFK5I9Aca2QFK9ItPW8)
 
 26th November 2021\
-**Fethiye Irmak Dogan**
+**Fethiye Irmak Dogan**  
+"Social Robots That Understand Natural Language Instructions and Resolve Ambiguities"
+
 
 7th January 2022\
 **Tony Belpaeme** 
