@@ -17,14 +17,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-
-12th November 2021\
-**<mark>Ilaria Torre</mark>**  
-"<mark>Investigating and communicating motivation in social robot navigation</mark>" - [<mark>details</mark>](./session_details/ilaria.html) - [<mark>zoom registration link</mark>](https://us02web.zoom.us/meeting/register/tZUoceqgrzooHt0K0mFK5I9Aca2QFK9ItPW8)
-
 26th November 2021\
-**Fethiye Irmak Dogan**  
-"Social Robots That Understand Natural Language Instructions and Resolve Ambiguities"
+**<mark>Fethiye Irmak Dogan</mark>**  
+"<mark>Social Robots That Understand Natural Language Instructions and Resolve Ambiguities</mark>"
 
 
 7th January 2022\
@@ -39,6 +34,10 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 <hr />
 
 ### Past Talks
+12th November 2021\
+**Ilaria Torre**  
+"Investigating and communicating motivation in social robot navigation" - [details](./session_details/ilaria.html)
+
 5th November 2021\
 **Ruth Aylett**    
 "Living with Robots: What Every Anxious Human Needs to Know" - [details](./session_details/ruth.html)
