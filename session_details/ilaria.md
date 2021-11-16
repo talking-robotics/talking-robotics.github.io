@@ -13,7 +13,7 @@ Ilaria has a background in Speech, Psychology, and Human-Agent Interaction. She 
 
 
 
-Speaker Links: [Website](https://www.kth.se/profile/ilariat) - [Google Scholar](https://scholar.google.com/citations?user=WrhhZA0AAAAJ&hl=en) - [Linkedin](https://www.linkedin.com/in/ilaria-torre-5266222a/?originalSubdomain=ie)
+Speaker Links: [Website](https://www.kth.se/profile/ilariat) - [Twitter](https://twitter.com/ilaria_torre11) - [Google Scholar](https://scholar.google.com/citations?user=WrhhZA0AAAAJ&hl=en) - [Linkedin](https://www.linkedin.com/in/ilaria-torre-5266222a/?originalSubdomain=ie)
 
 ---
 
