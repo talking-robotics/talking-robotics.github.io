@@ -19,7 +19,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Upcoming Talks
 26th November 2021\
 **<mark>Fethiye Irmak Dogan</mark>**  
-"<mark>Social Robots That Understand Natural Language Instructions and Resolve Ambiguities</mark>" - [details](./session_details/irmak.html)
+"<mark>Social Robots That Understand Natural Language Instructions and Resolve Ambiguities</mark>" - [<mark>details</mark>](./session_details/irmak.html) - [<mark>zoom registration link</mark>](https://us02web.zoom.us/meeting/register/tZcpc-6spjsjHdGtg0xtcpNs6Cpw6nqvjd_M)
 
 
 7th January 2022\
