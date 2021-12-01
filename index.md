@@ -17,12 +17,8 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-26th November 2021\
-**<mark>Fethiye Irmak Dogan</mark>**  
-"<mark>Social Robots That Understand Natural Language Instructions and Resolve Ambiguities</mark>" - [<mark>details</mark>](./session_details/irmak.html) - [<mark>zoom registration link</mark>](https://us02web.zoom.us/meeting/register/tZcpc-6spjsjHdGtg0xtcpNs6Cpw6nqvjd_M)
-
 10th December 2021\
-**Krishna Murthy Jatavallabhula**
+**<mark>Krishna Murthy Jatavallabhula</mark>**
 
 7th January 2022\
 **Tony Belpaeme** 
@@ -36,6 +32,10 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 <hr />
 
 ### Past Talks
+26th November 2021\
+**Fethiye Irmak Dogan**  
+"Social Robots That Understand Natural Language Instructions and Resolve Ambiguities" - [details](./session_details/irmak.html)
+
 12th November 2021\
 **Ilaria Torre**  
 "Investigating and communicating motivation in social robot navigation" - [details](./session_details/ilaria.html)
