@@ -17,12 +17,9 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 
 ### Upcoming Talks
-10th December 2021\
-**<mark>Krishna Murthy Jatavallabhula</mark>**
-"<mark>Taskography - Evaluating robot task planning over large 3D scene graphs</mark>" - [<mark>details</mark>](./session_details/krishna.html) - [<mark>zoom registration link</mark>](https://us02web.zoom.us/meeting/register/tZ0lf-uhqTkuHtyRsq87OhXs40KLKNwDmieg)
 
 7th January 2022\
-**Tony Belpaeme** 
+**<mark>Tony Belpaeme</mark>** 
 
 18th February 2022\
 **Pratap Tokekar** 
@@ -33,6 +30,10 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 <hr />
 
 ### Past Talks
+10th December 2021\
+**Krishna Murthy Jatavallabhula**
+"Taskography - Evaluating robot task planning over large 3D scene graphs" - [details](./session_details/krishna.html)
+
 26th November 2021\
 **Fethiye Irmak Dogan**  
 "Social Robots That Understand Natural Language Instructions and Resolve Ambiguities" - [details](./session_details/irmak.html)
