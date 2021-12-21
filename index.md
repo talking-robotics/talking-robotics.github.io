@@ -21,10 +21,14 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 7th January 2022\
 **<mark>Tony Belpaeme</mark>** 
 
+21st January 2022\
+**Dimosthenis Kontogiorgos**  
+
+2nd Feb 2022\	
+**Samantha Reig**  
+
 18th February 2022\
 **Pratap Tokekar** 
-
- 
 
 
 <hr />
