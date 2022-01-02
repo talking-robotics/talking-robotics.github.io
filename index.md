@@ -19,8 +19,8 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 ### Upcoming Talks
 
 7th January 2022\
-**<mark>Tony Belpaeme</mark>** 
-"The HRI route to AI" - [details](./session_details/tony.html) - [zoom registration link]( https://us02web.zoom.us/meeting/register/tZAsf-GhrjwjHdNOJ35YyheK6BJle1fSqXqR)
+**<mark>Tony Belpaeme</mark>**   
+"<mark>The HRI route to AI</mark>" - [<mark>details</mark>](./session_details/tony.html) - [<mark>zoom registration link</mark>]( https://us02web.zoom.us/meeting/register/tZAsf-GhrjwjHdNOJ35YyheK6BJle1fSqXqR)
 
 21st January 2022\
 **Dimosthenis Kontogiorgos**  
