@@ -23,7 +23,8 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 "<mark>The HRI route to AI</mark>" - [<mark>details</mark>](./session_details/tony.html) - [<mark>zoom registration link</mark>]( https://us02web.zoom.us/meeting/register/tZAsf-GhrjwjHdNOJ35YyheK6BJle1fSqXqR)
 
 21st January 2022\
-**Dimosthenis Kontogiorgos**  
+**Dimosthenis Kontogiorgos** 
+"Mutual Understanding in Situated Interactions with Conversational User Interfaces: Theory, Studies, and Computation" - [details](./session_details/dimosthensis.html)  
 
 2nd Feb 2022\
 **Samantha Reig**  
