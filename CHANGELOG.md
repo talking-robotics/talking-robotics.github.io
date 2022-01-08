@@ -6,6 +6,7 @@
 - added mailing list link
 - replaced github with spotify
 - centered all information to be in line with profile picture
+- bolded support option
 
 #### Talks
 - Fixed bug where sidebar didn't appear on speaker pages
