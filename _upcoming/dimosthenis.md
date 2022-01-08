@@ -5,6 +5,7 @@ date: 2022-01-19
 name: "Dimosthenis Kontogiorgos"
 teaser: "Mutual Understanding in Situated Interactions with Conversational User Interfaces: Theory, Studies, and Computation"
 link: "/upcoming/dimosthenis"
+author_profile: true
 ---
 ## Speaker
 
