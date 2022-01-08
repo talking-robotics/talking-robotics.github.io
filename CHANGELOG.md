@@ -1,3 +1,32 @@
+## v1.1 - changes by @kdesai2018
+### Enhancements
+#### Sidebar
+- remove line between organizer names
+- remove line between talking robotics profile and twitter icon
+- added mailing list link
+- replaced github with spotify
+- centered all information to be in line with profile picture
+
+#### Talks
+- Fixed bug where sidebar didn't appear on speaker pages
+- Added sharing (twitter, fb, linkedin) feature to speaker pages
+- Added "Next/Previous" navigation to speakers
+- Simplified how new talks are coded (rendered with Liquid instead of plaintext)
+
+#### Structure/formatting changes
+- Changed font family to match old website
+- Moved feedback to its own page
+
+#### TODO
+- Miguel's suggestion - rename markdown files with date+name, I'll do this when I have some more time
+
+
+
+## 1.0.0 - init commit by @kdesai2018
+### Enhancements
+- Copy over code from original AcademicPages website
+- Bring over content from previous iteration of the TR website
+
 ## [3.4.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.2)
 
 ### Enhancements

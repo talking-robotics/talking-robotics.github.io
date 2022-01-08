@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: talk
+type: "Talk"
 date: 2021-12-10
 name: "Krishna Murthy Jatavallabhula"
 teaser: "Taskography - Evaluating robot task planning over large 3D scene graphs"

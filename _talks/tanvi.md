@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: talk
 type: "Talk"
 date: 2021-06-25
 name: "Tanvi Dinkar"

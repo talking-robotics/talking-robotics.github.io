@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: talk
 type: "Talk"
 date: 2021-02-19
 name: "Nils Hagberg"
 teaser: "A call for a Human Approach to Technology"
-link: "/talks/barbara"
+link: "/talks/nils"
 ---
 ## Speaker
 

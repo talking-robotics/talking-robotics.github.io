@@ -21,6 +21,8 @@ $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
+$talking-robotics           : "Noto Sans", "Helvetica Neue", Helvetica, Arial, $sans-serif;
+
 /* serif typefaces */
 $georgia                    : Georgia, serif;
 $times                      : Times, serif;
@@ -28,9 +30,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family         : $talking-robotics;
+$header-font-family         : $talking-robotics;
+$caption-font-family        : $talking-robotics;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px

@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: talk
 type: "Talk"
 date: 2021-01-22
 name: "Carl Mueller"
 teaser: "Robot Learning from Demonstration Driven Constrained Skill Learning & Motion Planning"
-link: "/talks/barbara"
+link: "/talks/carl"
 ---
 ## Speaker
 

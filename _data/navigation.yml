@@ -1,5 +1,7 @@
 # main links links
 main:
   - title: "Past Talks"
-    url: /talks/    
+    url: /talks/
+  - title: "Feedback"
+    url: /feedback/
 

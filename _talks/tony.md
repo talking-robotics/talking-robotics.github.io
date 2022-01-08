@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: talk
 type: "Talk"
-date: 2022-01-17
+date: 2022-01-07
 name: "Tony Belpaeme"
 teaser: "The HRI route to AI"
-link: "/upcomingtalks/tony"
+link: "/talks/tony"
 ---
 ## Speaker
 

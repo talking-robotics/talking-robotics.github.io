@@ -1,5 +1,5 @@
----
-layout: default
+talk---
+layout: talk
 type: "Talk"
 date: 2021-05-14
 name: "Shiwali Mohan"

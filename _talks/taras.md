@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: talk
 type: "Talk"
 date: 2020-10-30
 name: "Taras Kucherenko"

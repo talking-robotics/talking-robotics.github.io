@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Talking Robotics"
   avatar           : "logo.jpg"
-  bio              : 
+  bio              : ""
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "talkingrobotics@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "talking-robotics"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +115,8 @@ author:
   xing             :
   youtube          : "https://www.youtube.com/channel/UC-ildOqpbG04qaNXbhNYqMQ?view_as=subscriber"
   wikipedia        :
-
+  spotify          : "placeholder"
+  mailinglist      : "placeholder"
 
 # Reading Files
 include:
@@ -175,19 +176,12 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-
+  upcoming:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

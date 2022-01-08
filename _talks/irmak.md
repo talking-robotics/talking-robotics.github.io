@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: talk
 type: "Talk"
 date: 2021-11-26
 name: "Fethiye Irmak Dogan"

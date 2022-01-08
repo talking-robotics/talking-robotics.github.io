@@ -13,7 +13,7 @@
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
-
+  <center>
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
@@ -117,11 +117,18 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
-  <p> <br>Organizers: <a href="https://patricialvesoliveira.com/">Patrícia Alves-Oliveira, </a><a href="https://silviatulli.com/">Silvia Tulli, </a><a href="https://www.miguelvasco.com/">Miguel Vasco, </a><a href="https://kdesai2018.github.io/">Kush Desai</a> 
-support us:<a href="https://buymeacoffee.com/talkingrobotics"> buymeacoffee<br>
-  <p><center><small>This project is sponsored by <br><a href="https://www.animatas.eu/"><img src="../images/animatas-logo-bw.svg" alt="animatas" width="150"></a><br><a href="https://semio.ai/"><img src="../images/semio.png" alt="semio" width="150"></small></a><br> <small>Hosted on GitHub Pages <br> Logo inspired by Valentino Braitenberg artwork &mdash; from the book <a href="https://mitpress.mit.edu/books/vehicles">Vehicles</a></small></center></p>
+      {% endif %}
+      {% if author.spotify %}
+        <li><a href="https://open.spotify.com/show/68hYjMnzwsb5WNLEe45utG"><i class="fab fa-fw fa-spotify" aria-hidden="true"></i> Spotify</a></li>
+      {% endif %}
+      {% if author.mailinglist %}
+        <li><a href="http://eepurl.com/hPJLt1"><i class="fab fa-mailchimp" aria-hidden="true"></i> Mailing List</a></li>
+      {% endif %}
+  <p> Organizers: <a href="https://patricialvesoliveira.com/">Patrícia Alves-Oliveira, </a><a href="https://silviatulli.com/">Silvia Tulli, </a><a href="https://www.miguelvasco.com/">Miguel Vasco, </a><a href="https://kushkdesai.com">Kush Desai</a> 
+Support Us:<a href="https://buymeacoffee.com/talkingrobotics"> buymeacoffee
+  <p><small>This project is sponsored by <br><a href="https://www.animatas.eu/"><img src="{{ base_path }}/images/animatas-logo-bw.svg" alt="animatas" width="150"></a><br><a href="https://semio.ai/"><img src="{{ base_path }}/images/semio.png" alt="semio" width="150"></small></a><br> <small>Hosted on GitHub Pages <br> Logo inspired by Valentino Braitenberg artwork &mdash; from the book <a href="https://mitpress.mit.edu/books/vehicles">Vehicles</a></small></p>
 
     </ul>
   </div>
+  </center>
 </div>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: talk
 type: "Talk"
 date: 2020-10-16
 name: "Homanga Bharadhwaj"
