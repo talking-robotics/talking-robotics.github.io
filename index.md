@@ -36,6 +36,10 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 <hr />
 
 ### Past Talks
+7th January 2022\
+**Tony Belpaeme**   
+"The HRI route to AI" - [details](./session_details/tony.html)
+
 10th December 2021\
 **Krishna Murthy Jatavallabhula**  
 "Taskography - Evaluating robot task planning over large 3D scene graphs" - [details](./session_details/krishna.html)
