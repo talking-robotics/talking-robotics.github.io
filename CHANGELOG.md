@@ -1,3 +1,8 @@
+## v1.2 - changes by @kdesai2018
+- Enabled breadcrumbs
+- Moved sponsors from sidebar to a dedicated page
+
+
 ## v1.1 - changes by @kdesai2018
 ### Enhancements
 #### Sidebar
