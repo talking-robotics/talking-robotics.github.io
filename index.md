@@ -18,8 +18,7 @@ Talking Robotics is a volunteer effort lead by us, to create a new virtual commu
 
 ### Upcoming Talks
 
-19th January 2022\
-
+19th January 2022  
 **<mark>Dimosthenis Kontogiorgos</mark>**   
 "<mark>Mutual Understanding in Situated Interactions with Conversational User Interfaces: Theory, Studies, and Computation</mark>" - [<mark>details</mark>](./session_details/dimosthenis.html) - [<mark>zoom registration link</mark>](https://us02web.zoom.us/meeting/register/tZYscO-oqjMoGdM2nJ1W64CNPK3NS5gG6OjD)
 
