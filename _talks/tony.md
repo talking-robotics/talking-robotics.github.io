@@ -14,6 +14,7 @@ Tony Belpaeme is Professor at Ghent University and Visiting Professor in Robotic
 
 Speaker Links: [Website](https://tonybelpaeme.me/) - [Google Scholar](https://scholar.google.com/citations?user=RRwtqEAAAAAJ&hl=en&oi=sra) - [Twitter](https://twitter.com/TonyBelpaeme)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SYcpMe2uAjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## Abstract
