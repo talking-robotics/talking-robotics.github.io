@@ -16,6 +16,11 @@ Speaker Links: [Website](kth.se/profile/diko) - [Google Scholar](https://scholar
 
 ---
 
+## Abstract
+In this talk, I will discuss empirical findings from recent research in the investigation of human behavioural signals in response to miscommunication with conversational user interfaces. The increasing use of robots in real-world applications will inevitably cause users to encounter more failures in interactions with machines. Robots should be able to infer conversational failures by detecting human users’ behavioural and social signals. Our findings so far indicate that human-like robots augment users’ reactions to failures, in comparison to less human-like smart-speakers. The results further suggest that several nonverbal behaviours are consistently present in responses to robots’ failures, whereas, linguistic features appear to be task-dependent. I will discuss how we believe such findings may generalise to new domains, and how autonomous robots may identify opportunities to detect and recover from failures in interactions with humans.
+
+---
+
 #### Papers covered during the talk
 * **Kontogiorgos D.** & Gustafson, J. Measuring Collaboration Load With Pupillary Responses-Implications for the Design of Instructions in Task-Oriented HRI. 2021. Frontiers in Psychology.
 

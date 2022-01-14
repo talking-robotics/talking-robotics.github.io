@@ -11,7 +11,6 @@ link: "/talks/tony"
 Tony Belpaeme is Professor at Ghent University and Visiting Professor in Robotics and Cognitive Systems at the University of Plymouth, UK. He received his PhD in Computer Science from the Vrije Universiteit Brussel (VUB) and currently leads a team studying cognitive robotics and human-robot interaction. Starting from the premise that intelligence is rooted in social interaction, Belpaeme and his research team try to further the science and technology behind artificial intelligence and social human-robot interaction. This results in a spectrum of results, from theoretical insights to practical applications.
 
 
-
 Speaker Links: [Website](https://tonybelpaeme.me/) - [Google Scholar](https://scholar.google.com/citations?user=RRwtqEAAAAAJ&hl=en&oi=sra) - [Twitter](https://twitter.com/TonyBelpaeme)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYcpMe2uAjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
