@@ -6,13 +6,14 @@ name: "Samantha Reig"
 teaser: "Characterizing Agent Identities as Mediators Among Individuals, Embodiments, and Services"
 link: "/upcoming/samantha"
 author_profile: true
+register: https://us02web.zoom.us/meeting/register/tZ0qfu2ppjovE9Xuwiyc4RaQlY0mN08dsI01
 ---
 
 ## Speaker
 
 Samantha Reig is a Ph.D. student in the Human-Computer Interaction Institute at Carnegie Mellon University. She is advised by Professors Jodi Forlizzi and Aaron Steinfeld and is a member of the Transportation, Bots, and Disability Lab. She is also a NASA Space Technology Research Fellow collaborating with Dr. Terry Fong. She is interested in how robots can communicate with people in socially acceptable and legible ways during interactions that involve multiple physical embodiments and multiple people. Toward this end, her work uses research-through-design and behavioral methods to study topics including agent identity and embodiment in socially complex interactions, robot re-embodiment, personalized experiences with robots, and designing for human-robot teaming in space. Samantha received a Bachelor of Arts in information science and psychology from Cornell University in 2017, and a Masters of Science in human-computer interaction from Carnegie Mellon in 2020. 
 
-Speaker Links: [Website]( https://samreig.com/ ) - [Google Scholar](https://scholar.google.com/citations?user=bn1UzGAAAAAJ)
+Speaker Links: [Website](https://samreig.com/) - [Google Scholar](https://scholar.google.com/citations?user=bn1UzGAAAAAJ)
 
 ---
 
