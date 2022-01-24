@@ -6,7 +6,7 @@ name: "Dimosthenis Kontogiorgos"
 teaser: "Mutual Understanding in Situated Interactions with Conversational User Interfaces: Theory, Studies, and Computation"
 link: "/upcoming/dimosthenis"
 author_profile: true
-register: https://us02web.zoom.us/meeting/register/tZYscO-oqjMoGdM2nJ1W64CNPK3NS5gG6OjD
+# register: https://us02web.zoom.us/meeting/register/tZYscO-oqjMoGdM2nJ1W64CNPK3NS5gG6OjD
 ---
 ## Speaker
 
@@ -14,6 +14,7 @@ Dimos has a background in Human-Computer Interaction and currently works at the 
 
 Speaker Links: [Website](kth.se/profile/diko) - [Google Scholar](https://scholar.google.ca/citations?user=PItN4BQAAAAJ)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WLWoXu5BtR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## Abstract
