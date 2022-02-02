@@ -4,7 +4,8 @@ type: "Talk"
 date: 2022-02-16
 name: "Pratap Tokekar"
 teaser: "Near-Earth Sensing with Aerial, Ground, and Marine Robots"
-link: "/talks/pratap" 
+link: "/upcoming/pratap" 
+permalink: "/talks/pratap_tokekar"
 author_profile: true
 register: https://us02web.zoom.us/meeting/register/tZIkfu2vqz8sHtda2W5lhVuigj-_XqV1Qi-O
 ---
