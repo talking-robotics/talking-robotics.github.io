@@ -4,10 +4,8 @@ type: "Talk"
 date: 2022-02-02
 name: "Samantha Reig"
 teaser: "Characterizing Agent Identities as Mediators Among Individuals, Embodiments, and Services"
-link: "/upcoming/samantha"
-permalink: "/talks/samantha_reig"
+link: "/talks/samantha"
 author_profile: true
-register: https://us02web.zoom.us/meeting/register/tZ0qfu2ppjovE9Xuwiyc4RaQlY0mN08dsI01
 ---
 
 ## Speaker
