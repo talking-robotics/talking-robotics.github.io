@@ -4,7 +4,7 @@ type: "Talk"
 date: 2022-01-19
 name: "Dimosthenis Kontogiorgos"
 teaser: "Mutual Understanding in Situated Interactions with Conversational User Interfaces: Theory, Studies, and Computation"
-link: "/upcoming/dimosthenis"
+link: "/talks/dimosthenis"
 author_profile: true
 # register: https://us02web.zoom.us/meeting/register/tZYscO-oqjMoGdM2nJ1W64CNPK3NS5gG6OjD
 ---
