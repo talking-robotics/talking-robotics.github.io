@@ -14,6 +14,8 @@ Samantha Reig is a Ph.D. student in the Human-Computer Interaction Institute at 
 
 Speaker Links: [Website](https://samreig.com/) - [Google Scholar](https://scholar.google.com/citations?user=bn1UzGAAAAAJ)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJJwLk5_tlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ## Abstract
