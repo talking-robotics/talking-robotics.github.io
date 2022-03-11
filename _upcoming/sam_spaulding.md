@@ -5,6 +5,7 @@ date: 2022-03-16
 name: "Sam Spaulding"
 teaser: "Lifelong Personalization for Social Language/Literacy Companions: Interactive Student Modeling Across Tasks and Over Time"
 link: "/upcoming/sam_spaulding" 
+register: https://us02web.zoom.us/meeting/register/tZEpd-2pqDouHdy-ZYsGVgVlo_5ViHdogK9X 
 author_profile: true
 ---
 
