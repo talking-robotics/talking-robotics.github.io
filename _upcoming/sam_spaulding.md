@@ -3,6 +3,9 @@ layout: talk
 type: "Talk"
 date: 2022-03-16
 name: "Sam Spaulding"
+teaser: "Lifelong Personalization for Social Language/Literacy Companions: Interactive Student Modeling Across Tasks and Over Time"
+link: "/upcoming/sam_spaulding" 
+author_profile: true
 ---
 
 
