@@ -6,7 +6,6 @@ name: "Tiago Ribeiro"
 teaser: "Autonomous Animation of Virtual and Robotic characters"
 link: "/upcoming/tiago_ribeiro" 
 author_profile: true
-register: https://us02web.zoom.us/meeting/register/tZIkc-2pqTgrH918Tlepa5Dc251Ic477NanM
 ---
 
 
