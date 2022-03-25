@@ -4,8 +4,8 @@ type: "Talk"
 date: 2022-03-16
 name: "Sam Spaulding"
 teaser: "Lifelong Personalization for Social Language/Literacy Companions: Interactive Student Modeling Across Tasks and Over Time"
-link: "/upcoming/sam_spaulding" 
-register: https://us02web.zoom.us/meeting/register/tZEpd-2pqDouHdy-ZYsGVgVlo_5ViHdogK9X 
+link: "/talks/sam_spaulding" 
+# register: https://us02web.zoom.us/meeting/register/tZEpd-2pqDouHdy-ZYsGVgVlo_5ViHdogK9X 
 author_profile: true
 ---
 
@@ -14,6 +14,8 @@ author_profile: true
 Bio: Sam Spaulding is a final year PhD student in the Personal Robots Group at the MIT Media Lab, advised by Cynthia Breazeal. His thesis research has focused on developing and evaluating the underlying technologies for interactive AI learning companions to support early-language and literacy skills, synthesizing insights from machine learning, affective and educational sciences, and interactive media. His research has been published and presented at international conferences including AAAI, HRI, AAMAS, and CogSci and has been recognized by an NSF Graduate Research Fellowship, a Human-Robot Interaction Pioneers award, and research grants from the Mellon Fund and Sigma Xi scientific society.
 
 Speaker Links: [Website](https://www.samspaulding.com/) - [Google Scholar](https://scholar.google.com/citations?hl=en&user=uZvvcgUAAAAJ&view_op=list_works&sortby=pubdate)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NZfJ79WdNG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
