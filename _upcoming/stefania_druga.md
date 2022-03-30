@@ -3,7 +3,7 @@ layout: talk
 type: "Talk"
 date: 2022-03-30
 name: "Stefania Druga"
-teaser: "Title of your talk: Creative coding with AI Friends for Youth"
+teaser: "Creative coding with AI Friends for Youth"
 link: "/upcoming/stefania_druga" 
 register: https://us02web.zoom.us/meeting/register/tZ0pcOmtpz0oHdR_PtCmULnRHfxJESP_WJnK
 author_profile: true
