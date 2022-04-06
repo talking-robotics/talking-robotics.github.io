@@ -5,6 +5,7 @@ date: 2022-04-13
 name: "Pratap Tokekar"
 teaser: "RESCHEDULED: Near-Earth Sensing with Aerial, Ground, and Marine Robots"
 link: "/upcoming/pratap_tokekar" 
+register: https://us02web.zoom.us/meeting/register/tZ0ldeigrzgjGN2KAmJ6_hsa6yiXcIT4PpnN
 author_profile: true
 ---
 
