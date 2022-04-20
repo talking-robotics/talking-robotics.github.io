@@ -4,9 +4,11 @@ type: "Talk"
 date: 2022-04-27
 name: "Michael Welle"
 teaser: "Structured Representations for Object Manipulation"
+link: "/talks/michael_welle"
+register: https://us02web.zoom.us/meeting/register/tZUldOmgpjkiGtO_35I62x1ph8YNxYfIvoN_
+author_profile: true 
+
 ---
-
-
 
 ## Speaker
 Michael C. Welle is a Postdoctoral Researcher working with Danica Kragice in EECS/RPL at  KTH Royal Institute of Technology focusing on representation learning for deformable object manipulation.
