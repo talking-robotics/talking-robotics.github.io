@@ -6,7 +6,7 @@ name: "Michael Welle"
 teaser: "Structured Representations for Object Manipulation"
 link: "/upcoming/michael_welle"
 register: https://us02web.zoom.us/meeting/register/tZUldOmgpjkiGtO_35I62x1ph8YNxYfIvoN_
-author_profile: true 
+author_profile: true
 
 ---
 
