@@ -4,7 +4,7 @@ type: "Talk"
 date: 2022-04-27
 name: "Michael Welle"
 teaser: "Structured Representations for Object Manipulation"
-link: "/talks/michael_welle"
+link: "/upcoming/michael_welle"
 register: https://us02web.zoom.us/meeting/register/tZUldOmgpjkiGtO_35I62x1ph8YNxYfIvoN_
 author_profile: true 
 
