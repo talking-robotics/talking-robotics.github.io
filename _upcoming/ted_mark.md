@@ -1,7 +1,7 @@
 ---
 layout: talk
 type: "Talk"
-date: 2022-06-08
+date: 2022-06-22
 name: "Ted Sumers and Mark Ho"
 teaser: "Learning Rewards from Natural Language"
 link: "/upcoming/ted_mark" 
