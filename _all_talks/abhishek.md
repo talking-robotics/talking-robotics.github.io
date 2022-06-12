@@ -4,7 +4,7 @@ type: "Talk"
 date: 2022-06-08
 name: "Abhishek Gupta"
 teaser: "How to Get a Tenure Track Position"
-link: "/all_talks/barbara"
+link: "/all_talks/abhishek"
 ---
 
 Q&A form: https://forms.gle/8X6mmPPXj679viHv5
