@@ -4,7 +4,7 @@ type: "Talk"
 date: 2022-06-08
 name: "Abhishek Gupta"
 teaser: "How to Get a Tenure Track Position"
-link: "/upcoming/abhishek_gupta" 
+link: "/talks/abhishek_gupta" 
 register: https://us02web.zoom.us/meeting/register/tZcrc--upj8uG9BBiXxi3kl1XzRcGRrqmGgZ
 author_profile: true
 ---
