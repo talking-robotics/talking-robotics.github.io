@@ -4,7 +4,7 @@ type: "Talk"
 date: 2022-05-11
 name: "Elisa Massi and Lorenzo Vannucci"
 teaser: "Animals and humans brain mechanisms for robotics"
-link: "/talks/elisa_lorenzo" 
+link: "/all_talks/elisa_lorenzo" 
 author_profile: true
 ---
 
