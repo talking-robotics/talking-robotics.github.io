@@ -5,10 +5,11 @@ date: 2022-06-22
 name: "Ted Sumers and Mark Ho"
 teaser: "Learning Rewards from Natural Language"
 link: "/upcoming/ted_mark" 
-register: 
+register: https://us02web.zoom.us/meeting/register/tZ0pdOCprzwvGNIZ-OPrzd9oWR6SBwgM7Gc1
 author_profile: true
 ---
 
+Q&A form: https://forms.gle/FZaYFKLqFNTMZYjDA
 
 ## Speakers
 Theodore Sumers is a third-year PhD student advised by Tom Griffiths at Princeton and supported by a NDSEG fellowship. His research uses reinforcement learning and decision theory to study human communication. Theoretically, he is interested in explaining how societies accumulate information over generations. Practically, he hopes to develop artificial systems capable of interacting with and learning from humans. Prior to beginning the PhD, he was a data scientist and engineering manager at Automatic Labs (2013-2014) and Uber (2014-2019).
@@ -25,6 +26,3 @@ We'll talk about methods to learn humans' reward functions from natural language
 ## Papers covered during the talk
 * Sumers, T. R., Ho, M. K., Hawkins, R. D., Narasimhan, K., & Griffiths, T. L. (2021). Learning rewards from linguistic feedback. feedback, 1(2), 3. AAAI-21 [link](https://arxiv.org/abs/2009.14715)
 * Sumers, Theodore R., et al. "Linguistic communication as (inverse) reward design." arXiv preprint arXiv:2204.05091 (2022). ACL '22 - workshop on Learning from Natural Language Supervision [link](https://arxiv.org/abs/2204.05091)
-
-
-
