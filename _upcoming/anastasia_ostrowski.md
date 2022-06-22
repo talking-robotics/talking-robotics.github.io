@@ -16,7 +16,7 @@ Anastasia K. Ostrowski is a PhD student and design researcher at the MIT Media L
 ---
 #### Abstract
 
-We'll talk about methods to learn humans' reward functions from natural language input. While robotics has historically focused on learning from natural language instructions, we find that humans prefer to teach with rich evaluative and descriptive feedback. To learn from this naturalistic language, we develop a new sentiment-analysis based approach: we decompose feedback into sentiment about the features of a Markov decision process. We then perform an analogue of Bayesian inverse reinforcement learning, regressing the sentiment on the features to infer the teacher's latent reward function. Behavioral experiments validate that this agent successfully recovers humans' reward functions from natural language input. Finally, we'll cover more recent theoretical work that seeks to explain how a rational speaker should use these different forms of language.
+As robots enter our social spaces, we are faced with new complex questions and challenges, such as how these technologies will create or further entrench inequities in society and whose voices are heard in technology design. To help address these challenges, human-centered design methodologies and frameworks, such as participatory design, co-design, and Design Justice, can be further developed in human-robot interaction to promote more equitable robot design and policy design processes. In this talk, I will discuss my work on empowering users through co-design of robots, presenting design guidelines for more equitable co-design practices in human-robot interaction and promoting further discussion around the design ecosystems of innovative technology.
 
 ---
 #### Papers covered during the talk
