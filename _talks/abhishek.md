@@ -15,6 +15,8 @@ Abhishek Gupta is a postdoctoral fellow at MIT, working with Pulkit Agrawal and 
 
 Speaker Links: [Google Scholar](https://scholar.google.com/citations?user=1wLVDP4AAAAJ&hl=en&oi=ao) - [Website](https://abhishekunique.github.io/) - [Github](https://github.com/abhishekunique)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GH62Tkzve0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Resources for succeeding in the faculty job market:
 (Note: These resources were organized by the Talking Robotics organizers as a way to complement this session)
 * [The academic job search for computer scientists in 10 questions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)
