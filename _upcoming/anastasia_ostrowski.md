@@ -12,6 +12,7 @@ author_profile: true
 #### Speaker
 Anastasia K. Ostrowski is a PhD student and design researcher at the MIT Media Lab in the Personal Robots Group. Her work focuses on equitable design of robots, including co-design and participatory design approaches. Before becoming a design researcher at the Media Lab, she received her master’s and bachelor degrees in biomedical engineering from the University of Michigan with a focus on engineering design processes and idea generation. 
 
+Speaker links: [Website](http://www.akostrowski.com/) - [Google Scholar](https://scholar.google.com/citations?user=nnNYtkAAAAAJ&hl=en&oi=ao)
 
 ---
 #### Abstract
