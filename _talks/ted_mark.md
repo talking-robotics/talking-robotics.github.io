@@ -4,8 +4,8 @@ type: "Talk"
 date: 2022-06-22
 name: "Ted Sumers and Mark Ho"
 teaser: "Learning Rewards from Natural Language"
-link: "/upcoming/ted_mark" 
-register: https://us02web.zoom.us/meeting/register/tZ0pdOCprzwvGNIZ-OPrzd9oWR6SBwgM7Gc1
+link: "/talks/ted_mark" 
+# register: https://us02web.zoom.us/meeting/register/tZ0pdOCprzwvGNIZ-OPrzd9oWR6SBwgM7Gc1
 author_profile: true
 ---
 
