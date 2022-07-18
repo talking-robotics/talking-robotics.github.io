@@ -5,7 +5,6 @@ date: 2022-07-06
 name: "Anastasia Ostrowski"
 teaser: "Equitable Co-Design of Robots"
 link: "/talks/anastasia_ostrowski" 
-author_profile: true
 ---
 
 #### Speaker
