@@ -4,7 +4,7 @@ type: "Talk"
 date: 2022-11-02
 name: "Sylvain Calinon"
 teaser: "Robot learning from few examples by exploiting the structure and geometry of data"
-link: "/talks/sylvain" 
+link: "/talks/sylvain_calinon" 
 ---
 
 #### Speaker
