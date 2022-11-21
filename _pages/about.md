@@ -18,11 +18,3 @@ Talks Schedule
 {% for post in site.upcoming reversed %} 
   {% include display-single-talk.html %}
 {% endfor %}
-
-
-=====
-
-<iframe src="https://calendar.google.com/calendar/embed?src=talkingrobotics%40gmail.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-Download the [.ics](assets/talkingrobotics@gmail.com.ics).
-
