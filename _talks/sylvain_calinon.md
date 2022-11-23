@@ -7,7 +7,7 @@ teaser: "Robot learning from few examples by exploiting the structure and geomet
 link: "/talks/sylvain_calinon" 
 ---
 
-#### Speaker
+### Speaker
 Dr Sylvain Calinon is a Senior Research Scientist at the Idiap Research Institute and a Lecturer at the Ecole Polytechnique Fédérale de Lausanne (EPFL). He heads the Robot Learning & Interaction group at Idiap, with expertise in human-robot collaboration, robot learning from demonstration and model-based optimization. The approaches developed in his group can be applied to a wide range of applications requiring manipulation skills, with robots that are either close to us (assistive and industrial robots), parts of us (prosthetics and exoskeletons), or far away from us (shared control and teleoperation). Website: https://calinon.ch 
 
 Speaker links: [Website](https://calinon.ch/) - [Google Scholar](https://scholar.google.com/citations?user=t7VnipMAAAAJ&hl=en)
@@ -16,7 +16,7 @@ Speaker links: [Website](https://calinon.ch/) - [Google Scholar](https://scholar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zpSQTsJemg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-#### Abstract
+### Abstract
 
 A wide range of applications can benefit from robots acquiring manipulation skills by interaction with humans. In this presentation, I will discuss the challenges that such a learning process encompasses, including representations for manipulation skills that can exploit the structure and geometry of the acquired data, the development of optimal control strategies that can exploit variations in manipulation skills, and the development of intuitive interfaces to acquire meaningful demonstrations.
 

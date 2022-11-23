@@ -2,7 +2,7 @@
 layout: talk
 type: "Talk"
 date: 2022-11-16
-name: "Robin Kirschnew"
+name: "Robin Kirschner"
 teaser: "Tactile Interaction for Industrial Collaborative Robots: How to measure the robot technology readiness"
 link: "/talks/robin_kirschner"
 ---
