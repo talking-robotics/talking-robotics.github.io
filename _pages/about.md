@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /upcoming/
 ---
 {% include base_path %}
 
@@ -15,6 +16,6 @@ Talking Robotics is a series of virtual seminars that aim to promote reflections
 Talks Schedule
 ======
 
-{% for post in site.upcoming reversed %} 
+{% for post in site.upcoming %} 
   {% include display-single-talk.html %}
 {% endfor %}
