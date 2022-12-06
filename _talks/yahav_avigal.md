@@ -4,8 +4,8 @@ type: "Talk"
 date: 2022-11-30
 name: "Yahav Avigal"
 teaser: "The Jacobi library: time-optimized, jerk-limited, and collision-free robot arm motion planning"
-link: "/upcoming/yahav_avigal"
-register: "https://us02web.zoom.us/meeting/register/tZ0kd-ioqjIuHtClnuA0PslWwQ5hDTDeWUuj"
+link: "/talks/yahav_avigal"
+
 ---
 
 ### Speaker 
