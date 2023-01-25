@@ -5,7 +5,6 @@ date: 2022-12-14
 name: "Hugo Caselles-Dupré"
 teaser: "Pragmatically Learning from Pedagogical Teaching Signals in Multi-Goal Environments"
 link: "/upcoming/hugo"
-register: https://us02web.zoom.us/meeting/register/tZAtfuihqDkvHd1_Mr7XV-d7mx3TjSLb6Zgt
 ---
 
 

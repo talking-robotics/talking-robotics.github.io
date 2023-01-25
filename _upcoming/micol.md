@@ -5,6 +5,7 @@ date: 2023-02-08
 name: "Micol Spitale"
 teaser: "Human-Robot Interaction For Assessing and Promoting Mental Well-being"
 link: "/upcoming/micol"
+register: "https://us02web.zoom.us/meeting/register/tZcpcuqprDgqGtPZlo0gVjn4LT7jm6uFodHi"
 ---
 
 
