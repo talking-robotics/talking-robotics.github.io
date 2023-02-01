@@ -4,8 +4,7 @@ type: "Talk"
 date: 2023-01-25
 name: "Taylor Kessler Faulkner"
 teaser: "Enabling Robots to Adapt to and Learn from Real People"
-link: "/upcoming/taylor"
-register: "https://us02web.zoom.us/meeting/register/tZclcOivqj4tG9wR6SviPsMc4XNGf_UBET1f"
+link: "/talks/taylor"
 ---
 
 
