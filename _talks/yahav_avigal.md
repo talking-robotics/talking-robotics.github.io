@@ -11,6 +11,9 @@ link: "/talks/yahav_avigal"
 ### Speaker 
 B.Sc in EECS at Tel Aviv University, Israel, worked as a product manager at Cybint and then as a robotics developer at Intel Realsense, PhD in EECS at UC Berkeley with a focus on AI and Robotics, and co-founder at Jacobi Robotics. Recent paper on garment folding with a bimanual robot received the best paper award and the RoboCup award at IROS 2022.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wfajHeZ5t_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ### Abstract 
 Robot arms have the potential to increase productivity, reduce costs and injuries, and alleviate the impact of labor shortages in a variety of industries, including logistics, manufacturing, agriculture, surgical procedures, and healthcare. Each application requires specific algorithms, tools, sensors, and manipulation capabilities to achieve the task. However, all applications require the robot to move from a given pose to the desired pose efficiently without colliding with obstacles. Jacobi is working to address this need and help developers unlock their robot arms' full potential with minimal effort.
 
