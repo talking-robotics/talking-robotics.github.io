@@ -4,8 +4,8 @@ type: "Talk"
 date: 2023-02-22
 name: "Desik Rengarajan"
 teaser: "Enhancing Reinforcement Learning Using Data and Structure"
-link: "/upcoming/desik_rengarajan"
-register: https://us02web.zoom.us/meeting/register/tZ0ud-qqrz0uGtwRj4y-QZm9dvdOj1kgR_x8
+link: "/talks/desik_rengarajan"
+
 ---
 
 
