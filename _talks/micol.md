@@ -13,6 +13,8 @@ Micol Spitale is currently a PostDoctoral Researcher at the Affective Intelligen
 
 AFAR Lab [YouTube channel](https://www.youtube.com/channel/UC_DYRvippYBdHk2WM3RO-zw?app=desktop)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IYL0DcAHDz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Abstract 
 The Worldwide Health Organization (WHO) reported that mental health conditions have increased by 13% in the last decade. One of WHO’s main goals is to improve the mental health of individuals and society at large. This includes the promotion of mental well-being, the prevention of mental issues, and efforts to increase access to quality mental health care. 
 However, those objectives are still not accomplished in our society because of the wide gap between those who require care and those who have access to it. Various research works in social robotics and human-robot interaction suggest that robots can be used as novel tools to help assess and promote mental well-being in people by offering affordable and accessible mental health services.

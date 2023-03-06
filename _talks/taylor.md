@@ -13,6 +13,8 @@ Taylor Kessler Faulkner is a postdoctoral scholar and UW Data Science Postdoctor
 
 Speakers Links: [Website](https://www.taylorkesslerfaulkner.com/), [Google Scholar](https://scholar.google.com/citations?hl=en&user=7cLeliIAAAAJ), [Linkedin](https://www.linkedin.com/in/taylor-kessler-faulkner-a25263124)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5f-FVx8fERo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Abstract 
 Robots deployed in the wild can improve their performance by using input from human teachers. Furthermore, both robots and humans can benefit when robots adapt to and learn from the people around them. However, real people can act in imperfect ways, and can often be unable to provide input in large quantities. In this talk, I will address some of the past research I have conducted towards addressing these issues, which has focused on creating learning algorithms that can learn from imperfect teachers. I will also talk about my current work on the Robot-Assisted Feeding project in the Personal Robotics Lab at UW, which I am approaching through a similar lense of working with real teachers and possibly imperfect information.
 

@@ -12,5 +12,7 @@ Danfei Xu is an Assistant Professor in the School of Interactive Computing at Ge
 
 Speakers Links: [Google Scholar](https://scholar.google.com/citations?user=J5D4kcoAAAAJ&hl=en) - [Website](https://faculty.cc.gatech.edu/~danfei/),
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EBARYyngv8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Abstract
 From making a cup of coffee to navigating a foreign city, humans are remarkable at devising plans and orchestrating actions to achieve their goals. How can we build robots that can do the same? This talk will present a view rooted in the hierarchical decision making paradigm that emulates reasoning and acting computationally. I will discuss why the classical view of modeling acting and reasoning in silos is problematic, and how learning from experience can help bridging the two and enabling new capabilities. Specifically, I will describe two works that attempt to make the connection in each direction — from reasoning to acting and vice versa. The first work learns manipulation skills by leveraging the reasoning abstraction of a TAMP system. The second work builds skill-level world models for long-horizon planning. If time allows, I will conclude the talk by discussing how we might scale to true everyday autonomy through addressing data problems at different granularity levels and making use of foundation models. 

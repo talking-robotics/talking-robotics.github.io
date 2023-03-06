@@ -17,6 +17,7 @@ Desik Rengarajan is a PhD candidate in the Electrical and Computer Engineering D
 Website: https://sites.google.com/view/desik-rengarajan/
 Google Scholar: https://scholar.google.com/citations?user=ygOY_E4AAAAJ
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RpPTDpfTl9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Abstract 
 In reinforcement learning, reward functions serve as an indirect method of defining the goal of the algorithm. Designing a reward function that accurately captures the task at hand while effectively guiding the learning process can be a difficult challenge, requiring expert domain knowledge and manual fine-tuning. To overcome this, it is often easier to rely on sparse rewards that merely indicate partial or complete task completion. However, this leads to RL algorithms failing to learn an optimal policy in a timely manner due to the lack of fine-grained feedback. During this talk, I will delve into the impact of sparse rewards on reinforcement and meta reinforcement learning and present algorithms that leverage sub-optimal demonstration data to overcome these challenges.
