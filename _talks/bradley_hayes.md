@@ -4,8 +4,7 @@ type: "Talk"
 date: 2023-03-8
 name: "Bradley Hayes"
 teaser: "Multimodal Planning and Communication for Human-Robot Interaction that is Safe and Collaborative"
-link: "/upcoming/bradley_hayes"
-register: https://us02web.zoom.us/meeting/register/tZwrc-CvrzgiHd0aiUXmwPO4q1u9Az7o_ZG5
+link: "/talks/bradley_hayes"
 ---
 
 ### Speaker 

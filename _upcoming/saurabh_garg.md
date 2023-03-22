@@ -5,6 +5,7 @@ date: 2023-03-22
 name: "Saurabh Garg"
 teaser: "Domain Adaptation under Relaxed Label Shift"
 link: "/upcoming/saurabh_garg"
+register: "https://us02web.zoom.us/meeting/register/tZ0vcO6qqzkjHdHknKVGsufqw55XjywSsd5S"
 ---
 
 ### Speaker 
