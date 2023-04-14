@@ -9,7 +9,7 @@ register: "https://us02web.zoom.us/meeting/register/tZ0vcO6qqzkjHdHknKVGsufqw55X
 ---
 
 ### Speaker 
-Saurabh Garg is a fourth-year Ph.D. student in the Machine Learning Department at Carnegie Mellon University, advised by Zachary Lipton and Sivaraman Balakrishnan. Saurabh is interested in building robust and deployable machine learning systems. The primary focus of his research is to improve and evaluate deep learning models in the face of distribution shifts.  Before Saurabh started his Ph.D., he received his bachelor’s degree from the Indian Institute of Technology (IIT) Bombay, majoring in Computer Science and Engineering. 
+Saurabh Garg is a fourth-year Ph.D. student in the Machine Learning Department at Carnegie Mellon University, advised by Zachary Lipton and Sivaraman Balakrishnan. Saurabh is interested in building robust and deployable machine learning systems. The primary focus of his research is to improve and evaluate deep learning models in the face of distribution shifts.  Before Saurabh started his Ph.D., he received his bachelor’s degree from the Indian Institute of Technology (IIT) Bombay, majoring in Computer Science and Engineering. gf
 
 [project website](https://sites.google.com/view/rlsbench/)
 
