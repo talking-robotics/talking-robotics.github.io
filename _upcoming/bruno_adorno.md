@@ -4,7 +4,7 @@ type: "Talk"
 date: 2023-04-19
 name: "Bruno Vilhena Adorno"
 teaser: "Complex Robotic Systems: Modeling, Control, and Planning using Dual Quaternion Algebra"
-link: "/upcoming/adorno"
+link: "/upcoming/bruno_adorno"
 register: "https://us02web.zoom.us/meeting/register/tZEpcuCgrzMpG9HrUilVBcw_0bCGAUZA8t_H"
 ---
 
