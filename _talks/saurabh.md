@@ -4,7 +4,7 @@ type: "Talk"
 date: 2023-03-22
 name: "Saurabh Garg"
 teaser: "Domain Adaptation under Relaxed Label Shift"
-link: "/talks/saurabh_garg"
+link: "/talks/saurabh"
 ---
 
 ### Speaker 
