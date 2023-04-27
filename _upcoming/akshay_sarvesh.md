@@ -17,6 +17,7 @@ Speaker Links: [Personal Website](https://people.tamu.edu/~akshays25/) - [Google
 Path Planners that reshape a global path locally in response to sensor-based observations of obstacles in the environment are presented.
 
 (i) Reshaping Local Path Planner (RLP). Two fundamental concepts enable the resultant algorithm (a) a path-following synthetic vehicle whose steering actions are non-myopically optimized to result in a smooth traversible path that meets path curvature constraints, and (b) a path aware turning moment-field that enables obstacle avoidance while eluding the typical local-minimum-induced stagnation associated with potential field methods. The use of the combination of the two concepts results in a reduced action space over which optimization needs to be performed towards minimizing the path deviation subject to obstacle avoidance, and thus results in an efficient algorithm that can be implemented online.
+
 (ii)Reshaping Viscoelastic-String Path-Planner (RVP) models the path to be a viscoelastic string with shape preserving tendencies, approximated by a connected series of Springs, Masses, and Dampers. The resultant path is then reshaped according to the forces emanating from the obstacles until an equilibrium is reached. The reshaped path remains close in shape to the original path because of Anchor Points that connect to the discrete masses through springs. The final path is the resultant equilibrium configuration of the Spring-Mass-Damper network. Two key concepts enable RVP (i) Virtual Obstacle Forces that push the Spring-Mass-Damper system away from the original path and (ii) Anchor points in conjunction with the Spring-Mass-Damper network that attempts to retain the path shape.
 
 The algorithms are demonstrated in simulations and in field experiments, performing real time local path planning and obstacle avoidance on two different vehicle platforms (an ackerman steering vehicle two-axled vehicle, and a differential-steering 4-axled vehicle) in an unstructured off-road terrain.
@@ -26,4 +27,5 @@ Relevant [video](https://www.youtube.com/watch?v=Zq5yOXD48bg).
 ### Papers: 
 - [Reshaping Local Path Planner (RLP)](https://ieeexplore.ieee.org/document/9773043)
 - [Reshaping Viscoelastic-String  Path-Planner (RVP)](https://arxiv.org/pdf/2303.00947.pdf)
+
 
