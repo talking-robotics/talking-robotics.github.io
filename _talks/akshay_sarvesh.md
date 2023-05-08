@@ -4,8 +4,7 @@ type: "Talk"
 date: 2023-05-03
 name: "Akshay Sarvesh"
 teaser: "Algorithms for Autonomous Navigation of Robots in Unstructured Terrain"
-link: "/upcoming/akshay_sarvesh"
-register: "https://us02web.zoom.us/meeting/register/tZIlceyorDsuHd0jANlEpTQRORqTo93aDTLD"
+link: "/talks/akshay_sarvesh"
 ---
 
 ### Speaker 
