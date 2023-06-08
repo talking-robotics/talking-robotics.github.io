@@ -4,8 +4,7 @@ type: "Talk"
 date: 2023-05-17
 name: "Sarath Sreedharan"
 teaser: "Human-Aware AI -- A Foundational Framework for Human-AI Interaction"
-link: "/upcoming/sarath_sreedharan"
-register: "https://us02web.zoom.us/meeting/register/tZAvcO2grj0vHNDdAJLpp4Ce_YJIG7TLwG9y"
+link: "/talks/sarath_sreedharan"
 ---
 
 ### Speaker 
