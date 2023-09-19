@@ -6,4 +6,6 @@ main:
     url: /feedback/
   - title: "Organizers"
     url: /who/
+  - title: "sponsors"
+    url: /sponsors/
 
