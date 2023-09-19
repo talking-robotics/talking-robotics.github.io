@@ -1,7 +1,7 @@
 ---
 layout: talk
 type: "Talk"
-date: 2023-10-19
+date: 2023-11-09
 name: "Aaquib Tabrez"
 teaser: ""
 link: "/upcoming/aaquib_tabrez"
