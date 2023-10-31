@@ -3,9 +3,7 @@ layout: talk
 type: "Talk"
 date: 2023-10-19
 name: "Lindsay Sanneman"
-teaser: "Transparent Value Alignment: Foundations for Human-Centered Explainable AI in Alignment"
-link: "/upcoming/lindsay_sanneman"
-register: "https://us02web.zoom.us/j/86974303968"
+link: "/talks/lindsay_sanneman"
 ---
 
 ### Speaker 
