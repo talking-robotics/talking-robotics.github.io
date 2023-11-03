@@ -5,7 +5,7 @@ date: 2023-11-03
 name: "Ross Mead"
 teaser: "Introducing TAHRI: the International Symposium on Technological Advances in Human-Robot Interaction"
 link: "/upcoming/ross_mead_tahri"
-register: ""
+register: "https://us02web.zoom.us/meeting/register/tZcqf-ivrj8pE9GpQwjvIXv8oqehnwkOB9qK"
 ---
 
 ### Speaker 
