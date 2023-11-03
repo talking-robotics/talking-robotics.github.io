@@ -24,3 +24,4 @@ In this informational session, Dr. Ross Mead will provide a brief overview of TA
 
 ### Special Session Teaser
 * [International Symposium on Technological Advances in Human-Robot Interaction](https://www.youtube.com/watch?v=URNPKchfErY&ab_channel=TAHRI)
+* [Website TAHRI](https://tahri.org)
