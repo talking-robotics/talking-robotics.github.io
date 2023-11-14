@@ -1,7 +1,7 @@
 ---
 layout: talk
 type: "Talk"
-date: 2023-11-09
+date: 2023-11-23
 name: "Amartya Ganguly"
 teaser: "Merging Fiction with Reality: Prosthetic Advances and the Luke Skywalker Paradigm"
 link: "/upcoming/amartya_ganguly"
