@@ -4,7 +4,7 @@ type: "Talk"
 date: 2023-12-07
 name: "Ankit J. Shah"
 teaser: ""
-link: "/upcoming/jaewon_kim"
+link: "/upcoming/ankit_shah"
 register: ""
 ---
 
