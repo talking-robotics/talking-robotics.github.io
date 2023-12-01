@@ -4,8 +4,7 @@ type: "Talk"
 date: 2023-11-23
 name: "Amartya Ganguly"
 teaser: "Merging Fiction with Reality: Prosthetic Advances and the Luke Skywalker Paradigm"
-link: "/upcoming/amartya_ganguly"
-register: "https://us02web.zoom.us/meeting/register/tZ0kdeisrzsjHNJUcwtiQ8hfJ1h5htFgA7_d"
+link: "/talks/amartya_ganguly"
 ---
 
 ### Speaker 
