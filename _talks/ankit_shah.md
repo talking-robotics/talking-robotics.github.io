@@ -4,8 +4,7 @@ type: "Talk"
 date: 2023-12-07
 name: "Ankit J. Shah"
 teaser: "How (temporal) reward abstractions help planning and task understanding"
-link: "/upcoming/ankit_shah"
-register: "https://us02web.zoom.us/meeting/register/tZctce2qrTgpH9xXWuYdkYAUKDC6kL07MaEb#/registration"
+link: "/talks/ankit_shah"
 ---
 
 
