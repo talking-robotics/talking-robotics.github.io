@@ -2,13 +2,8 @@
 layout: talk
 type: "Talk"
 date: 2024-01-25
-name: "Pragathi Praveena"
+name: "Tapomayukh Bhattacharjee "
 teaser: ""
-link: "/upcoming/pragathi_praveena"
+link: "/upcoming/tapomayukh"
 register: ""
 ---
-
-### Speaker 
-
-
-### Abstract

@@ -4,8 +4,7 @@ type: "Talk"
 date: 2023-12-21
 name: "Jaewon Kim"
 teaser: "Cyber-Security of Networked Cyber-Physical Systems (CPS): theory and applications of the general-purpose pro-active cyber-attack defense methodology 'Dynamic Watermarking (DW)'"
-link: "/upcoming/jaewon_kim"
-register: "https://us02web.zoom.us/meeting/register/tZYtd-6uqzsjH9ZfWYZyvWoHfQituJ0PcgoT"
+link: "/talks/jaewon_kim"
 ---
 
 ### Speaker 
