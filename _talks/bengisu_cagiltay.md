@@ -5,7 +5,6 @@ date: 2024-01-11
 name: "Bengisu Cagiltay"
 teaser: "Supporting Long-Term Human-Robot Interaction through Shared Family Routines"
 link: "/upcoming/bengisu_cagiltay"
-register: "https://us02web.zoom.us/meeting/register/tZ0qc-qgrTouGtWhDQZHrcgU30KTmTys4PI7"
 ---
 
 
