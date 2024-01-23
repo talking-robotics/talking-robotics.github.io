@@ -2,7 +2,7 @@
 layout: talk
 type: "Talk"
 date: 2024-02-08
-name: "Tabitha Lee"
+name: "Tabitha Edith Lee"
 teaser: "SCALE: Causal Learning and Discovery of Robot Manipulation Skills using Simulation"
 link: "/upcoming/tabitha_lee"
 register: "https://us02web.zoom.us/meeting/register/tZ0qc-qgrTouGtWhDQZHrcgU30KTmTys4PI7"
