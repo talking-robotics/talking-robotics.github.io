@@ -4,8 +4,7 @@ type: "Talk"
 date: 2024-01-25
 name: "Tapomayukh Bhattacharjee"
 teaser: "Towards Robotic Caregiving: Building robots that work alongside human stakeholders"
-link: "/upcoming/tapomayukh"
-register: "https://us02web.zoom.us/meeting/register/tZ0pd-GurDsvGdJkA1TrB48C_hx5JRDT8QpD"
+link: "/talks/tapomayukh"
 ---
 
 
