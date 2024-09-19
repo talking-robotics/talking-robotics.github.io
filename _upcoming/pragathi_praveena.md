@@ -16,3 +16,8 @@ Speaker Links: [Website](https://pragathipraveena.com/), [Google Scholar](https:
 
 ### Abstract 
 Pragathi will share key insights from her dissertation work, which focused on the development and evaluation of *Periscope* — a robotic camera system designed to enable a remote expert to provide real-time guidance to a less experienced worker performing procedural, physical tasks (e.g., wiring a car stereo). The dynamic robotic camera provides users with diverse and task-relevant views to facilitate shared awareness between the expert and the worker during the collaboration process. With support from Boeing, she explored the system’s potential to facilitate remote workforce training in manufacturing environments. Her talk will highlight some open challenges and opportunities in designing novel social and collaborative systems that incorporate intelligent agents to enhance teamwork.
+
+
+### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_PnaWIdhQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
