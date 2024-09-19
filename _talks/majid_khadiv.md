@@ -4,7 +4,7 @@ type: "Talk"
 date: 2024-09-04
 name: "Majid Khadiv"
 teaser: "Optimal control and learning for contact-rich robotics"
-link: "/upcoming/majid_khadiv"
+link: "/talks/majid_khadiv"
 ---
 
 
