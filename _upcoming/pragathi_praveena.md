@@ -1,7 +1,7 @@
 ---
 layout: talk
 type: "Talk"
-date: 2024-10-09
+date: 2024-10-16
 name: "Pragathi Praveena"
 teaser: "Robots for teams: Insights from designing the Periscope system to support remote collaboration"
 link: "/upcoming/pragathi_praveena"
