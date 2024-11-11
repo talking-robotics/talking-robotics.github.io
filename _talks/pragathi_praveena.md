@@ -4,8 +4,7 @@ type: "Talk"
 date: 2024-10-16
 name: "Pragathi Praveena"
 teaser: "Robots for teams: Insights from designing the Periscope system to support remote collaboration"
-link: "/upcoming/pragathi_praveena"
-register: "https://us02web.zoom.us/meeting/register/tZYpcu-uqj8sEtdp5z2tPyjrLdhBxNQgp31r"
+link: "/talks/pragathi_praveena"
 ---
 
 

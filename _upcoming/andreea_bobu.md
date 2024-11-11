@@ -5,6 +5,7 @@ date: 2024-11-13
 name: "Andreea Bobu"
 teaser: "Aligning Robot and Human Representations"
 link: "/upcoming/andreea_bobu"
+register: "https://us02web.zoom.us/meeting/register/tZEkdeqprDgjG9Vqn0Npv53rMqSRHquRHiDs"
 ---
 
 
