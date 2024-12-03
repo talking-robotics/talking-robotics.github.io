@@ -18,6 +18,8 @@ If you would like to nominate anyone (including yourself!) as a speaker, or have
 Talks Schedule
 ======
 
-{% for post in site.upcoming %} 
+{% for post in site.upcoming %}
   {% include display-single-talk.html %}
+{% else %}
+  <p>To be announced.</p>
 {% endfor %}
