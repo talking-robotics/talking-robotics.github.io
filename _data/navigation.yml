@@ -10,4 +10,6 @@ main:
     url: /who/
   - title: "Sponsors"
     url: /sponsor/
+  - title: "Join Us"
+    url: /join/
 
