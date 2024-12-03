@@ -23,3 +23,8 @@ Talks Schedule
 {% else %}
   <p>To be announced.</p>
 {% endfor %}
+
+Join Us
+======
+
+Talking Robotics is looking for new organizers to join the team! See details in the [Join Us](https://talking-robotics.github.io/join) page.
