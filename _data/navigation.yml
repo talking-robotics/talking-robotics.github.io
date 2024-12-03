@@ -4,12 +4,12 @@ main:
     url: /overview/
   - title: "Past Talks"
     url: /talks/
-  - title: "Feedback"
-    url: /feedback/
   - title: "Organizers"
     url: /who/
-  - title: "Sponsors"
-    url: /sponsor/
   - title: "Join Us"
     url: /join/
+  - title: "Feedback"
+    url: /feedback/
+  - title: "Sponsors"
+    url: /sponsor/
 
