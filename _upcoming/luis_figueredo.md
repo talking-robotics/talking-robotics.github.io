@@ -5,7 +5,7 @@ permalink: /upcoming/luis-figueredo
 date: 2025-03-05
 time: "17:00 GMT"  # Add the actual time here
 venue: "Zoom"      # Add the actual venue here
-speaker: "Dr. Luis Figueredo"
+name: "Luis Figueredo"
 speaker_url: "https://www.luisfigueredo.com/"
 host: "Riddhiman Laha and Yuhe Gong" # Add the host name here
 register: "https://us02web.zoom.us/meeting/register/FtZI-nDRT1GXxP-9tBJgEQ" # Add registration link if available
