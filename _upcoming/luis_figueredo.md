@@ -1,5 +1,5 @@
 ---
-title: "Getting Comfortable around Humans: A Path for Close and Physical Human-Robot Collaboration"
+teaser: "Getting Comfortable around Humans: A Path for Close and Physical Human-Robot Collaboration"
 collection: upcoming
 permalink: /upcoming/luis-figueredo
 date: 2025-03-05
