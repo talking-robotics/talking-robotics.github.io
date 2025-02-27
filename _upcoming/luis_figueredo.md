@@ -1,5 +1,4 @@
 ---
-title: "Getting Comfortable around Humans: A Path for Close and Physical Human-Robot Collaboration"
 collection: upcoming
 permalink: /upcoming/luis-figueredo
 date: 2025-03-05
@@ -9,7 +8,6 @@ name: "Luis Figueredo"
 speaker_url: "https://www.luisfigueredo.com/"
 host: "Riddhiman Laha and Yuhe Gong" # Add the host name here
 register: "https://us02web.zoom.us/meeting/register/FtZI-nDRT1GXxP-9tBJgEQ" # Add registration link if available
-
 teaser: "Getting Comfortable around Humans: A Path for Close and Physical Human-Robot Collaboration"
 link: "/talks/luis_figueredo"
 ---
