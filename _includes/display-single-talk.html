@@ -1,7 +1,9 @@
 <div class="{{ include.type | default: "list" }}item">
     <article class="archiveitem" itemscope itemtype="http://schema.org/CreativeWork">
         {% if post.date %} {{post.date | date: "%-d %B %Y" }} <br> {% endif %} 
-        {% if post.name %} <strong>{{post.name}} </strong> <br>{% endif %}
+        {% if post.time %} at {{ post.time }} {% endif %} <br> {% endif %} 
+        {% if post.name %} Speaker: <strong>{{post.name}} </strong> <br>{% endif %}
+        {% if post.host %} Host: {{ post.host }} {% endif %} <br> {% endif %} 
         {% if post.teaser %} {{post.teaser}} <br>{% endif %}
         {% if post.link %} <a href="{{post.link}}">Details</a> <br>{% endif %}
         {% if post.register %} <a href="{{post.register}}">Register</a> <br>{% endif %}
