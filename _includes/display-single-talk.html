@@ -2,7 +2,7 @@
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
         {% for post in site.upcoming %}
         {{ post.date | date: "%-d %B %Y" }} at {{ post.time }}<br>
-        Speaker: {{ post.name }}</p>{% if post.host %} <br> Host: {{ post.host }}{% endif %}<br>
+        Speaker: {{ post.name }} {% if post.host %} <br> Host: {{ post.host }}{% endif %}<br>
         <strong>{{ post.teaser }}</strong>
         <a href="{{ post.link }}">Details</a>{% if post.register %}| <a href="{{ post.register }}">Register</a>{% endif %}{% else %}<br>
         To be announced.{% endfor %}
