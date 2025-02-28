@@ -22,7 +22,7 @@ Talks Schedule
 
 {% for post in site.upcoming %}
   {% include display-single-talk.html %}
-{% else %}
+{% endfor %}
   <p>To be announced.</p>
 {% endfor %}
 
