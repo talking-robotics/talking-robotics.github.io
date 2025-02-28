@@ -3,7 +3,7 @@
     {% if page.date %} {{page.date | date: "%-d %B %Y" }} <br> {% endif %}
     {% if page.time %} at {{ page.time }} <br>{% endif %}
     {% if page.name %} Speaker: <strong>{{page.name}}</strong> <br>{% endif %}
-    {% if page.host %} Host: {{ page.host }} <br>{% endif %}
+    {% if post.host %} Host: {{ post.host }} <br>{% endif %}
     {% if page.teaser %} {{page.teaser}} <br>{% endif %}
     {% if page.link %} <a href="{{page.link}}">Details</a> <br>{% endif %}
     {% if page.register %} <a href="{{page.register}}">Register</a> <br>{% endif %}
