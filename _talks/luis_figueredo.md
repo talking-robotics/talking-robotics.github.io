@@ -8,7 +8,7 @@ link: "/talks/luis_figueredo"
 ---
 
 ### Speaker 
-Dr. Luis Figueredo is an Assistant Professor specializing in human-centric robotics. His research focuses on developing intelligent robotic systems that can safely and effectively collaborate with humans in various environments.
+Luis Figueredo is an Assistant Professor specializing in human-centric robotics. His research focuses on developing intelligent robotic systems that can safely and effectively collaborate with humans in various environments.
 His interdisciplinary work spans geometric methods for manipulation and control, complex object manipulation, cooperative manipulation systems, safe physical human-robot interaction, and both implicit and explicit human-robot communication. Additional research interests include biomechanics-aware assistive robotics and applications of control theory and geometric algebra in robotic systems.
 Professor Figueredo leads a dynamic research group dedicated to solving real-world robotics challenges through collaborative and interdisciplinary approaches. He firmly believes that meaningful advances in the field require cross-disciplinary cooperation and perspective—along with a steady supply of coffee.
 
