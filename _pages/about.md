@@ -20,13 +20,9 @@ If you would like to nominate anyone (including yourself!) as a speaker, or have
 
 Talks Schedule
 ======
-{% if site.upcoming.size > 0 %}
-  {% for post in site.upcoming %}
-    {% include _includes/display-single-talk.html post=post %}
-  {% endfor %}
-{% else %}
-  <p>To be announced.</p>
-{% endif %}
+{% for post in site.upcoming %}
+  {% include display-single-talk.html post=post %}
+{% endfor %}
 
 Join Us
 ======
