@@ -17,12 +17,12 @@ We host a podcast series that is released on [Spotify](https://open.spotify.com/
 
 If you would like to nominate anyone (including yourself!) as a speaker, or have any feedback whatsoever about the format or content about our talks, please visit our [feedback](https://talking-robotics.github.io//feedback/) page.
 
+
 Talks Schedule
 ======
-
 {% if site.upcoming.size > 0 %}
   {% for post in site.upcoming %}
-    {% include display-single-talk.html post=post %}
+    {% include _includes/display-single-talk.html post=post %}
   {% endfor %}
 {% else %}
   <p>To be announced.</p>
