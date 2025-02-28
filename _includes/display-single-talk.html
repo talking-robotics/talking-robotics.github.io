@@ -1,12 +1,11 @@
-<div class="{{ include.type | default: "list" }}item">
+<div class="{{ include.type | default: 'list' }}item">
   <article class="archiveitem" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if post.date %} {{post.date | date: "%-d %B %Y" }} <br> {% endif %}
-    {% if post.time %} at {{ post.time }} <br>{% endif %}
-    {% if post.name %} Speaker: <strong>{{post.name}}</strong> <br>{% endif %}
-    {% if post.host %} Host: {{ post.host }} <br>{% endif %}
-    {% if post.teaser %} {{post.teaser}} <br>{% endif %}
-    {% if post.link %} <a href="{{post.link}}">Details</a> <br>{% endif %}
-    {% if post.register %} <a href="{{post.register}}">Register</a> <br>{% endif %}
-    <br>
+    {% if include.post.date %} {{include.post.date | date: "%-d %B %Y" }} <br> {% endif %}
+    {% if include.post.time %} at {{ include.post.time }} <br>{% endif %}
+    {% if include.post.name %} Speaker: <strong>{{include.post.name}}</strong> <br>{% endif %}
+    {% if include.post.host %} Host: {{ include.post.host }} <br>{% endif %}
+    {% if include.post.teaser %} {{include.post.teaser}} <br>{% endif %}
+    {% if include.post.link %} <a href="{{include.post.link}}">Details</a> <br>{% endif %}
+    {% if include.post.register %} <a href="{{include.post.register}}">Register</a> <br>{% endif %}
   </article>
 </div>
