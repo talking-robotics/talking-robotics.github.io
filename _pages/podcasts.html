@@ -1,0 +1,10 @@
+---
+layout: archive
+title: "Past Talks"
+permalink: /podcasts/
+author_profile: true
+---
+
+{% for post in site.podcasts reversed %}
+  {% include display-single-talk.html post=post %}
+{% endfor %}
