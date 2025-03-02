@@ -179,7 +179,7 @@ body:hover .visually-hidden button {
   vertical-align: middle;
 }
 
-/* social icons*/
+/* social icons
 
 .social-icons {
   .fa {
@@ -288,7 +288,24 @@ body:hover .visually-hidden button {
   }
 }
 
-
+*/
+.social-icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+  a {
+    color: #888 !important;
+    
+    &:hover {
+      color: #555 !important;
+    }
+  }
+  
+  li {
+    margin: 0 0.3rem;
+  }
+}
 /*
    Navicons
    ========================================================================== */
