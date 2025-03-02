@@ -1,6 +1,6 @@
 <div class="{{ include.type | default: 'list' }}item">
   <article class="archiveitem" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.post.date %} {{include.post.date | date: "%-d %B %Y" }} <br> {% endif %}
+    {% if include.post.date %} {{include.post.date | date: "%-d %B %Y" }} {% endif %}
     {% if include.post.time %} at {{ include.post.time }} <br>{% endif %}
     {% if include.post.name %} Speaker: <strong>{{include.post.name}}</strong> <br>{% endif %}
     {% if include.post.host %} Host: {{ include.post.host }} <br>{% endif %}
