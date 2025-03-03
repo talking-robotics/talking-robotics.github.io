@@ -330,12 +330,22 @@ ul.social-icons,
 
 /* Add linktree icon styling - can use tree icon */
 .fa-linktree:before {
-  content: "\f1bb"; /* Font Awesome tree icon code */
+  content: "\f1bb"; /* Font Awesome 5 tree icon code */
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
 }
 
-/* Make sure X Twitter icon works correctly */
-.fa-x-twitter:before {
-  content: "\f099"; /* Use Twitter icon code */
+/* Option 2: If Option 1 doesn't work, add this CSS and use fa-tree instead */
+.author__urls .fa-tree {
+  font-size: 1.4em; /* Match your other icon sizes */
+}
+
+/* CSS-based X icon using ::before content */
+.fa-x-twitter-custom:before {
+  content: "𝕏"; /* Unicode X character that resembles the X logo */
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: bold;
 }
 /*
    Navicons
