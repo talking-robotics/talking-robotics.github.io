@@ -340,6 +340,15 @@ ul.social-icons,
   font-size: 1.4em; /* Match your other icon sizes */
 }
 
+.custom-linktree {
+  font-size: 1.4em;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(1.2) rotate(22.5deg); /* Rotate to match Linktree's icon orientation */
+}
+
 /* CSS-based X icon using ::before content */
 .fa-x-twitter-custom:before {
   content: "𝕏"; /* Unicode X character that resembles the X logo */
