@@ -328,25 +328,19 @@ ul.social-icons,
   color: #888 !important;
 }
 
-/* Add linktree icon styling - can use tree icon */
-.fa-linktree:before {
-  content: "\f1bb"; /* Font Awesome 5 tree icon code */
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-}
 
 /* Option 2: If Option 1 doesn't work, add this CSS and use fa-tree instead */
 .author__urls .fa-tree {
   font-size: 1.4em; /* Match your other icon sizes */
 }
 
-.custom-linktree {
-  font-size: 1.4em;
+.custom-linktree-icon {
+  display: inline-block;
+  font-size: 1.3em; 
   font-weight: bold;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  transform: scale(1.2) rotate(22.5deg); /* Rotate to match Linktree's icon orientation */
+  line-height: 1;
+  margin-top: -0.1em;
+  vertical-align: middle;
 }
 
 /* CSS-based X icon using ::before content */
