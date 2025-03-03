@@ -5,6 +5,23 @@
 /*
    Default button
    ========================================================================== */
+.btn--x {
+  background-color: #000;
+  color: #fff;
+}
+
+.btn--x:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.x-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  margin-right: 0.2em;
+}
 
 .btn {
   /* default button */
