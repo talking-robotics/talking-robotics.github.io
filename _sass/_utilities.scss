@@ -289,10 +289,13 @@ body:hover .visually-hidden button {
 }
 
 */
+/* Updated Social Icons CSS */
 .social-icons {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap; /* Prevent wrapping */
   justify-content: center;
+  margin: 0; /* Remove any margin on the container */
+  padding: 0; /* Remove any padding on the container */
   
   a {
     color: #888 !important;
@@ -303,8 +306,25 @@ body:hover .visually-hidden button {
   }
   
   li {
-    margin: 0 0.15rem; /* Reduced margin */
+    margin: 0; /* Remove margin completely */
+    padding: 0 0.1rem; /* Add minimal padding horizontally */
+    display: inline-block;
   }
+  
+  /* Make icons slightly larger */
+  i {
+    font-size: 1.3em;
+  }
+}
+
+/* If you need to target specific elements in the navigation */
+ul.author__urls, 
+ul.social-icons {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 /*
    Navicons
