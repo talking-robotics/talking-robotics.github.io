@@ -290,15 +290,18 @@ body:hover .visually-hidden button {
 
 */
 /* Updated Social Icons CSS */
+/* Updated Social Icons CSS */
 .social-icons {
   display: flex;
   flex-wrap: nowrap; /* Prevent wrapping */
   justify-content: center;
-  margin: 0; /* Remove any margin on the container */
-  padding: 0; /* Remove any padding on the container */
+  gap: 0; /* Use gap instead of margins for more consistent spacing */
+  margin: 0; 
+  padding: 0; 
   
   a {
     color: #888 !important;
+    padding: 0.05rem; /* Minimal padding */
     
     &:hover {
       color: #555 !important;
@@ -306,18 +309,18 @@ body:hover .visually-hidden button {
   }
   
   li {
-    margin: 0; /* Remove margin completely */
-    padding: 0 0.1rem; /* Add minimal padding horizontally */
+    margin: 0;
+    padding: 0;
     display: inline-block;
   }
   
   /* Make icons slightly larger */
   i {
-    font-size: 1.3em;
+    font-size: 1.4em;
   }
 }
 
-/* If you need to target specific elements in the navigation */
+/* Remove all spacing between social icons */
 ul.author__urls, 
 ul.social-icons {
   display: flex;
@@ -325,6 +328,12 @@ ul.social-icons {
   list-style-type: none;
   padding: 0;
   margin: 0;
+  gap: 0;
+}
+
+/* For the X (Twitter) icon */
+.fa-x-twitter:before {
+  content: "\f099"; /* This uses the Twitter icon code */
 }
 /*
    Navicons
