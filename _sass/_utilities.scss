@@ -290,50 +290,52 @@ body:hover .visually-hidden button {
 
 */
 /* Updated Social Icons CSS */
-/* Updated Social Icons CSS */
-.social-icons {
-  display: flex;
-  flex-wrap: nowrap; /* Prevent wrapping */
-  justify-content: center;
-  gap: 0; /* Use gap instead of margins for more consistent spacing */
-  margin: 0; 
-  padding: 0; 
+.social-icons a {
+  color: #888 !important;
+  padding: 0;
+  margin: 0;
   
-  a {
-    color: #888 !important;
-    padding: 0.05rem; /* Minimal padding */
-    
-    &:hover {
-      color: #555 !important;
-    }
-  }
-  
-  li {
-    margin: 0;
-    padding: 0;
-    display: inline-block;
-  }
-  
-  /* Make icons slightly larger */
-  i {
-    font-size: 1.4em;
+  &:hover {
+    color: #555 !important;
   }
 }
 
-/* Remove all spacing between social icons */
+.social-icons li {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+.social-icons i {
+  font-size: 1.4em;
+}
+
+/* Apply to both author URLs and social icons lists */
 ul.author__urls, 
-ul.social-icons {
+ul.social-icons,
+.author__urls-wrapper ul {
   display: flex;
   flex-direction: row;
+  flex-wrap: nowrap;
   list-style-type: none;
   padding: 0;
   margin: 0;
   gap: 0;
 }
 
-/* For the X (Twitter) icon */
+/* Fix for the social-icons specific color */
+.social-icons a {
+  color: #888 !important;
+}
+
+/* Add linktree icon styling - can use tree icon */
+.fa-linktree:before {
+  content: "\f1bb"; /* Font Awesome tree icon code */
+}
+
+/* Make sure X Twitter icon works correctly */
 .fa-x-twitter:before {
-  content: "\f099"; /* This uses the Twitter icon code */
+  content: "\f099"; /* Use Twitter icon code */
 }
 /*
    Navicons
