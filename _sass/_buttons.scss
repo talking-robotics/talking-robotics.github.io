@@ -23,14 +23,14 @@
   margin-right: 0.2em;
 }
 
-/* Substack button styling */
+/* Substack button styling with correct brand orange */
 .btn--substack {
-  background-color: #FF6719;
+  background-color: #FF6905; /* Substack's brand orange */
   color: #fff;
 }
 
 .btn--substack:hover {
-  background-color: #E55300;
+  background-color: #E55E00; /* Darkened version for hover state */
   color: #fff;
 }
 
