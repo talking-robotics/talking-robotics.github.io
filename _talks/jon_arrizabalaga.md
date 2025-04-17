@@ -8,7 +8,7 @@ link: "/talks/jon_arrizabalaga"
 ---
 
 ### Speaker 
-on Arrizabalaga is a PhD Candidate at the Technical University of Munich and a visiting researcher at the Robotics Institute at Carnegie Mellon University. Before pursuing his doctoral studies, Jon obtained his MSc. degree at KTH Royal Institute of Technology and wrote the MSc. Thesis at the robotics department of Bosch Research. His research focuses on the convergence of optimization, planning, and control, particularly in their applications to robotics and autonomous systems.
+Jon Arrizabalaga is a PhD Candidate at the Technical University of Munich and a visiting researcher at the Robotics Institute at Carnegie Mellon University. Before pursuing his doctoral studies, Jon obtained his MSc. degree at KTH Royal Institute of Technology and wrote the MSc. Thesis at the robotics department of Bosch Research. His research focuses on the convergence of optimization, planning, and control, particularly in their applications to robotics and autonomous systems.
 
 Speaker Links: [Website](https://jonarriza96.github.io/) - [Google Scholar](https://scholar.google.com/citations?user=bFpUBy0AAAAJ&hl=en) - [X](https://twitter.com/jonarriza96)
 
