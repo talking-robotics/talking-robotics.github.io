@@ -6,7 +6,7 @@ date: 2025-06-25
 time: "09:00 PDT - 12:00 EDT - 18:00 CEST"
 venue: "Zoom"
 name: "Emile Kroeger"
-host: "Gabriella Miles"
+host: "Silvia Tulli"
 register: "https://bit.ly/talkingrobotics83"
 link: "/talks/emile_kroeger"
 abstract: >
