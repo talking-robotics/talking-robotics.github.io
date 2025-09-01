@@ -11,7 +11,5 @@ host: "Silvia Tulli"
 register: "https://us02web.zoom.us/meeting/register/08ESuZheRDCHf8QnTOmo6Q"
 link: "/talks/nicolas_perrin"
 abstract: >
-    I will present Yomix, an interactive tool designed to explore low-dimensional embeddings of omics data, along with related work carried out in collaboration between ISIR and the Curie Institute. 
-    
-    On the robotics and reinforcement learning side, I will introduce O3P, a library for off-policy and offline RL that I am currently developing. I will also highlight AFU, a recent method enabling online RL with an algorithmic approach that, until now, had proven effective only in offline settings.
+    The talk will present Yomix, an interactive tool designed to explore low-dimensional embeddings of omics data, along with related work carried out in collaboration between ISIR and the Curie Institute. On the robotics and reinforcement learning side, the talk will introduce O3P, a library for off-policy and offline RL that is currently being developed. It will also highlight AFU, a recent method enabling online RL with an algorithmic approach that, until now, had proven effective only in offline settings.
 ---
