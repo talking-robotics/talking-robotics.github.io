@@ -8,7 +8,7 @@ venue: "Zoom"
 name: "Sebastian Castro"
 speaker_url: "https://roboticseabass.com/"
 host: "Niveditha Kalavakonda"
-register: ""
+register: "https://us02web.zoom.us/meeting/register/bhrIRTIXT7i7O8YGPBAp9w"
 link: "/talks/sebastian_castro"
 abstract: >
     In this talk, Sebastian outlines two dichotomies that keep roboticists awake at night: hand-engineered vs. machine learning based solutions, and approachable vs. unapproachable software design. While these seem unrelated at the outset, there are similarities in how designing systems to be understood by a broader audience can provide downstream benefits. Sebastian will present case studies inspired by his own experiences in task and motion planning, manipulation, and robot learning to argue for approachable systems design.
