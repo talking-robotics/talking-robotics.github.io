@@ -13,8 +13,12 @@ Merle Mirjam Reimann is a Postdoctoral researcher at KTH Royal Institute of Tech
 
 
 ### Papers covered
-- *What Can You Say to a Robot? Capability Communication Leads to More Natural Conversations*
-- *Transparent Conversational Agents: The Impact of Capability Communication on User Behavior and Mental Model Alignment*
+
+**[What Can You Say to a Robot? Capability Communication Leads to More Natural Conversations](https://doi.org/10.1109/HRI61500.2025.10974151)**  
+Merle M. Reimann, Koen V. Hindriks, Florian A. Kunneman, Catharine Oertel, Gabriel Skantze, and Iolanda Leite. 2025. In *Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25)*. IEEE Press, 708–716. DOI: [10.1109/HRI61500.2025.10974151](https://doi.org/10.1109/HRI61500.2025.10974151)
+
+**[Transparent Conversational Agents: The Impact of Capability Communication on User Behavior and Mental Model Alignment](https://doi.org/10.1145/3719160.3736629)**  
+Merle M. Reimann, Florian A. Kunneman, Catharine Oertel, and Koen V. Hindriks. 2025. In *Proceedings of the 7th ACM Conference on Conversational User Interfaces (CUI '25)*. Association for Computing Machinery, New York, NY, USA, Article 48, 1–12. DOI: [10.1145/3719160.3736629](https://doi.org/10.1145/3719160.3736629)
 
 **Motivation and context:** *Social robots in the wild and the novelty effect*; *A survey on dialogue management in human-robot interaction*.
 
