@@ -20,3 +20,6 @@ I'll walk through three recent works, each occupying one role. TOPReward treats 
 
 
 Together, these works sketch a path beyond imitation: a stack in which pretrained VLMs reward, steer, and reason about action — making robot learning more sample-efficient, more robust to distribution shift, and more transparent.
+
+
+<iframe width="1404" height="790" src="https://www.youtube.com/embed/pOYgp-J5plw" title="Jiafei Duan - MolmoAct2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
