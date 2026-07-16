@@ -2,9 +2,11 @@
 layout: talk
 type: "Talk"
 date: 2026-06-17
+time: "9 AM PDT | 12 PM EDT | 6PM CEST"
 name: "Ahmad Ahmad"
 teaser: "Quantitative Temporal Logic for Safe and Robust Planning, Learning, and Control"
 link: "/talks/ahmad_ahmad"
+register: "https://us02web.zoom.us/meeting/register/Xa9XYGscSdKB61Fd3-56JA"
 ---
 
 
