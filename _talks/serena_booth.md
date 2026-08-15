@@ -2,9 +2,11 @@
 layout: talk
 type: "Talk"
 date: 2026-07-29
+time: "9 AM PDT | 12 PM EDT | 6 PM CET"
 name: "Serena Booth"
 teaser: "Soliciting and Interpreting Human Preferences"
 link: "/talks/serena_booth"
+register: "https://us02web.zoom.us/meeting/register/D2QbEzuaSDSq6v0b8w9Afw"
 ---
 
 
